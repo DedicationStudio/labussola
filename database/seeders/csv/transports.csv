@@ -1,0 +1,32 @@
+1;NULL;Bus;NULL;;2023-01-11 16:21:34;2024-05-05 15:18:36;NULL
+2;NULL;Aereo;NULL;;2023-01-11 16:21:42;2023-01-11 16:21:42;NULL
+3;NULL;Macchina;NULL;;2023-01-11 16:21:57;2023-01-11 16:21:57;NULL
+4;NULL;Bus da 30 posti;NULL;;2023-01-11 16:26:04;2023-01-11 16:26:04;NULL
+5;NULL;Bus da 64 posti;NULL;;2023-01-11 16:26:12;2023-01-11 16:26:12;NULL
+6;7;treno;trenitalia o Italo;;2023-02-04 17:04:49;2023-02-04 17:06:05;NULL
+7;NULL;Italotreno;Compagnia ferroviaria per alta velocità;;2023-02-24 09:08:33;2023-02-24 09:08:57;2023-02-24 09:08:57
+8;NULL;volo ITC;volo charter , operativo volo soggetto a riconferma con partenze settimanali.;;2023-03-30 14:08:01;2023-03-30 14:08:01;NULL
+9;NULL;Bus 84 posti;Bus 84 posti;;2023-07-27 19:56:22;2023-07-27 19:56:22;NULL
+10;NULL;BUS DA 76 POSTI;BUS DA 76 POSTI;;2023-09-11 12:32:42;2023-09-11 12:32:42;NULL
+11;NULL;Bus 56 + 36;NULL;;2023-09-11 14:54:11;2023-09-11 14:54:11;NULL
+12;NULL;supplemento treno;supplemento per cambio tariffa;;2023-10-27 16:38:07;2023-10-27 16:38:07;NULL
+13;14;Bus 60 persone;NULL;;2023-11-25 18:18:56;2023-11-25 18:18:56;NULL
+14;14;Bus 63 persone;NULL;;2023-11-25 18:19:15;2023-11-25 18:19:15;NULL
+15;NULL;CHIAPPETTA TURISMO S.r.l.;NULL;;2023-12-02 10:56:27;2023-12-02 10:56:27;NULL
+16;NULL;Bus GT 52 posti, dotato di sedili reclinabili, impianto audio, video, macchinetta caffè e frigobar.;Bus privato Gran Turismo dotato di sedili reclinabili, impianto audio, video, macchinetta caffè e frigobar.;;2024-01-13 08:42:17;2024-01-13 08:44:12;NULL
+17;NULL;supplemento volo;supplemento per cambio tariffa aereo per pax;;2024-02-05 14:01:23;2024-02-05 14:01:23;NULL
+18;NULL;solo bus;servizio di trasporto bus per uscita didattica;;2024-02-09 14:20:12;2024-02-09 14:20:12;NULL
+19;NULL;TRAGHETTO;NULL;;2024-05-27 18:36:57;2024-05-27 18:36:57;NULL
+20;NULL;Aer Lingus;NULL;;2024-06-14 08:18:15;2024-06-14 08:18:15;NULL
+21;NULL;STAV Autolinee;NULL;;2024-07-25 10:47:41;2024-07-25 10:47:41;NULL
+22;NULL;Bus 54 posti;noleggio bus in loco per spostamenti;;2024-09-26 22:15:23;2025-06-19 11:13:14;NULL
+23;NULL;Bus 58 posti;NULL;;2024-10-03 17:02:15;2024-10-03 17:02:15;NULL
+24;NULL;BUS;NULL;;2024-10-10 18:50:09;2024-11-27 15:45:34;NULL
+25;NULL;Traghetto;NULL;;2024-10-15 06:31:43;2024-10-15 06:31:43;NULL
+26;NULL;Bus 28 posti;NULL;;2024-11-10 17:50:42;2024-11-10 17:50:42;NULL
+27;NULL;DG bus;NULL;;2025-01-31 17:54:45;2025-01-31 17:55:58;2025-01-31 17:55:58
+28;NULL;autoservizi Borghi;noleggi bus GT su tutto il territorio;;2025-02-04 15:18:21;2025-02-04 15:18:21;NULL
+29;NULL;Trasporto pubblico;NULL;;2025-03-04 18:04:31;2025-03-04 18:04:31;NULL
+30;NULL;Treno estero;NULL;;2025-04-01 20:06:18;2025-04-01 20:06:18;NULL
+31;NULL;AEGEAN;NULL;;2025-05-08 23:20:32;2025-05-08 23:20:32;NULL
+32;NULL;Trasferimento privato in minibus;NULL;;2025-06-06 10:45:13;2025-06-06 10:45:13;NULL

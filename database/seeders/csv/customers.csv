@@ -1,0 +1,965 @@
+1;;Simone;Gerbaudo;NULL;NULL;NULL;NULL;NULL;NULL;NULL;sergio.colavecchia@gmail.com;NULL;2023-01-11 17:20:18;2023-01-12 14:34:48;NULL
+2;;Rosy;Nappo;ISTITUTO LABOR;NULL;NULL;NULL;NULL;NULL;NULL;direzione@istitutolabor.it;NULL;2023-01-14 02:00:46;2023-08-24 12:22:11;NULL
+3;;Prova;Provetta;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2023-01-17 07:30:23;2023-01-17 16:57:59;2023-01-17 16:57:59
+4;;GIULIA;RUSSO;IST.PREZIOSISSIMO SANGUE;NULL;Via Riccardi 5;Milano;20132;Milano;Italia;preziosine@clerici.lombardia.it;NULL;2023-01-17 16:57:49;2023-02-01 21:23:07;NULL
+5;;Sergio;Colavecchia;La Bussola srl;NULL;Via Altaguardia, 1;NULL;20135;Milano;NULL;s.colavecchia@istitutozaccaria.it;3477559985;2023-01-22 23:22:04;2023-01-25 19:47:49;NULL
+6;;Emilia;Crifò;NULL;CRFMGS91C59F112O;VIA MODORATI 1;monza;20900;milano;italia;EMILIA.CRIFO@YAHOO.IT;3477696048;2023-02-04 15:13:24;2024-12-15 14:19:19;NULL
+7;;MATTIA;VASARIN;LICEO PASCOLI DI BOLZANO;NULL;Via Grazia Deledda 4;BOLZANO;39100;BZ;ITALIA;mattia.vasarin@scuola.alto-adige.it;471923361;2023-02-04 16:19:02;2023-02-04 16:19:02;NULL
+8;;Liceo statale;Erasmo da Rotterdam;NULL;p.iva 94511030150 / Codice Univoco di Fatturazione Elettronica: UF4NSH;viale italia 409;Sesto San Giovanni;20099;milano;italia;mipm070008@istruzione.it;22428129;2023-02-04 20:46:19;2023-02-04 20:46:19;NULL
+9;;CLAUDIA;PERRONE CAPUANO;IC DI NOVATE MILANESE;NULL;NULL;NULL;NULL;NULL;NULL;perronecapano.claudia@icmontessori.edu.it;3334833383;2023-02-05 16:17:14;2023-03-07 16:26:15;NULL
+10;;michela;gladiatori;NULL;NULL;via cavour 81;motta visconti;20086;mi;italia;mikimey2@hotmail.it;NULL;2023-02-05 17:20:18;2023-02-05 17:20:18;NULL
+11;;Benedetta;Bondesan;Ist Gianelli;NULL;NULL;Roma;NULL;NULL;NULL;presidenza.gianelli@gmail.com;67013990;2023-02-06 12:00:14;2023-02-06 12:00:14;NULL
+12;;istituto statale di Istruzione Superiore;"""LUIGI EINAUDI"" DI DALMINE";I.S.I.S. EINAUDI  DALMINE;95002070167;VIA VERDI 48;DALMINE;24044;BERGAMO;ITALIA;bgis01100b@istruzione.it;035 561129;2023-02-10 21:58:00;2023-02-21 12:27:02;NULL
+13;;istituto tecnico  superiore;Giulio Natta;IST. NATTA Milano;80113190153;via Don Giovannni Calabria 16;milano;20132;mi;italia;didattica@itasnatta.edu.it;02 2590083;2023-02-14 01:36:30;2024-12-13 12:29:30;NULL
+14;;Paola;Molino;ICS VENEGONO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2023-02-14 21:11:25;2023-02-14 21:11:25;NULL
+15;;ISTITUO D'ISTRUZIONE SUPERIORE;LUIGI GALVANI;NULL;NULL;VIA FRANCESCO GATTI 14;MILANO;20162;MILANO;ITALIA;MIIS05400X@istruzione.it;26435651;2023-02-14 23:26:15;2023-02-14 23:26:15;NULL
+16;;Sofia;Sangermano;Pitagora;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2023-02-15 12:21:42;2023-02-15 12:21:42;NULL
+17;;istituto comprensivo;Cavalieri;NULL;97218580153;Via Anco Marzio, 9;milano;20123;NULL;NULL;miic814009@istruzione.it;02 88446248;2023-02-15 13:17:19;2023-02-15 13:17:19;NULL
+18;;istituto comprensivo;G. Capponi;ic Gino Capponi;NULL;via Pestalozzi 13;milano;20100;mi;NULL;miic8cy00p@istruzione.it;288444723;2023-02-16 20:55:38;2023-02-27 15:45:07;NULL
+19;;Paola;Molino;ICS VENEGONO;NULL;NULL;NULL;NULL;NULL;NULL;vaic86200l@istruzione.it;NULL;2023-02-16 22:21:57;2023-02-17 09:33:01;NULL
+20;;"istituto sup. ""B Russell""";B. Russell;Istituto superiore B. Russell;80125870156;via Gatti, 16;Milano;20162;mi;NULL;miis03900t@istruzione.it;26430051;2023-02-17 11:45:37;2023-02-17 11:45:37;NULL
+21;;Suor;Patrizia;Orsoline di San Carlo;NULL;Via Lanzone;Milano;NULL;Mi;Italia;segreteria@mediaorsoline.it;272010563;2023-02-17 11:46:28;2023-02-17 11:46:28;NULL
+22;;liceo scientifico M. Fanti;scientifico;"Liceo Scientifico ""Manfredo Fanti""";81001160365;via Peruzzi, 7;Carpi (MO);41012;Mo;italia;mops030002@istruzione.it;059 691177;2023-02-17 17:38:06;2023-02-17 17:38:34;NULL
+23;;Antonella;Folino;IC GIOVANNI XXIII;NULL;NULL;Cusano Milanino;NULL;MI;Italia;antonella.folino@icgio23.edu.it;NULL;2023-02-17 17:50:26;2023-02-17 17:50:26;NULL
+24;;ic Italo Calvino;ISTITUTO COMPRENSIVO I. Calvino;Ic Italo Calvino;NULL;NULL;noverasco;NULL;mi;NULL;giuseppe.gargiulo@istitutocalvino.edu.it;NULL;2023-02-18 08:17:14;2023-02-20 23:58:03;NULL
+25;;Liceo Statale;Piero Gobetti;NULL;NULL;Via Spinola di San Pietro, 1;Genova;16149;Genova;Italia;gepm030004@istruzione.it;010646 9787;2023-02-19 11:37:01;2023-02-19 11:37:01;NULL
+26;;Istituto Comprensivo;P. Thouar e L. Gonzaga;NULL;NULL;Via Odoardo Tabacchi, 15/a;Milano;20136;Milano;Italia;rossana.saglimbene@thouargonzaga.edu.it;02 88440480;2023-02-21 08:59:42;2023-02-21 08:59:42;NULL
+27;;Stefania;Ortu;NULL;NULL;NULL;NULL;NULL;NULL;NULL;stefania.ortu@icparcodiveio.it;NULL;2023-02-21 18:06:30;2023-02-21 18:06:30;NULL
+28;;Ic. G. GALILEI - G. MAZZINI;GALILEO - MAZZINI;IC GALILEO MAZZINI;91024330879;VIA DALIA;GRAMMICHELE (CT);NULL;CATANIA;ITALIA;CTIC8AJ00G@ISTRUZIONE.IT;933940071;2023-02-23 16:57:21;2023-02-23 16:57:21;NULL
+29;;Istituto professionale per odontotecnici;Santa Apollonia;NULL;NULL;Via Lazio 65;Taranto;74121;Taranto;Italia;NULL;997302389;2023-02-24 10:10:06;2023-02-24 10:10:06;NULL
+30;;Muriel;Russo;ACOF Olga Fiorini cooperativa sociale onlus;NULL;via A. Costa, 29 - via Varzi, 16;Busto Arsizio (Va);21052;milano;italia;muriel.russo@acof.it;0331 677777;2023-02-25 11:44:30;2023-02-25 11:44:30;NULL
+31;;Giovanni;Monaco;"ic ""BISMANTOVA"" CASTELNOVO NE' MONTI";80015470356;VIA U. SOZZI 1;CASTELNOVO NE MONTI;42035;MO;NULL;reic839008@istruzione.it;522812342;2023-02-25 12:49:24;2023-02-25 12:49:24;NULL
+32;;ISTITUTO COMPRENSIVO;MANTOVA 3;NULL;NULL;Via della Conciliazione 75;Mantova;46100;Mantova;Italia;ufficio.contabilita@icmantova3.com;376326496;2023-02-26 14:03:09;2023-02-26 14:03:09;NULL
+33;;istituto comprensivo Daniele Manin;IC COMPRENSIVO DANIELE MANIN;NULL;97100420583;Via N. Bixio, 83;roma;185;RM;italia;rmic81400t@istruzione.it;06 39721081;2023-02-27 16:54:54;2023-02-27 16:54:54;NULL
+34;;Istituto d'Istruzione Superiore;Francesco Alberghetti;NULL;NULL;Via S. Benedetto, 10;Imola;40026;Bologna;Italia;bois01400r@istruzione.it;542691711;2023-02-28 09:07:17;2023-02-28 09:07:17;NULL
+35;;Istituto Tecnico Statale;A. De Simoni - M. Quadrio;NULL;NULL;Via Tonale 14;Sondrio;23100;Sondrio;Italia;sotd070002@istruzione.it;342514516;2023-03-01 21:46:02;2023-03-01 21:46:02;NULL
+36;;IPSEOA;Andrea Barbarigo;NULL;NULL;Campiello Capello, 6395/C;Venezia;30122;Venezia;Italia;verh04000d@istruzione.it;412771293;2023-03-01 22:21:42;2023-03-01 22:21:42;NULL
+37;;International Experiencial;School;NULL;NULL;Via Gandhi 8;Reggio Emilia;42123;Reggio Emilia;Italia;f.semeraro@iexs.it;3516287575;2023-03-02 12:58:12;2023-03-02 12:58:12;NULL
+38;;alessandra;orlanza;NULL;NULL;NULL;NULL;NULL;NULL;NULL;aleorlanza@gmail.com;3771452217;2023-03-02 13:38:11;2023-03-02 14:25:16;NULL
+39;;liceo scienze umane Guggenheim;Guggenheim;Liceo Artistico Statale M. Guggenheim;NULL;Campo dei Carmini;Venezia;30123;ve;italia;vesd020001@istruzione.it;041 5209189;2023-03-04 14:56:47;2023-03-04 14:56:47;NULL
+40;;istituto tecnico De Simoni;De simoni;IST. Tecnico De Simoni - M. Quadrio;93023670149;via tonale, 14;sondrio;23100;so;italia;sotd070002@istruzione.it;0342 514516;2023-03-07 00:16:41;2023-03-07 00:17:11;2023-03-07 00:17:11
+41;;istituto comprensivo;Monteriggioni;IC MONTERIGGIONI (SIENA);NULL;PIAZZA EUROPA, 1;S. MARTINO, MONTIRIGGIONI;53035;SIENA;ITALIA;siic81200b@istruzione.it;3392053547;2023-03-07 12:58:54;2025-02-05 23:08:53;NULL
+42;;IC;GRANAROLO DELL'EMILIA;NULL;NULL;Via Roma, 30;Granarolo dell'Emilia;40057;Bologna;Italia;boic82600v@istruzione.it;516004291;2023-03-08 12:27:43;2023-03-08 12:27:43;NULL
+43;;federico;semeraro;IEXS SCHOOL;NULL;NULL;REGGIO EMILIA;NULL;NULL;NULL;f.semeraro@iexs.it;39 351 62.87.575;2023-03-08 13:05:54;2023-03-12 21:59:05;NULL
+44;;FRANCESCA;FISCELLA;Canadian school of Milan;NULL;via m. gioia 42;Milano;20124;mi;italia;francesca.fiscella@canadianschool.it;267074775;2023-03-11 09:34:24;2025-01-31 11:47:10;NULL
+45;;Istituto d'Istruzione Superiore;Ferrini-Franzosini;NULL;NULL;Via Massara, 8;Pallanza;28922;Verbania;Italia;vbis00200q@istruzione.it;323401407;2023-03-14 10:44:47;2023-03-14 10:44:47;NULL
+46;;Istituto d'Istruzione Superiore;Edith Steina;NULL;NULL;Via dei Gelsomini, 14;Gavirate;21026;Varese;Italia;visite.istruzione@steingavirate.edu.it;332745525;2023-03-15 12:04:56;2023-03-15 12:04:56;NULL
+47;;Catriona Ruth;Smith;NULL;NULL;NULL;NULL;NULL;NULL;NULL;csmithcotos@gmail.com;NULL;2023-03-15 19:27:09;2023-03-15 19:27:09;NULL
+48;;Scuola Militare Aeronautica;G. Douhet;NULL;NULL;Viale dell'Aeronautica, 14;Firenze;50144;Firenze;Italia;aeroscuoladouhet.co2@aeronautica.difesa.it;552704820;2023-03-16 12:46:42;2023-03-16 12:46:42;NULL
+49;;ISTITUTO COMPRENSIVO;MONTE SAN PIETRO;NULL;NULL;Via IV Novembre, 4;Calderino;40050;Bologna;Italia;querzel@gmail.com;NULL;2023-03-17 09:30:07;2023-03-17 09:30:07;NULL
+50;;istituto;vespucci di Gallipoli;NULL;NULL;NULL;gallipoli;NULL;NULL;NULL;leis00700d@istruzione.it;3497881761 claudio imperiale;2023-03-18 14:02:14;2023-03-18 14:02:14;NULL
+51;;giorgio;DIpierno;istituto Galdus;NULL;NULL;Milano;NULL;mi;NULL;dipierno@galdus.it;NULL;2023-03-20 10:30:07;2023-03-20 10:30:07;NULL
+52;;ACOF Olga Fiorini;Cooperativa Sociale;NULL;NULL;Via Varzi, 16;Busto Arsizio;21052;Varese;Italia;muriel.russo@acof.it;331624318;2023-03-21 07:28:35;2023-03-21 07:28:35;NULL
+53;;Daniela;Missori;istituto e. Fermi;80016570204;strada Spolverinna 5;Mantova;46100;MN;NULL;mnis01100e@istruzione.it;376262675;2023-03-22 07:30:29;2023-03-22 07:30:29;NULL
+54;;ELENA;SIMONI;IISCAFFE';NULL;NULL;NULL;NULL;NULL;NULL;simoni.elena@iiscaffe.it;3272529958;2023-03-22 08:05:03;2023-03-22 08:05:03;NULL
+55;;Silvana;Fassati;IIS L. CREMONA - Pavia;NULL;NULL;NULL;NULL;NULL;NULL;pvis01300b@istruzione.it;NULL;2023-03-23 23:00:13;2023-03-23 23:00:13;NULL
+56;;francesca;sainaghi;amica Michela;NULL;NULL;NULL;NULL;NULL;NULL;francesca.sainaghi@gmail.com;333 465 3654;2023-03-30 14:05:25;2023-03-30 14:05:43;NULL
+57;;Simona;Cruciani;ISTITUTO COMPRENSIVO TIVOLI 1;94065540588;Via Acquaregna, 112,;tivoli;19;RM;italia;simonacruciani@tivoliuno.edu.it;0744 312194;2023-04-07 17:35:02;2023-04-07 17:56:37;NULL
+58;;EX LAB;Il Laboratorio delle Idee;NULL;NULL;Via Papa Giovanni Paolo Primo, 6;Bolladello di Cairate;21050;Varese;Italia;segreteria.exlab@gmail.com;3406521430;2023-04-14 07:09:18;2023-04-14 07:09:18;NULL
+59;;Luca;Finelli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;luca.finelli@sanzeno.org;NULL;2023-04-14 10:57:27;2023-04-16 18:39:42;NULL
+60;;Maurizio;Scovotto;NULL;NULL;NULL;NULL;NULL;NULL;NULL;scovottomaurizio@gmail.com;3394922630;2023-04-18 11:20:21;2023-04-18 11:20:21;NULL
+61;;ANNAMARIA;PAPA;ISTITUTO COMPRENSIVO G.PUCCINI;NULL;NULL;LUCCA;NULL;NULL;NULL;luic84500t@istruzione.it;NULL;2023-04-26 11:28:48;2023-04-26 11:28:48;NULL
+62;;Luca;Chiesi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;prof.chiesi.luca@darzo.net;3288611674;2023-04-28 15:29:30;2023-04-28 15:29:30;NULL
+63;;Istituto d'Istruzione Superiore;Silvio D'Arzo;NULL;NULL;Strada S. Ilario, 28/C;Montecchio Emilia RE;NULL;Reggio Emilia;NULL;reis00400d@istruzione.it;522866198;2023-04-28 15:35:12;2023-04-28 15:35:12;NULL
+64;;Liceo Ginnasio Statale;Alessandro Manzoni;NULL;NULL;Via Orazio, 3;Milano;20123;Milano;Italia;ufficio_acquisti@liceomanzoni.net;2876589;2023-05-18 09:12:09;2024-01-04 12:43:07;NULL
+65;;SCUOLA PRIMARIA LAMBERT;di BARDONECCHIA;P.P.LAMBERT;NULL;NULL;Bardonecchia;NULL;NULL;NULL;toee137001@istruzione.it;NULL;2023-05-19 14:53:24;2023-05-19 14:53:24;NULL
+66;;Scuola Secondaria 1° grado;M. M. Boiardo;NULL;NULL;Via Tisi da Garofalo Benvenuto, 1;Ferrara;44121;Ferrara;Italia;isa.dallapiccola@gmail.com;532206953;2023-06-14 11:12:23;2023-06-14 11:12:33;NULL
+67;;Elena;Tacconi;Ic Ada Negri;NULL;via Don Milani;Motta Visconti;20086;mi;italia;elena.tacconi2@gmail.com;3381624806;2023-06-19 09:34:12;2023-06-19 09:34:12;NULL
+68;;istituto paritario LABOR;LABOR;ISTITUTO PARITARIO LABOR;NULL;VIA DEGLI ARGINELLI 10;MILANO;20159;MI;NULL;direzione@istitutolabor.it;NULL;2023-06-27 14:46:28;2023-06-27 14:46:28;NULL
+69;;Istituto Comprensivo;Martiri di Sant'Anna di Stazzema;NULL;NULL;Via Don Lazzeri;Pontestazzemese;55040;Lucca;Italia;giovanniboccoli@yahoo.it;584777037;2023-06-29 11:00:43;2023-06-29 11:00:43;NULL
+70;;ANTONELLA;PENNISI;prof della scuola Monteriggioni;NULL;NULL;NULL;NULL;NULL;NULL;antonella.pennisi@gmail.com;320 825 3365;2023-07-05 13:55:54;2023-07-05 13:56:04;NULL
+71;;Associazione Scuola;Steineriana Cometa;NULL;NULL;Via Dionigi Bussola, 9;Milano;20143;Milano;Italia;g.debenedetti@yahoo.it;289305579;2023-07-19 11:31:48;2023-07-19 11:31:48;NULL
+72;;Elisabetta;Vicario;NULL;NULL;NULL;NULL;NULL;NULL;NULL;elisabetta.vicario@icgerolamocardano.edu.it;NULL;2023-07-23 20:57:10;2023-07-23 20:57:10;NULL
+73;;AFOL;Cesate;NULL;NULL;Via C. Romanò 39;Cesate;20031;Milano;Italia;segreteria.cesate@afolmet.it;02 99065235;2023-07-30 10:21:26;2023-07-30 10:21:26;NULL
+74;;Simone;Gerbaudo;NULL;NULL;NULL;NULL;NULL;NULL;NULL;simone@adveragroup.com;NULL;2023-07-31 19:29:41;2023-07-31 19:29:41;NULL
+75;;Istituto Comprensivo;Duca degli Abruzzi;NULL;NULL;Via Garibaldi 90;Borghetto Lodigiano;26812;Lodi;Italia;nadiarachele.matri@icborghettolodigiano.edu.it;37180389;2023-08-08 20:34:19;2023-08-08 20:34:19;NULL
+76;;test;invio;NULL;NULL;NULL;NULL;NULL;NULL;NULL;ion.kingteam@gmail.com;NULL;2023-08-11 14:40:47;2023-08-11 14:40:47;NULL
+77;;istituto comprensivo Alcamo;Nino Navarra;ic Nino Navarra;80003900810;via j.f. Kennedy 1 - 91011 Alcamo (TP);Alcamo;91011;trapani;italia;tpic81000x@istruzione.it;0924 421674;2023-08-22 08:01:14;2023-08-22 08:01:14;NULL
+78;;ANNALISA;VENTURA.;IC FALCONE BORSELLINO;97048910588;Via Giovanni da Procida;ROMA;162;ROMA;ITALIA;ANNALISA.VENTURA@FALCONEBORSELLINO.EDU.IT;644266693;2023-08-23 09:50:10;2023-08-23 09:50:10;NULL
+79;;LAURA;MIONE;IC CINISELLO BALSAMO;NULL;NULL;CINISELLO BALSAMO;NULL;MI;NULL;sunrak68@gmail.com;NULL;2023-08-24 09:38:12;2023-08-24 09:38:12;NULL
+80;;Afol;Monza Brianza;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2023-08-24 10:22:34;2025-01-30 12:07:26;NULL
+81;;Marco;Colombo;ic Liguria Rozzano;NULL;NULL;Rozzano;NULL;NULL;NULL;colomb78@icloud.com;NULL;2023-08-24 16:27:00;2023-08-24 16:27:00;NULL
+82;;Alessio;Biscotto;NULL;NULL;NULL;NULL;NULL;NULL;NULL;info@alessiobiscotto.com;NULL;2023-08-25 12:36:29;2023-08-25 12:36:29;NULL
+83;;Liceo Artistico Statale;Caravaggio;NULL;NULL;Via Luigi Prinetti, 47;Milano;20127;Milano;Italia;misl020003@istruzione.it;22846948;2023-08-29 08:41:03;2023-08-29 08:41:03;NULL
+84;;carlo;a;NULL;NULL;NULL;NULL;NULL;NULL;NULL;carlo.88900@gmail.com;NULL;2023-09-01 08:44:20;2023-09-01 08:44:20;NULL
+85;;Istituto Comprensivo;Fermi;NULL;NULL;Via Enrico Fermi, 10;Matera;75100;Matera;Italia;maricamail23@gmail.com;835381615;2023-09-06 12:22:52;2023-09-06 12:22:52;NULL
+86;;salvatore;pozzuto;liceo M. Galanti di Campobasso;NULL;NULL;Roma;NULL;NULL;NULL;cbpm040008@istruzione.it;874413702;2023-09-08 13:37:08;2023-09-27 20:39:08;NULL
+87;;Vanna;Forza;NULL;NULL;NULL;NULL;NULL;NULL;NULL;smile_1955@libero.it;NULL;2023-09-11 12:25:45;2023-09-11 15:46:21;NULL
+88;;ISTITUTO SUORE MARIA CONSOLATRICE MILANO;CRISTINA MISSAGLIA;NULL;1798650154;Via Melchiorre Gioia, 51;MILANO;20124;MI;Italia;cristina.missaglia@scuolaismc.com;347 4367555;2023-09-11 15:59:33;2023-09-11 19:45:23;NULL
+89;;Marika;Savoia;Ic A. Diaz di Gessate;NULL;NULL;NULL;NULL;NULL;NULL;miic8A6001@istruzione.it;3389020506;2023-09-12 12:52:41;2023-12-29 19:47:17;NULL
+90;;Luisa Anna;Bertoletti;scuola privata di Pavia;NULL;NULL;NULL;NULL;NULL;NULL;luisaannab@yahoo.it;347 7682862;2023-09-13 12:25:27;2023-09-13 12:25:50;NULL
+91;;Istituto Comprensivo Statale;Ippolito Nievo;NULL;NULL;Via Torino, 4;Cinto Caomaggiore;30020;Venezia;Italia;veic825004@istruzione.it;421209501;2023-09-14 11:09:10;2023-09-14 11:09:10;NULL
+92;;Istituto Comprensivo;Monteverdi;NULL;NULL;Via C. Monteverdi;Porto Mantovano;46047;Mantova;Italia;arch.mariabarone@gmail.com;376398781;2023-09-14 11:52:31;2023-09-14 11:52:31;NULL
+93;;TANJA;MALLOZZI;ISTITUTO GOBETTI DE LIBERO;NULL;Via S. Magno, Via Pietro Gobetti, 2, 04022 Fondi LT;FONDI;NULL;LATINA;NULL;tmallozzi@libero.it;0771 501926;2023-09-14 16:31:50;2023-09-14 16:31:50;NULL
+94;;KATJA;PATRUNO;"ISTITUTO COMPRENSIVO STATALE  ""PEROTTI - RUFFO""";NULL;Via Convento, 156 - 70020;CASSANO DELLE MURGE;NULL;BARI;NULL;katja.patruno@iccassanodellemurge.edu.it;3890760230;2023-09-15 10:39:23;2023-09-15 10:39:23;NULL
+95;;LAURA;MIONE;ISTITUTO COMPRENSIVO GARIBALDI;NULL;NULL;CINISELLO BALSAMO;NULL;MI;NULL;NULL;NULL;2023-09-15 13:50:48;2023-09-15 13:50:48;NULL
+96;;Scuola Montessori;Almese;NULL;NULL;Via Circonvallazione, 63;Almese;10040;Torino;Italia;roberto_carena@yahoo.it;3398412862;2023-09-16 13:02:44;2023-09-16 13:02:44;NULL
+97;;Istituto Comprensivo Statale;Dolo;NULL;NULL;Via Novembre, 2;Dolo;30031;Venezia;Italia;chiara.carletti@istitutocomprensivodolo.edu.it;041 410114;2023-09-17 12:31:01;2023-09-17 12:32:37;NULL
+98;;Giovina;fiore;Secondaria san Bernardino;NULL;NULL;siena;NULL;NULL;NULL;secondaria.sanbernardino@ic2siena.it;NULL;2023-09-18 13:38:10;2023-09-18 13:38:10;NULL
+99;;Stefania;Sgamardella;ic Montalcini di Cernusco sul naviglio;NULL;NULL;Cernusco sul naviglio;NULL;mi;NULL;stefania.sgaramella@icmontalcinicernusco.edu.it;NULL;2023-09-20 10:37:03;2023-09-20 10:37:03;NULL
+100;;I.T.C.G.;ALBERTO BAGGI;NULL;NULL;Via San Luca;Sassuolo;41049;Modena;Italia;stabile@baggi.istruzioneer.it;536803122;2023-09-20 13:07:25;2023-09-20 13:07:25;NULL
+101;;Liceo Classico Statale;Stabili-Trebbiani;NULL;NULL;Viale Sinibaldo Vellei, 10;Ascoli Piceno;63100;Ascoli Piceno;Italia;faber5269@gmail.com;0736 259783;2023-09-21 11:29:03;2023-09-21 11:29:03;NULL
+102;;IIS;Marelli-Dudovich;NULL;NULL;Via Livigno, 11;Milano;20158;Milano;Italia;lianademiro@libero.it;02 688 4122;2023-09-22 13:12:48;2023-09-22 13:13:29;NULL
+103;;istituto comprensivo;ITALO SVEVO TRIESTE;istituto comprensivo  ITALO SVEVO TRIESTE;NULL;NULL;NULL;NULL;NULL;NULL;tsic81000l@istruzione.it;40827220;2023-09-24 13:35:21;2023-09-24 14:19:11;NULL
+104;;IOLE;MARTELLA;IC SCIALOIA DI MILANO;NULL;NULL;NULL;NULL;NULL;NULL;iolemarte@hotmail.com;3397730675;2023-09-24 23:10:55;2023-09-24 23:10:55;NULL
+105;;Agata;ramunno;ic Diaz Laterza;NULL;NULL;NULL;NULL;NULL;NULL;agataramunno@icdiazlaterza.edu.it;347 3888819;2023-09-25 12:59:02;2023-09-25 12:59:32;NULL
+106;;Giusy;Omnicomprensivo Europeo;Istituto Omnicomprensivo Europeo;NULL;NULL;Arconate;NULL;Milano;Italia;acquisti@omnicomprensivoeuropeo.edu.it;331461318;2023-09-26 11:44:16;2023-09-26 11:44:16;NULL
+107;;Liceo Statale;Lorenzo Rocci;NULL;NULL;Viale della Gioventù, 16;Passo Corese;2032;Rieti;Italia;laura.mareri@liceorocci.edu.it;0765 487219;2023-09-26 12:09:56;2023-09-26 12:09:56;NULL
+108;;Istituto;San Paolo;NULL;NULL;Via Casilina, 1606;Roma;133;Roma;Italia;NULL;NULL;2023-09-26 16:46:15;2024-09-21 13:26:38;NULL
+109;;ICS;Da Vinci;NULL;NULL;Via Leonardo Da Vinci, 34;Cornaredo;20007;Milano;Italia;barbara.mereghetti@icsviadavinci.edu.it;02 9326 3512;2023-09-28 07:18:10;2023-09-28 07:18:10;NULL
+110;;liceo statale;Beccaria;Liceo Statale Beccaria;NULL;Via Linneo 5 - 20145 Milano;Milano;NULL;NULL;NULL;mipc040008@istruzione.it;Tel. 02/344815;2023-09-28 12:08:49;2023-09-28 12:08:49;NULL
+111;;Istituto Comprensivo;Emilio De Marchi;NULL;NULL;Via IV Novembre, 49;Paderno Dugnano;20037;Milano;Italia;andrea.lombardo@icdemarchi.edu.it;02 918 1747;2023-09-28 12:33:19;2023-09-28 12:33:19;NULL
+112;;Licam;Liceo classico, artistico e musicale;NULL;NULL;Viale Giacomo Matteotti, 2;Aosta;11100;Aosta;Italia;m.milleret@mail.scuole.vda.it;3420466979;2023-09-29 06:10:02;2023-09-29 06:10:02;NULL
+113;;Istituto Statale Superiore;Betty Ambiveri;NULL;NULL;Via C. Berizzi, 1;Presezzo;24030;Bergamo;Italia;bgis00300c@istruzione.it;035 610251;2023-09-29 13:26:07;2023-09-29 22:29:55;NULL
+114;;Ilaria;Tameni;IC MARCONI;NULL;NULL;Concorezzo;NULL;Monza e della Brianza;NULL;ilaria.tameni@icconcorezzo.edu.it;3962800700;2023-09-29 13:27:54;2023-09-29 13:27:54;NULL
+115;;Michela;Anselmo;Istituto Superiore Alessandrini Mainardi;NULL;NULL;Vittuone;NULL;Milano;NULL;michela.anselmo@alessandrinimainardi.edu.it;3462281794;2023-09-30 07:17:48;2023-09-30 07:17:48;NULL
+116;;Alessandro;Ducoli;IIS. MENEGHINI di Edolo (BS);NULL;NULL;NULL;NULL;NULL;NULL;alessandro58ducoli@gmail.com;3386271606;2023-09-30 10:17:25;2023-09-30 10:17:25;NULL
+117;;Istituto d'Istruzione Superiore;Augusto Capriotti;NULL;NULL;Via Guido Sgattoni, 41;San Benedetto del Tronto;63074;Ascoli Piceno;Italia;paola.talame@iiscapriotti.edu.it;0735 656349;2023-09-30 13:19:57;2023-09-30 13:19:57;NULL
+118;;Pierluigi;Marotta;ARCA;1730281001;via di villa patrizi 2/b;Roma;161;RM;NULL;acquisti@arca-enel.it;06-44294313;2023-09-30 17:14:16;2023-10-01 09:02:40;NULL
+119;;Roberta;Gironacci;scuola di ballo Madboots Ancona;NULL;NULL;NULL;NULL;NULL;NULL;vacanze.madboots@gmail.com;NULL;2023-10-02 17:04:12;2023-10-02 17:04:12;NULL
+120;;Liceo Artistico Statale;Umberto Boccioni;NULL;NULL;Piazza Arduino, 4;Milano;20149;Milano;Italia;ufficio.contabilita@lasboccioni.it;02 4801 9249;2023-10-02 19:55:35;2023-10-02 19:55:35;NULL
+121;;ITIS;Alessandro Rossi;NULL;NULL;Via Legione Gallieno, 52;Vicenza;36100;Vicenza;Italia;vitf02000x@istruzione.it;0444 500566;2023-10-04 20:05:25;2023-10-04 20:05:25;NULL
+122;;Liceo Statale;Margherita di Castelvì;NULL;NULL;Viale Enrico Berlinguer;Sassari;7100;Sassari;Italia;mibianco59@gmail.com;079 235170;2023-10-07 12:16:50;2023-10-07 12:16:50;NULL
+123;;ITIS;Guegliemo Marconi;NULL;NULL;Via Giuseppe Verdi, 60;Dalmine;24044;Bergamo;Italia;paolo.semperboni@itisdalmine.edu.it;035 561230;2023-10-08 16:48:59;2023-10-08 16:48:59;NULL
+124;;AFOL;San Donato Milanese;NULL;NULL;Via Ferruccio Parri, 12;San Donato Milanese;20097;Milano;Italia;ivana.miceli73@gmail.com;02 523 0255;2023-10-11 11:42:16;2023-10-11 11:42:16;NULL
+125;;Istituto Comprensivo;Martiri della Libertà Sesto san Giovanni;NULL;NULL;NULL;Sesto San Giovanni;NULL;Milano;NULL;miic8a5005@istruzione.it;2365831;2023-10-13 08:18:09;2023-10-16 12:53:45;NULL
+126;;"ISTITUTO ISTRUZIONE SUPERIORE ""RITA LEVI-MONTALCINI""";DI ACQUI TERME;NULL;NULL;NULL;ACQUI TERME;NULL;NULL;NULL;ALIS003006@ISTRUZIONE.IT;NULL;2023-10-13 09:09:55;2023-10-13 09:09:55;NULL
+127;;Fondazione Roncalli;Formazione;NULL;NULL;Piazza Calzolaio d’Italia 11;Vigevano;27029;Pavia;Italia;formazione@fondazioneroncalli.eu;0381 095000;2023-10-13 20:28:15;2023-10-13 20:28:15;NULL
+128;;Istituto Comprensivo;Padre Gemelli;NULL;NULL;Corso Lombardia, 98;Torino;10151;Torino;Italia;marina.derogatis@padregemelli.net;011 731758;2023-10-15 13:25:37;2023-10-15 13:25:37;NULL
+129;;matilde;Casaramona;Ic Novate Milanese;NULL;NULL;NULL;NULL;NULL;NULL;matilde.casaramona@icsnovate.it;NULL;2023-10-16 10:16:19;2023-10-16 12:43:24;NULL
+130;;IPS;Luigi Einaudi;NULL;NULL;Via Giovanni Spezzaferri, 7;Lodi;26900;Lodi;Italia;bonvinigiogia04@gmail.com;0371 36488;2023-10-16 12:08:01;2023-10-16 12:08:01;NULL
+131;;i.s. Puecher;Olivetti;is Puecher - olivetti Rho;NULL;NULL;rho;NULL;NULL;NULL;miis08900v@istruzione.it;NULL;2023-10-18 07:55:16;2023-10-18 07:55:16;NULL
+132;;Istituto Leonardo Da Vinci -;Seveso (MB);NULL;NULL;NULL;Seveso (Monza Brianza);NULL;NULL;NULL;giuseppe.gravano@icviadegasperi.edu.it;501796;2023-10-21 09:23:23;2023-10-21 09:23:23;NULL
+133;;Liceo Artistico Statale;Paolo Toschi;NULL;NULL;Viale Paolo Toschi, 1;Parma;43121;Parma;Italia;luciacataldo300@gmail.com;0521 282270;2023-10-22 07:40:36;2023-10-22 07:40:36;NULL
+134;;Pietro;dinnoncenzo;ITIS  pascal;NULL;NULL;NULL;NULL;NULL;NULL;pietro.dinnocenzo@itispascal.it;NULL;2023-10-23 11:13:52;2023-10-23 11:14:12;NULL
+135;;ROBERTA;NISCO;ITCS FRANCESCHINI;NULL;VIA TEVERE 21;RHO;20017;MILANO;ITALIA;NULL;NULL;2023-10-23 13:04:57;2023-10-23 13:04:57;NULL
+136;;FRANCESCO;SQUILLACE;IIS MONTALE;NULL;NULL;NULL;NULL;NULL;NULL;MIIS02800B@istruzione.it;NULL;2023-10-23 13:08:06;2024-01-09 02:13:31;NULL
+137;;Convitto Nazionale;Marco Foscarini;NULL;NULL;NULL;Venezia;NULL;NULL;NULL;martinabiasotto@gmail.com;3666525932;2023-10-23 13:59:16;2023-10-23 13:59:16;NULL
+138;;LICEO BECCARIA;MILANO;NULL;NULL;NULL;MILANO;NULL;NULL;NULL;paola.spaghi@virgilio.it;3386758787;2023-10-23 15:10:59;2023-10-24 07:30:51;NULL
+139;;MATTEO;PATRIGNANELLI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;matteo.patrignanelli@gmail.com;NULL;2023-10-24 07:17:05;2023-10-24 07:17:05;NULL
+140;;DSGA;Primo Levi di San donato Milanese;"Liceo ""Primo Levi""";80126050154;Via Martiri Cefalonia, 46;San Donato Milanese;20097;Milano;Italia;mips11000c@istruzione.it;02 5569 1211;2023-10-24 20:31:53;2024-09-18 22:06:58;NULL
+141;;ISTITUTO COMPRENSIVO;DI COLOGNA VENETA SAN BONIFACIO (VR);NULL;NULL;NULL;SAN BONIFACIO;NULL;VERONA;NULL;bozzamichela@gmail.com;NULL;2023-10-25 08:48:11;2023-10-25 08:48:11;NULL
+142;;Scuola Media;Cadenazzo;NULL;NULL;Via Prati Grandi 2;Cadenazzo;6593;NULL;Svizzera;loara.frigerio@edu.ti.ch;+41 91 814 03 11;2023-10-25 11:31:46;2023-10-25 11:31:46;NULL
+143;;LICEO;CORTONA;NULL;NULL;NULL;CORTONA;NULL;AREZZO;NULL;marco.montedori@liceicortona.it;3292055680;2023-10-26 08:48:11;2023-10-26 08:48:11;NULL
+144;;Istituto d'Istruzione Superiore;Federigo Enriques;NULL;NULL;Viale Duca d'Aosta, 65;Castelfiorentino;50051;Firenze;Italia;valeriamerli@hotmail.it;0571 633083;2023-10-26 10:47:19;2023-10-26 10:47:19;NULL
+145;;PATRIZIA E FEDERICA;IC. MASSAZZA;"Istituto comprensivo ""A. Massazza""";NULL;NULL;NULL;NULL;NULL;NULL;pvic80400c@istruzione.it;384820010;2023-10-26 13:02:26;2023-10-26 13:23:26;NULL
+146;;M. SANTOMAURO;MOLFETTA (BA);NULL;NULL;NULL;MOLFETTA;NULL;BARI;NULL;annacicco74@gmail.com;NULL;2023-10-27 13:54:16;2023-10-27 13:54:16;NULL
+147;;ISTITUTO CALVINO;ROZZANO;NULL;NULL;NULL;MILANO;NULL;NULL;NULL;mercedes.auteri@istitutocalvino.edu.it;NULL;2023-10-28 14:40:40;2023-10-28 14:40:40;NULL
+148;;istituto superiore;Cannizzaro;ITIS Cannizzaro Rho;NULL;NULL;NULL;NULL;NULL;NULL;mitf13000q@istruzione.it;02 9303576;2023-10-30 06:49:57;2025-01-27 11:54:52;NULL
+149;;Liceo Internazionale per l'Impresa;Guido Carli;NULL;NULL;Via Stretta, 175;Brescia;25136;Brescia;Italia;NULL;030 221086;2023-10-30 12:59:35;2023-10-30 12:59:35;NULL
+150;;giovanna;colognoli;aurora lyceumm college;NULL;NULL;NULL;NULL;NULL;NULL;dirigente@auroralyceumcollege.it;02/90962586;2023-10-30 13:10:05;2023-10-30 13:10:05;NULL
+151;;antonio;amato;ic cinque giornate Milano;NULL;NULL;NULL;NULL;NULL;NULL;amato.antonio@iccinquegiornate.edu.it;NULL;2023-10-30 15:56:05;2023-10-30 15:56:05;NULL
+152;;ISTITUTO MAGGIOLINI;PARABIAGO;NULL;NULL;NULL;NULL;NULL;PARABIAGO;NULL;tregnago.monica@libero.it;3332394671;2023-10-30 16:11:49;2023-10-30 16:11:49;NULL
+153;;Laura;Gilardi;IC. Ada Negri Motta Visconti;NULL;NULL;NULL;NULL;NULL;NULL;MIIC872009@istruzione.it;NULL;2023-10-30 21:56:28;2023-10-30 21:56:28;NULL
+154;;Istituto Pavoniano;Artigianelli;NULL;NULL;Piazza di Fiera, 4;Trento;38122;Trento;Italia;silvia.franceschini@artigianelli.tn.it;0461 270244;2023-11-02 12:21:38;2023-11-02 12:21:38;NULL
+155;;Istituto d'Istruzione Superiore;Eugenio Montale;NULL;NULL;Via Timavo, 63;Genova;16132;Genova;Italia;monica.molon@iismontalegenova.it;103761308;2023-11-03 09:34:00;2023-11-03 09:34:00;NULL
+156;;Cristina;Musajo;ITCS FRANCESCHINI;NULL;VIA TERRAZZANO 24;RHO;20017;MILANO;ITALIA;NULL;NULL;2023-11-03 14:41:24;2023-11-03 14:41:24;NULL
+157;;camilla;bonadonna;istituto comprensivo Niccolò Pisano;NULL;NULL;Marina di Pisa;NULL;NULL;NULL;bonadonna.camilla@icpisano.edu.it;328 412 2347;2023-11-04 12:40:22;2023-11-04 12:40:22;NULL
+158;;Istituto d'Istruzione Superiore;Luca Signorelli;NULL;NULL;Vicolo del Teatro, 4;Cortona;52044;Arezzo;Italia;aris001001@istruzione.it;0575 603626;2023-11-04 13:18:05;2023-11-04 13:18:05;NULL
+159;;MARIANGELA;SCIANNIMANICO;NULL;NULL;NULL;BARI;NULL;NULL;NULL;m.sciannimanico@hotmail.it;3388939063;2023-11-04 17:49:53;2023-11-04 17:49:53;NULL
+160;;ALESSANDRA;LOMBARDO;ISTITUTO COMPRENSIVO TIRABOSCHI;NULL;via passaggio rodari, 1;Paladina;NULL;Bg;NULL;alessandra.lombardo@icpaladina.it;3486917458;2023-11-05 09:47:05;2023-11-05 09:47:05;NULL
+161;;floriana;morello;Ic . Principessa Elena;NULL;NULL;Palermo;NULL;NULL;NULL;morellofloriana01@gmail.com;3332954573;2023-11-05 15:18:21;2023-11-05 15:18:21;NULL
+162;;Istituto comprensivo;Valceresio;NULL;NULL;NULL;varese;NULL;NULL;NULL;vais00400r@istruzione.it;NULL;2023-11-05 16:04:12;2023-11-05 16:04:23;NULL
+163;;ISTITUTO D’ISTRUZIONE;SUPERIORE “Luca Signorelli”;NULL;NULL;Vicolo del Teatro, 4 –;Cortona;52044;AREZZO;NULL;aris001001@istruzione.it;0575 603626;2023-11-06 07:48:42;2023-11-06 07:48:42;NULL
+164;;ISTITUTO COMPRENSIVO;DI FORNO CANAVESE;NULL;NULL;Via Aldo Moro, 9;Forno Canavese;10084;TORINO;NULL;TOIC84800C@istruzione.it;NULL;2023-11-06 09:06:15;2023-11-06 09:06:15;NULL
+165;;Dirigente Scolastico Dott. Marco;Barbisotti;Istituto Comprensivo Statale di via Dante - Voghera;95032790180;via Dante, 3;Voghera;27058;PV;Italia;PVIC827005@ISTRUZIONE.IT;0383 41759;2023-11-06 09:21:03;2024-08-23 08:56:35;NULL
+166;;Istituto d'Istruzione Superiore;A. Martini;NULL;NULL;Via P. Maraschin, 9;Schio;36015;Vicenza;Italia;silvia.urbani@martini.edu.it;0445 523118;2023-11-06 13:49:41;2023-11-06 13:49:41;NULL
+167;;Scuola Paritaria Salesiana;Valsalice;NULL;NULL;Viale Enrico Thovez, 37;Torino;10131;Torino;Italia;marco.rubiolo@liceovalsalice.it;011 630 0611;2023-11-06 21:10:50;2023-11-06 21:10:50;NULL
+168;;eleonora;cimbro;NULL;NULL;NULL;NULL;NULL;NULL;NULL;eleonora.cimbro@icbrianza.edu.it;NULL;2023-11-08 13:55:23;2023-11-08 13:55:23;NULL
+169;;harman;marok;NULL;NULL;NULL;NULL;NULL;NULL;NULL;harman2005marok@gmail.com;NULL;2023-11-08 14:21:15;2023-11-08 14:21:15;NULL
+170;;CHIARA;COLZANI;ic Beltrami plesso COLLODI;NULL;NULL;ROZZANO;NULL;NULL;NULL;NULL;NULL;2023-11-08 21:01:13;2023-11-08 21:01:13;NULL
+171;;Stefania;Gioia;"Istituti Paritari ""Leonardo da Vinci""";NULL;vai Monsignor Berruti 6;VIGEVANO;27029;PV;Italia;stefania.gioia@istitutildavinci.it;38176110;2023-11-08 21:45:21;2024-04-10 10:10:51;NULL
+172;;GIORGIO;LUALDI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;info@scuolabpi.it;3286575438;2023-11-09 10:57:38;2023-11-09 10:57:38;NULL
+173;;Istituto Tecnico Industriale Statale;Galileo Galilei;NULL;NULL;Via Galileo Galilei, 68;Livorno;57122;Livorno;Italia;litf030009@pec.istruzione.it;586447111;2023-11-09 12:32:44;2023-11-09 12:32:44;NULL
+174;;Convitto Nazionale;Marco Foscarini;NULL;NULL;Canneregio, 4941;Venezia;30121;Venezia;Italia;martinabiasotto@gmail.com;041 522 1970;2023-11-10 07:25:49;2023-11-10 07:25:49;NULL
+175;;Aurora Viaggi;Giramondo;NULL;NULL;NULL;Brescia;NULL;NULL;NULL;AURORAVIAGGIGIRAMONDO@GMAIL.COM;393332993154;2023-11-10 16:42:08;2023-11-10 16:42:08;NULL
+176;;IIS;Piero Martinetti;NULL;NULL;NULL;Caluso;NULL;Torino;NULL;antonella.turletti@iismartinetti.edu.it;390119832445;2023-11-10 18:34:38;2023-11-10 18:34:38;NULL
+177;;Tiziana;ic Nichelino uno;IC Nichelino;NULL;NULL;NULL;NULL;NULL;NULL;toic8a5005@istruzione.it;NULL;2023-11-10 22:37:35;2024-09-14 08:05:16;NULL
+178;;ISIS;Giulio Natta;NULL;NULL;Via Europa, 15;Bergamo;24125;Bergamo;Italia;NULL;NULL;2023-11-11 13:09:11;2023-11-11 13:09:11;NULL
+179;;Istituto;Villa Flaminia;NULL;NULL;Viale del Vignola, 56;Roma;196;Roma;Italia;NULL;NULL;2023-11-11 14:13:02;2023-11-11 14:13:02;NULL
+180;;Valentina;Russo;Liceo Malpighi;NULL;Via Sant'Isaia, 77,;Bologna;40123;BO;Italia;valetottafrida@gmail.com;3317188226;2023-11-12 09:27:04;2023-11-20 07:39:49;NULL
+181;;FABRIZIO;ZAGGIA;LEONE XII;NULL;NULL;NULL;NULL;NULL;NULL;fabrizio.zaggia@leonexiii.it;NULL;2023-11-12 12:17:41;2024-09-18 14:19:44;NULL
+182;;carmen;pisano;ic Brianza;NULL;NULL;bollate;NULL;NULL;NULL;carmen.pisano@icbrianza.edu.it;3339030527;2023-11-12 17:46:18;2023-11-12 17:46:44;NULL
+183;;anna;Segreteria;Scuola Primaria Donadoni - Locatelli;NULL;Via Tasso, 14;Bergamo;24100;BG;NULL;bgic81300v@istruzione.it;35232589;2023-11-13 10:45:26;2024-02-01 13:50:21;NULL
+184;;Carmen;Villani;Istituto di Istruzione Superiore XXV Aprile;NULL;Via XXIV Maggio, 13,;Cuorgnè;10082;TO;NULL;carmen.villani@25aprilefaccio.edu.it;NULL;2023-11-13 17:11:22;2023-11-13 17:12:02;NULL
+185;;ICS DE ANDRE';PESCHIERA BORROMEO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;poggi@icsdeandre.edu.it;3478674995;2023-11-14 16:53:04;2023-11-14 16:53:04;NULL
+186;;GIOVANNI;FORTI;IC Puglisi di Buccinasco;NULL;NULL;BUCCINASCO;NULL;NULL;NULL;NULL;NULL;2023-11-15 20:34:51;2023-11-15 20:34:51;NULL
+187;;IISS;Ettore Majorana;NULL;NULL;Via Partigiani, 1;Seriate;24068;Bergamo;Italia;majorana@ettoremajorana.edu.it;035 297612;2023-11-15 21:20:27;2023-11-15 21:20:27;NULL
+188;;Via A. Frank;Cesena;NULL;NULL;NULL;NULL;NULL;NULL;NULL;nicoletta.placuzzi@viafrankcesena.edu.it;547384746;2023-11-16 16:04:18;2023-11-16 16:04:18;NULL
+189;;Lorenzo;Mambella;Istituto Don Enzoli;NULL;NULL;Pescara;NULL;NULL;NULL;NULL;NULL;2023-11-16 20:18:02;2023-11-16 20:18:02;NULL
+190;;Nicoletta;tegolo;istituto comprensivo Leone Tolstoj;NULL;NULL;Milano;NULL;NULL;NULL;miic8da00n@istruzione.it;NULL;2023-11-16 20:32:03;2023-11-17 11:48:54;NULL
+191;;A.;monza;NULL;NULL;NULL;NULL;NULL;NULL;NULL;amonza@tiscali.it;NULL;2023-11-17 08:13:04;2023-11-17 08:13:04;NULL
+192;;Agenzia Viaggi;Sardivet;NULL;NULL;Viale Sant'Avendrace, 181/A;Cagliari;9122;Cagliari;Italia;NULL;NULL;2023-11-17 08:50:37;2023-11-17 08:50:37;NULL
+193;;Istituto d'Istruzione Superiore;Giacomo Antonietti;NULL;NULL;Via Paolo VI, 3;Iseo;25049;Brescia;Italia;NULL;NULL;2023-11-17 13:20:27;2023-11-17 13:20:27;NULL
+194;;Daniela;Vallini;Liceo Steam International;NULL;Via Nosadella, 47;Bologna;40123;BO;NULL;daniela.vallini@steamschoolemilia.it;334 6551454;2023-11-17 16:22:33;2023-11-17 16:25:09;NULL
+195;;Valeria;Monaco;ic Micheli di Parma;NULL;NULL;NULL;NULL;NULL;NULL;monaco.valeria@icmicheli.edu.it;333 320 3457;2023-11-18 00:53:11;2024-09-24 16:37:34;NULL
+196;;Davide;Tessandri;IC MARCONI di Gorgonzola;NULL;NULL;NULL;NULL;NULL;NULL;davide.tessandri@marconigorgonzola.it;NULL;2023-11-18 09:38:19;2024-10-23 10:59:17;NULL
+197;;marzia;rubega;ic Diaz;NULL;NULL;NULL;NULL;NULL;NULL;marzia.rubega@icdiaz.edu.it;NULL;2023-11-19 23:20:59;2023-11-19 23:20:59;NULL
+198;;Lisa;Chioso;Ist. Albe e Lica Steiner;NULL;NULL;Milano;NULL;NULL;NULL;NULL;giada.chioso@itsosmilano.it;2023-11-20 06:37:03;2023-11-20 06:37:03;NULL
+199;;ISTITUTO COMPRENSIVO;“Aldo PALAZZESCHI”;NULL;NULL;NULL;Torino;NULL;NULL;NULL;toic8ay00l@istruzione.it;1101166270;2023-11-20 15:34:08;2023-11-20 15:34:08;NULL
+200;;ITCS;Maria Lazzari;NULL;NULL;Via Curzio Frasio, 27;Dolo;30031;Venezia;Italia;NULL;NULL;2023-11-21 08:03:15;2023-11-21 08:03:15;NULL
+201;;Istituto Tecnico Statale;Carlo Cattaneo;NULL;NULL;Via Catena, 3;San Miniato;56028;Pisa;Italia;NULL;NULL;2023-11-21 09:29:56;2023-11-21 09:29:56;NULL
+202;;Valentina;Vazzola;"Istituto Comprensivo ""Giacomo Paccini""";83012430159;via Baracca n.25;Sovico;20845;MB;ITALIA;valentina.vazzola@icpaccinisovico.edu.it;039 2013458;2023-11-22 09:42:26;2023-11-22 09:42:53;NULL
+203;;Maria Carla;Rossi;ISTITUTO COMPRENSIVO VIA RUGANTINO 91;NULL;Via Rugantino, 91;Roma;169;RM;Italia;rossimcarla@gmail.com;06 261801;2023-11-22 15:36:21;2023-11-22 15:36:21;NULL
+204;;Alisia;Demi;Istituto Tecnico Sanitario Galileo Galilei;NULL;NULL;Livorno;NULL;NULL;NULL;alisiademi@gmail.com;NULL;2023-11-22 15:48:54;2023-11-22 16:35:10;NULL
+205;;stefania;barrese;scuole Misasi;NULL;Via Giuseppe Galliano, 4/d,;Cosenza CS;87100;NULL;NULL;stefania.barrese@scuolemisasi.it;+39 338 833 1108;2023-11-22 22:09:38;2023-11-22 22:09:38;NULL
+206;;Donato;Pilla;Istituto Comprensivo Monti Dauni - Bovino (FG);NULL;Via dei Mille,;Bovino;71023;FG;Italia;donato.pilla@gmail.com;3201977562;2023-11-23 04:16:36;2023-11-23 04:16:36;NULL
+207;;Istituto Omnicomprensivo;San Colombano;NULL;NULL;Piazza S. Colombano, 5;Bobbio;29022;Piacenza;Italia;NULL;NULL;2023-11-23 11:54:58;2023-11-23 11:54:58;NULL
+208;;Milena;Ciuti;"Istituto Comprensivo Statale ""Iqbal Masih""";NULL;Via Iqbal Masih 7,;Pioltello;20096;MI;Italia;milena.ciuti@iciqbalmasihpioltello.com;29267633;2023-11-23 12:17:53;2023-11-23 12:17:53;NULL
+209;;Francesca;Scuola primaria;"Istituto Comprensivo  ""Verdi"" - Collecchio";80010950345;Via S. Prospero, 9,;Collecchio;43044;PR;Italia;PRIC82400C@istruzione.it;0521.805419;2023-11-23 14:46:27;2023-11-23 14:46:27;NULL
+210;;stefania;franceschini;NULL;NULL;NULL;NULL;NULL;NULL;NULL;stefania.franceschini@barbarigo.edu.it;NULL;2023-11-23 15:48:03;2023-11-23 15:48:03;NULL
+211;;Rosaria;Terranova;Liceo Gorgia Vittorini di Lentini;NULL;NULL;NULL;NULL;NULL;NULL;saraterranova@virgilio.it;3298835920;2023-11-23 17:49:24;2023-11-23 17:49:24;NULL
+212;;Stefania;Barrese;Scuola Media Paritaria Riccardo Misasi;NULL;Via Giuseppe Galliano, 4/d;Cosenza;87100;CS;Italia;stefania.barrese@scuolemisasi.it;0984 190 6354;2023-11-24 10:27:38;2023-11-24 10:27:38;NULL
+213;;marilena;melis;NULL;NULL;NULL;NULL;NULL;NULL;NULL;marilenamelis65@tiscali.it;NULL;2023-11-24 11:28:57;2023-11-24 11:28:57;NULL
+214;;Simona;Varesi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;simona.varesi@gmail.com;3393612497;2023-11-24 14:30:46;2023-11-24 14:30:46;NULL
+215;;Giuseppe;Santagada;Istituto di Istruzione Superiore PACLE ELSA MORANTE;NULL;NULL;NULL;NULL;NULL;NULL;giuseppe.santagada@morante-limbiate.edu.it;NULL;2023-11-24 16:14:38;2023-11-24 16:14:38;NULL
+216;;Patrizia;Gallo;ist. Giovanni XIII;NULL;NULL;Cusano Milanino;NULL;NULL;NULL;patrizia.gallo@icgio23.edu.it;3385064260;2023-11-25 09:41:40;2023-11-25 09:41:40;NULL
+217;;Scuola Secondaria;Martiri del Martinetto;NULL;NULL;Str. di S. Mauro, 24;Torino;10156;Torino;Italia;NULL;NULL;2023-11-25 13:34:54;2023-11-25 13:34:54;NULL
+218;;Istituto Tecnico Tecnologico;Camillo Rondani;NULL;NULL;Viale Maria Luigia, 9;Parma;43125;Parma;Italia;NULL;NULL;2023-11-25 14:23:48;2023-11-25 14:23:48;NULL
+219;;vito;fioravante;ist. Moscardini di Venezia;NULL;NULL;NULL;NULL;NULL;NULL;vito_fioravante@yahoo.it;3382705904;2023-11-28 11:12:20;2023-11-28 11:12:20;NULL
+220;;Maria Cristina;D'Elia;NULL;NULL;NULL;Potenza;NULL;NULL;NULL;mariacristina.delia@tiscali.it;3332895038;2023-11-28 19:44:01;2023-11-28 19:44:13;NULL
+221;;ISIS;Cipriano Facchinetti;NULL;NULL;Via Azimonti C. I., 5;Castellanza;21053;Varese;Italia;NULL;NULL;2023-11-28 21:12:23;2023-11-28 21:12:23;NULL
+222;;Istituto d'Istruzione Superiore;Schiaparelli-Gramsci;NULL;NULL;Via Luigi Settembrini,4;Milano;20124;Milano;Italia;NULL;NULL;2023-11-28 21:56:38;2023-11-28 21:56:38;NULL
+223;;silvia;preite;ics pascoli;NULL;NULL;NULL;NULL;NULL;NULL;s.preite@icspascoli-mi.edu.it;NULL;2023-11-29 11:41:24;2023-11-29 11:41:24;NULL
+224;;Susanna;Sini;Istituto Comprensivo Luigi Settembrini;NULL;NULL;Roma;NULL;NULL;Italia;sini_susanna.miinala.d@icsettembriniroma.it;3200333317;2023-11-29 16:37:03;2023-11-29 16:37:03;NULL
+225;;CAMPUS;MOLINATTO;NULL;NULL;Via Molinatto, 15;OGGIONO;23848;LECCO;NULL;segreteria@campusmolinatto.it;341576314;2023-11-30 09:51:09;2023-11-30 09:51:09;NULL
+226;;Eleonora;Cafici;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2023-11-30 21:27:00;2023-11-30 21:27:00;NULL
+227;;Liceo Classico;Giuseppe Parini;NULL;NULL;Via Goito, 4;Milano;20121;Milano;Italia;NULL;NULL;2023-12-01 21:22:08;2023-12-01 21:22:08;NULL
+228;;SABRINA;BARBA;ITAer De Pinedo;NULL;NULL;ROMA;NULL;NULL;NULL;NULL;NULL;2023-12-02 15:58:09;2023-12-02 15:58:09;NULL
+229;;LISA;.;IST SAN MICHELE;NULL;NULL;VERONA;NULL;NULL;NULL;NULL;NULL;2023-12-02 20:22:26;2023-12-02 20:23:24;NULL
+230;;LICEO PARINI;MILANO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;info@liceoparini.edu.it;NULL;2023-12-04 09:20:47;2023-12-04 09:20:47;NULL
+231;;ivan;pizzuto;"Liceo scientifico ""G.Berto"" Mogliano Veneto";NULL;NULL;NULL;NULL;NULL;NULL;tvps04000q@istruzione.it;NULL;2023-12-04 14:16:20;2023-12-22 15:30:43;NULL
+232;;Roberta;Procopio;Istituto G. Marconi;83504190154;via Adda 10;Gorgonzola;20064;MI;Italia;roberta.procopio@marconigorgonzola.it;02 95 13 516;2023-12-04 16:19:30;2025-03-17 11:53:36;NULL
+233;;Letizia;Santucci;ic . Pestalozzi;NULL;NULL;NULL;NULL;NULL;NULL;Letizia9@hotmail.it;NULL;2023-12-04 23:06:12;2023-12-04 23:06:12;NULL
+234;;Francesca;Romano;ist. Piersanti - Mattarella;NULL;NULL;Roma;NULL;NULL;NULL;fraromano83@gmail.com;NULL;2023-12-04 23:30:03;2023-12-04 23:30:03;NULL
+235;;istituto;Cerebotani;istituto cerebotani;NULL;NULL;NULL;NULL;NULL;NULL;bsis03300r@istruzione.it;NULL;2023-12-05 11:54:05;2023-12-05 11:54:05;NULL
+236;;Riccardo;Ielmini;ic Dante alighieri di Cuveglio;NULL;NULL;NULL;NULL;NULL;NULL;vaic830005@istruzione.it;NULL;2023-12-05 17:12:22;2023-12-05 17:12:22;NULL
+237;;Luisa;Zubelli;Arbe Zara;NULL;NULL;NULL;NULL;NULL;NULL;miic8dg00l@istruzione.it;3474230003;2023-12-07 23:47:14;2024-01-17 23:33:44;NULL
+238;;"Liveo Statale ""Primo Levi""";San Donato Milanese;NULL;NULL;Via Martiri di Cefalonia, 46;NULL;NULL;NULL;NULL;MIPS11000C@istruzione.it;02/55691211;2023-12-08 08:20:08;2023-12-08 08:20:08;NULL
+239;;paola;curatolo;ist.statale boccioni di Milano;NULL;NULL;NULL;NULL;NULL;NULL;curatolo.paola@lasboccioni.it;NULL;2023-12-09 11:25:39;2023-12-09 11:25:39;NULL
+240;;IIS CATERINA;DA SIENA;IIS CATERINA DA SIENA MILANO;NULL;NULL;NULL;NULL;NULL;NULL;commissione.viaggi@iiscaterinadasiena.edu.it;22871197;2023-12-09 23:38:48;2024-01-03 09:40:04;NULL
+241;;Lviania;Valerio;Istituto Comprensivo Via Maffi;NULL;via Pietro Maffi 45;Roma;168;NULL;Italia;valerio.lavinia@icmaffi.edu.it;3298019446;2023-12-15 10:17:50;2023-12-15 10:17:50;NULL
+242;;Roberta;Folletti;"Istituto Tecnico Economico ""Antonio Bordoni""";NULL;via San Carlo, 2;Pavia;27100;PV;Italia;robertafolletti@gmail.com;0382 22243;2023-12-19 16:35:16;2023-12-19 16:35:16;NULL
+243;;Angela;Saviano;Istituto IEXS - International Experiential School;NULL;via Gandhi 8;Reggio Emilia;42123;RE;Italia;angela.saviano@iexs.it;522527494;2023-12-20 18:24:48;2023-12-20 18:24:48;NULL
+244;;Istituto Comprensivo;Leonardo Da Vinci;NULL;NULL;Via Padre Luigi Monti, 61;Saronno;21047;Varese;Italia;NULL;NULL;2023-12-20 20:35:43;2023-12-20 20:35:43;NULL
+245;;Liceo Classico Scientifico & Sportivo Statale;Martin Luther King;NULL;NULL;Via Sturla, 63;Genova;16131;Genova;Italia;NULL;NULL;2023-12-22 09:35:16;2023-12-22 09:35:16;NULL
+246;;ISIS;TORRIANI;ISIS TORRIANI di Cremona;NULL;NULL;NULL;NULL;NULL;NULL;cris004006@istruzione.it;NULL;2023-12-22 10:47:43;2023-12-22 10:47:43;NULL
+247;;TIZIANA;GUERCIA;IISS MAJORANA;NULL;NULL;SERIATE (BG);NULL;NULL;NULL;bgis01700a@istruzione.it;NULL;2023-12-27 13:38:25;2023-12-27 13:38:25;NULL
+248;;IISS;Giuseppe Torno;NULL;NULL;Piazzale Don L Milani, 1;Castano Primo;20022;Milano;NULL;NULL;0331 881500;2023-12-28 13:09:34;2023-12-28 13:09:34;NULL
+249;;Sig.ra;Pierozzi;"Ist.Tec.Comm. "" CARLO CATTANEO """;82001200508;NULL;PISA;NULL;NULL;NULL;NULL;NULL;2024-01-02 10:53:21;2024-01-02 10:53:21;NULL
+250;;istituto istruzione superiore;Badoni;IIS Badoni;NULL;via rivolta 10;LECCO;NULL;NULL;NULL;lcis00900x@istruzione.it;0341 365339;2024-01-03 06:52:43;2024-01-03 06:52:43;NULL
+251;;katia;castellano;NULL;NULL;NULL;NULL;NULL;NULL;NULL;castellano_katia@yahoo.it;NULL;2024-01-03 07:49:49;2024-01-03 07:49:49;NULL
+252;;katia;Danieli;liceo cairoli;NULL;NULL;torino;NULL;NULL;NULL;Danieli.cairoli@gmail.com;+39 328 242 9432;2024-01-03 12:32:21;2024-01-03 12:32:21;NULL
+253;;ic edmundo;de amicis;NULL;NULL;NULL;NULL;NULL;NULL;NULL;vaic85900r@istruzione.it;NULL;2024-01-03 22:24:05;2024-01-03 22:24:05;NULL
+254;;istituto;comprensivo;ic. G. Marconi di Latina;NULL;NULL;NULL;NULL;NULL;NULL;itis013003@istruzione.it;NULL;2024-01-04 22:07:58;2024-01-04 22:07:58;NULL
+255;;patrizia barbieri;icv Foscolo;icv Foscolo;NULL;NULL;Monza;NULL;NULL;NULL;mbic8f800e@istruzione.it;NULL;2024-01-06 02:13:37;2024-01-06 02:13:37;NULL
+256;;elsa;morante;IC ELSA MORANTE di Limbiate;NULL;NULL;NULL;NULL;NULL;NULL;mbtd49000l@istruzione.it;NULL;2024-01-06 02:23:41;2024-01-06 02:23:41;NULL
+257;;LICEO;CLASSICO STATALE;IIS G. CESARE;NULL;NULL;NULL;NULL;NULL;NULL;rmpc12000c@istruzione.it;NULL;2024-01-08 11:39:49;2024-01-08 11:39:49;NULL
+258;;Daniela;Bufo;IC F. Morosini - Venezia - Sede San Provolo;NULL;NULL;NULL;NULL;NULL;NULL;veic841002@istruzione.it;3477671787;2024-01-08 16:35:03;2024-12-30 16:33:00;NULL
+259;;Paola;Pavesi;Istituti Omnicomprensivo;91003770186;Via J. Sannazzaro, 16;Sannazzaro de' Burgondi;27039;PV;Italia;pvic80900g@istruzione.it;382997435;2024-01-08 20:58:44;2024-01-08 20:58:44;NULL
+260;;Istituto d'Istruzione Superiore;Ignazio Porro;NULL;NULL;Viale Kennedy, 30;Pinerolo;10064;Torino;Italia;NULL;NULL;2024-01-09 11:55:09;2024-01-09 11:55:09;NULL
+261;;Katia;Ducceschi;"Scuola Secondaria di I grado ""A. MANZONI"" RHO";NULL;NULL;NULL;NULL;NULL;NULL;ducceschi.katia@icsannafrankrho.edu.it;3479922601;2024-01-09 17:46:51;2024-01-09 17:46:51;NULL
+262;;Annalisa;Sirizzotti;IIS SULPICIO di Veroli (FR);NULL;NULL;NULL;NULL;NULL;NULL;sirizzottiannalisa@gmail.com;NULL;2024-01-11 15:47:22;2024-01-11 15:47:22;NULL
+263;;ICS;Carlo Fontana;NULL;NULL;Via f.lli Caprotti, 4;Magenta;20013;Milano;Italia;NULL;NULL;2024-01-13 08:56:51;2024-01-13 08:56:51;NULL
+264;;IPSEOA;Carlo Porta;NULL;NULL;Via Uruguay, 26;Milano;20151;Milano;Italia;NULL;NULL;2024-01-14 08:34:50;2024-01-14 08:34:50;NULL
+265;;PAOLA CARLOTTA;STROPPA;IC ORIO VERGANI;NULL;NULL;NOVATE MILANESE;NULL;NULL;NULL;NULL;NULL;2024-01-14 13:21:55;2024-01-14 13:21:55;NULL
+266;;ELENA;BERGAMASCHI;IPSEOA CARLO PORTA;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-01-14 16:04:23;2024-09-25 16:33:10;NULL
+267;;SUOR SERENA;MEDICI;ISTITUTO REGINA CARMELI;NULL;NULL;MILANO;NULL;NULL;NULL;suorsere@gmail.com;NULL;2024-01-14 16:58:45;2024-09-18 20:10:34;NULL
+268;;Istituto Superiore Statale;Ferdinando Galiani;NULL;NULL;Via Don Giovanni Bosco, 6;Napoli;80141;Napoli;Italia;NULL;NULL;2024-01-15 09:31:12;2024-01-15 09:31:12;NULL
+269;;istituto superiore;A. Maserati;IIS A. MASERATI;NULL;NULL;VOGHERA;NULL;NULL;NULL;PVIS00900Q@ISTRUZIONE.IT;NULL;2024-01-18 00:09:08;2024-01-18 00:09:08;NULL
+270;;Manuela;Bertulli;Istituto Primo Levi di Bollate (MI);NULL;NULL;NULL;NULL;NULL;NULL;bertulli.manuela@gmail.com;3487084727;2024-01-18 08:14:55;2024-01-18 08:14:55;NULL
+271;;Enrico;Leone;NULL;NULL;NULL;NULL;NULL;NULL;NULL;prof.enrico.leone@isistassinari.edu.it;3495957047;2024-01-19 07:53:12;2024-01-19 07:53:12;NULL
+272;;Elena;Bertoletti;NULL;NULL;NULL;NULL;NULL;NULL;NULL;bertoletti.elena@gmail.com;3387427347;2024-01-23 09:25:54;2024-01-23 09:25:54;NULL
+273;;Liceo e Istituto Tecnico Primo Levi;Bollate;NULL;NULL;NULL;NULL;NULL;NULL;NULL;mitd330007@istruzione.it;NULL;2024-01-23 16:08:50;2024-01-23 16:08:50;NULL
+274;;Barbara Scarduzio;Scarduzio;Itsos Marie Curie di Cernusco sul Naviglio.;NULL;NULL;NULL;NULL;NULL;NULL;barbara.scarduzio@gmail.com;3397916308;2024-01-25 16:14:57;2024-01-25 16:14:57;NULL
+275;;Gabriella;De Leonardo;International School of Naples;NULL;NULL;NULL;NULL;NULL;NULL;deleonardo@isnaples.it;817628429;2024-01-25 17:19:03;2024-10-30 11:13:53;NULL
+276;;Sabrina;Barba;ITAer DE PINEDO ROMA;NULL;NULL;NULL;NULL;NULL;NULL;sabrinalinda.barba@gmail.com;3391634961;2024-01-30 10:21:08;2024-01-30 10:21:08;NULL
+277;;Rossella;Signore;"Liceo ""Vittoria Colonna""";NULL;via Porta Buia 6;Arezzo;52100;AR;Itaia;signore.rossella@vittoriacolanna.edu.it;3474118329;2024-01-30 12:02:32;2024-01-30 12:02:32;NULL
+278;;Silvia;Molinu;"Istituto Alberghiero ""G. Casini"" La Spezia";NULL;NULL;NULL;NULL;NULL;NULL;silvia.molinu@alberghierolaspezia.it;NULL;2024-01-30 19:24:53;2024-01-30 19:24:53;NULL
+279;;Andrea;Mencarelli;Liceo Scientifico Statale Elio Vittorini;NULL;via Mario Donati 5/7;Milano;20146;MI;Italia;andrea.mencarelli@gmail.com;3403183191;2024-02-01 17:02:26;2024-02-01 17:02:26;NULL
+280;;Carlo;Rosmini;Rosmini international Campus;NULL;NULL;NULL;NULL;NULL;NULL;licei@rosminiinternationalcampus.com;NULL;2024-02-05 13:23:29;2024-02-20 12:17:17;NULL
+281;;Maria;Corea;Liceo “Pitagora” di Rende;NULL;NULL;NULL;NULL;NULL;NULL;csps18000d@istruzione.it;3398158520;2024-02-06 09:26:00;2024-02-06 09:26:00;NULL
+282;;DIONEA Viaggi;DIONEA Viaggi;DIONEA Viaggi;NULL;Corso Italia 12;Giarre;95014;CT;Itallia;dioneaviaggi@gmail.com;095 939727;2024-02-07 07:51:58;2024-02-07 07:52:23;NULL
+283;;Scuola Secondaria di Primo Grado;Alessandro Manzoni;NULL;NULL;NULL;NULL;NULL;NULL;NULL;didattica@icsannafrankrho.edu.it;NULL;2024-02-08 11:35:05;2024-02-08 11:35:05;NULL
+284;;Nordilia;Formenti;ist. comprensivo Cavalieri;NULL;NULL;NULL;NULL;NULL;NULL;nordilia.formenti@iccavalieri.it;NULL;2024-02-09 14:16:12;2024-02-09 14:16:12;NULL
+285;;ANGELINA;STUCCHI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;erasmusplus@iisdenicola.it;NULL;2024-02-09 14:46:34;2024-02-09 14:46:34;NULL
+286;;ALLESSANDRO;MICO';"I.I.S. ""J.C. Maxwell""";NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-02-11 11:00:14;2024-11-27 18:50:12;2024-11-27 18:50:12
+287;;Giada;Chioso;Istituto Albe e Lica Steiner;NULL;via San Dionigi 36;Milano;20139;MI;Italia;commissione.viaggi@itomilano.it;351 56 47 268;2024-02-13 09:54:33;2024-02-13 09:54:33;NULL
+288;;Arianna;Di Sabantonio;ELIS.org - Alberghiero SAFI;NULL;via Sebastiano Satta, 54;Roma;195;RM;Italia;arianna.dis@tiscali.it;328 61 91 408;2024-02-13 10:41:22;2024-02-13 10:41:22;NULL
+289;;Liceo Arstistico;Nervi Severini;NULL;NULL;Via Tombesi dall'Ova, 14;Ravenna;NULL;Ravenna;Italia;NULL;NULL;2024-02-14 21:26:48;2024-02-14 21:26:48;NULL
+290;;Nicole;Nervi - CLERICI BERGAMO;NULL;NULL;Via S. Antonino, 8;BERGAMO;24122;BG;NULL;paritario.bergamo@clerici.lombardia.it;+39 035 07 82 017;2024-02-17 16:59:18;2024-02-17 16:59:18;NULL
+291;;CRISTINA;DI MAURO;IIS CARDANO di Milano;NULL;NULL;NULL;NULL;NULL;NULL;miis023008@istruzione.it;NULL;2024-02-18 21:12:19;2024-02-18 21:12:19;NULL
+292;;Ufficio;Amministrativo;IIS SALVADOR ALLENDE;NULL;via Ulisse Dini, 7;Milano;20141;MI;Italia;amministrativa@allendecustodi.edu.it;02 84 61 607;2024-02-19 17:48:08;2024-02-19 17:48:08;NULL
+293;;alessandra;frittoli;happy child basiglio;NULL;NULL;NULL;NULL;NULL;NULL;scuolaprimaria@happychild.it;NULL;2024-02-20 14:33:33;2024-02-20 14:33:33;NULL
+294;;RITA;CASTELNUOVO;PROLOCO BOSISIO;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-02-21 21:09:37;2024-02-21 21:54:58;NULL
+295;;ISIS;Valdarno;NULL;NULL;Via Trieste, 20;San Giovanni Valdarno;52027;Arezzo;Italia;NULL;NULL;2024-02-22 12:11:27;2024-02-22 12:11:27;NULL
+296;;Marianna;Musella;Centro Studi Voltaire;NULL;viale Brianza, 8;Milano;NULL;MI;Italia;catartica.mm@gmail.com;3493872864;2024-02-22 17:24:54;2024-10-31 08:09:38;NULL
+297;;cristina;nativio;NULL;NULL;NULL;NULL;NULL;NULL;NULL;cristina.nativio@iis-russell.edu.it;NULL;2024-02-22 21:57:28;2024-02-22 21:57:28;NULL
+298;;Istituto Comprensivo;Via Linneo;NULL;NULL;Via Linneo 2;Milano;20145;Milano;Italia;NULL;NULL;2024-02-26 20:19:46;2024-02-26 20:19:46;NULL
+299;;Valentina;Ermili;NULL;NULL;NULL;NULL;NULL;NULL;NULL;valelorenzotiamo@gmail.com;3471946289;2024-02-27 09:31:12;2024-02-27 09:31:12;NULL
+300;;Liceo Artistico Statale;Di Brera;NULL;NULL;Via Camillo Hajech 27;Milano;20129;Milano;Italia;NULL;NULL;2024-02-27 20:11:10;2024-02-27 20:11:10;NULL
+301;;MATTEO;DEMUNARI;ISTITUTO VITTORINI;NULL;NULL;NULL;NULL;NULL;NULL;SEGRETERIA@ELIOVITTORINI.IT;NULL;2024-02-28 17:44:46;2024-02-28 17:44:46;NULL
+302;;istituto;ic Pitentino di Mantova;ic. pitentino;NULL;NULL;NULL;NULL;NULL;NULL;mntd01000x@istruzione.it;NULL;2024-02-28 20:59:27;2024-02-28 20:59:27;NULL
+303;;ELISABETTA;DARINO;IC MARCONI ANTONELLI;NULL;NULL;TORINO;NULL;NULL;NULL;NULL;NULL;2024-03-01 22:49:50;2024-03-01 22:49:50;NULL
+304;;PASQUALE;SMALDONE;IC MOROSINI MANARA;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-03-03 10:08:11;2024-03-03 10:08:11;NULL
+305;;Padre Giacomo;Sala;Istituto Zaccaria;NULL;NULL;NULL;NULL;NULL;NULL;g.sala@istitutozaccaria.it;NULL;2024-03-03 12:19:04;2025-02-16 22:55:14;NULL
+306;;SARA;MUGAVERO;COLLEGIO GUASTALLA;NULL;NULL;MONZA;NULL;NULL;NULL;NULL;NULL;2024-03-03 13:30:14;2024-03-03 13:30:14;NULL
+307;;Alessandra;Lombardo;Isrituto Comprensivo A. Tiraboschi;NULL;Passaggio Rodari 1;Paladina;24030;BG;Italia;alessandra.lombardo@icpaladina.it;3486917458;2024-03-15 17:57:38;2024-03-15 17:57:38;NULL
+308;;SONIA;CLARIS;DGS - ISTITUTO DONADONI - BERGAMO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-03-17 10:50:14;2024-03-17 10:50:14;NULL
+309;;CECILIA;MAZZUCCA;EducatioNest Srl;3806400366;Via Sgarzeria 1;Modena;41124;Modena;ITALIA;cecilia.mazzuca1@gmail.com;3316396833;2024-03-18 18:38:59;2024-03-18 18:38:59;NULL
+310;;Loredana;Grillo;CFP G. Marconi Concorezzo;NULL;Via De Amici, 16;Concorezzo;20863;MB;Italia;l.grillo@afolm.it;3477547972;2024-03-20 21:01:34;2024-03-20 21:01:34;NULL
+311;;ABF;Azienda Bergamasca Formazione;NULL;NULL;Via Monte Gleno 2;Bergamo;24125;Bergamo;Italia;NULL;NULL;2024-03-29 14:17:03;2024-03-29 14:17:03;NULL
+312;;CATENA;LO MENZO;CONVITTO FOSCARINI;NULL;NULL;VENEZIA;NULL;NULL;NULL;NULL;NULL;2024-03-30 18:35:16;2024-03-30 18:35:16;NULL
+313;;Arianna;Giambelli;NULL;NULL;Via Giuseppe Terragni,36;Milano;20148;MI;Italia;direzione@beataverginemilano.it;02/39218968;2024-04-03 19:06:51;2024-04-03 19:06:51;NULL
+314;;Rossana;Signorelli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;rossana.signorelli@fondazioneikaros.org;NULL;2024-04-04 21:04:38;2024-04-04 21:04:38;NULL
+315;;ROSSANA;SIGNORELLI;IKAROS;NULL;NULL;BERGAMO;NULL;NULL;NULL;NULL;NULL;2024-04-05 20:06:24;2024-04-08 20:44:34;NULL
+316;;GIULIANA;ANTONETTI;SCUOLA LA SALLE;NULL;NULL;ROMA;NULL;NULL;NULL;NULL;NULL;2024-04-05 20:45:18;2024-04-05 21:14:14;NULL
+317;;Daniela;Bellini;NULL;NULL;NULL;NULL;NULL;NULL;NULL;ippodromo76@gmail.com;3311481111;2024-04-06 21:33:20;2024-04-06 21:33:20;NULL
+318;;Liceo Statale;G. Molino Colombini;NULL;NULL;Via Beverora 51;Piacenza;29121;Piacenza;Italia;NULL;NULL;2024-04-17 10:55:15;2024-04-17 10:55:15;NULL
+319;;gp;campoli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;gpkarol.campoli@gmail.com;2024-04-17 19:52:17;2024-04-17 19:52:17;NULL
+320;;Annalisa;Mira;Istituto Comprensivo Leone Tolstoj;80124370158;VIA ZUARA, 7/9 -;MILANO;20146;MIlano;Italia;miic8da00n@istruzione.it;288444459;2024-04-18 15:41:26;2024-04-18 15:41:26;NULL
+321;;Cristina;Peraino;Liceo Benedetti-Tommaseo;NULL;NULL;Venezia;NULL;NULL;NULL;peraino.cristina@benedettitommaseo.org;NULL;2024-04-22 10:08:47;2024-04-22 10:08:47;NULL
+322;;Carmela;Ficarra;scuola primaria A. Frank di Sesto San Giovanni;NULL;Via Boccaccio 336;Sesto San Giovanni Mi;20099;Milano;Italia;carmela.ficarra@icsfrank-sestosg.edu.it;NULL;2024-04-23 12:12:22;2024-04-23 12:12:22;NULL
+323;;Anna;Carbone;Istituto Canossiano;NULL;NULL;Brescia;NULL;NULL;NULL;anna.carbone004@gmail.com;3891703892;2024-04-23 13:05:16;2024-04-23 13:05:16;NULL
+324;;Elisa Paola;Chiarini;NULL;NULL;NULL;Roma;100;NULL;NULL;epchiarini@gmail.com;3476008787;2024-04-23 18:02:59;2024-04-23 18:02:59;NULL
+325;;Enzo Walter;Sacco;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-04-24 10:29:15;2024-04-24 10:31:29;2024-04-24 10:31:29
+326;;Enzo Walter;Sacco;Istituto Professionale di Stato per i Servizi Alberghieri Rocco Chinnici, Nicolisi CT;NULL;via F. Gemellaro SNC;Nicolosi;95030;Catania;Italia;enzowalter.sacco@gmail.com;-0;2024-04-24 10:31:21;2024-04-24 10:31:21;NULL
+327;;Plesso Quasimodo DELL’ ICS Locatelli Quasimodo di Milano;-0;ICS Locatelli Quasimodo di Milano;97505070157;Via Veglia, 80;Milano;20159;MI;Italia;miic8dq00c@istruzione.it;02/88447761;2024-04-26 12:36:25;2024-04-26 12:36:25;NULL
+328;;Stefano Siso;Clerici;Istituto Salesiano Sant'Ambrogio;NULL;NULL;MILANO;NULL;NULL;NULL;stefano.siso@salesianimilano.it;333 690 8944;2024-04-28 19:06:46;2024-09-10 09:41:11;NULL
+329;;GIULIA;ROCCHI;ACOF;NULL;Via Copernico 3 20124;Milano;20135;MI;Italia;giulia.rocchi@acof.it;3515052995;2024-04-30 12:21:18;2024-04-30 12:21:18;NULL
+330;;Alessandra;Brancato;NULL;NULL;NULL;NULL;NULL;NULL;NULL;brancato.alessandra@gmail.com;NULL;2024-05-02 09:24:55;2024-05-02 09:24:55;NULL
+331;;Maria Rosalia;Pasca;NULL;NULL;NULL;NULL;NULL;NULL;NULL;marilina.pasca01@gmail.com;3479901929;2024-05-03 13:14:09;2024-05-03 13:14:09;NULL
+332;;T.;Rapisarda;Ist. Mag. Adelaide Cairoli;80008260186;Corso Mazzini 7;Pavia;27100;PV;Itallia;PVPM01000A@istruzione.it;38224794;2024-05-05 14:55:48;2024-05-05 14:55:48;NULL
+333;;PAOLA;OLIVERO;BDC SCHOOL;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-05-05 16:42:32;2024-05-05 16:42:32;NULL
+334;;Francesca;Cammarota;NULL;NULL;NULL;Napoli;NULL;NULL;NULL;Francesca.cammarota1973@gmail.com;347 750 7609;2024-05-06 10:21:11;2024-05-06 10:21:11;NULL
+335;;"IIIS ""Emilio Alessandrini"" Montesilvano";Prof Del Re;NULL;NULL;NULL;Montesilvano PE;NULL;Pescara;NULL;silvia.delre@italessandrini.edu.it;+39 340 393 5475;2024-05-06 13:49:37;2024-05-18 09:54:38;NULL
+336;;CENTRO ISTRUZIONE ADULTI CPIA 3;CENTRO ISTRUZIONE ADULTI CPIA 3;CENTRO ISTRUZIONE ADULTI CPIA 3;NULL;rmmm672004@istruzione.it;NULL;NULL;NULL;NULL;rmmm672004@istruzione.it;6121125421;2024-05-07 09:44:33;2024-05-07 09:44:33;NULL
+337;;Francesca;C;NULL;NULL;NULL;NULL;NULL;NULL;NULL;chrifra2007@libero.it;3472211621;2024-05-09 07:32:33;2024-05-09 07:32:33;NULL
+338;;Istituto;Leonardo Murialdo;NULL;NULL;Via Anfiteatro Romano 30;Albano Laziale;41;Roma;Italia;NULL;NULL;2024-05-13 11:40:10;2024-05-13 11:40:10;NULL
+339;;Francesco;Morgante;NULL;NULL;NULL;NULL;NULL;NULL;NULL;francesco.morgante@eclubpolimi.it;NULL;2024-05-21 15:08:37;2024-05-21 15:08:37;NULL
+340;;Liceo Statale;Luigi Stefanini;NULL;NULL;Via del Miglio, 30;Venezia;30173;Venezia;Italia;NULL;NULL;2024-05-23 11:27:42;2024-05-23 11:27:42;NULL
+341;;VINCENZA;PISACANE;Liceo classico/scientifico/sportivo M.G. Vida;NULL;NULL;CREMONA;NULL;NULL;NULL;NULL;NULL;2024-05-27 18:02:48;2024-05-27 18:02:48;NULL
+342;;Valentina;Panaite;NULL;NULL;NULL;NULL;NULL;NULL;NULL;valentinapanaite22@gmail.com;NULL;2024-05-31 12:36:48;2024-05-31 12:36:48;NULL
+343;;RITA;CASTELNUOVO;PROLOCO BOSISIO PARINI;NULL;NULL;BOSISIO PARINI;NULL;NULL;NULL;NULL;NULL;2024-06-02 17:29:12;2024-06-02 17:29:12;NULL
+344;;Centro di Formazione Professionale dei Salesiani;CNOS-FAP;NULL;NULL;Viale Matteotti, 425;Sesto San Giovanni;20099;Milano;Italia;NULL;NULL;2024-06-11 17:08:26;2024-06-11 17:08:26;NULL
+345;;Simona;Lieto;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-06-13 11:36:33;2024-06-13 11:36:33;NULL
+346;;CENTRO ISTRUZIONE;ADULTI CPIA 3;NULL;NULL;NULL;NULL;NULL;NULL;NULL;rmmm672004@istruzione.it;NULL;2024-06-14 08:03:09;2024-06-14 08:03:09;NULL
+347;;FLAVIA;BORGNA;IC LEONARDO DA VINCI;NULL;NULL;NERVIANO;NULL;NULL;NULL;NULL;NULL;2024-06-22 17:33:49;2024-06-27 18:44:21;NULL
+348;;Michela;Mazzucco;Liceo Statale “Giustina Renier”;80003140250;Via C. Marchesi, 71;Belluno;32100;BL;Italia;MICHELA@LICEIRENIERBL.IT;0437 940079;2024-07-04 07:24:23;2024-07-04 07:24:23;NULL
+349;;UFFICIO;ACQUISTI;"LICEO STATALE "" GIUSTINA REINER""";NULL;NULL;BELLUNO;NULL;NULL;NULL;NULL;NULL;2024-07-05 07:19:19;2024-07-05 07:19:19;NULL
+350;;Arianna;Rossini;Scuola San Biagio (MB);NULL;NULL;NULL;NULL;NULL;NULL;rossini.arianna@gmail.com;3480042050;2024-07-08 17:30:18;2024-07-08 17:30:18;NULL
+351;;Istituto statale d'istruzione  superiore;G. Caselli;NULL;NULL;via Roma 67;siena;NULL;NULL;NULL;siis00400l@istruzione.it;0577/40394;2024-07-15 11:04:30;2024-07-15 11:04:30;NULL
+352;;Liceo Scientifico;Copernico;NULL;NULL;Viale Duca degli Abruzzi 17;Brescia;25124;Brescia;Italia;NULL;NULL;2024-07-22 11:03:18;2024-07-22 11:03:18;NULL
+353;;Milena;Ciuti;"Istituto Comprensivo ""Iqbal Masih"" - Pioltello";NULL;NULL;NULL;NULL;NULL;NULL;milena.ciuti@iciqbalmasihpioltello.com;349 4194937;2024-08-05 14:45:57;2024-08-05 14:45:57;NULL
+354;;Liceo Statale;Ettore  Majorana Rho;Liceo Statale E. Majorana;93527280155;via Ratti 88;Rho;20017;Mi;Italia;mips120003@istruzione.it;02 9302358;2024-08-12 14:14:33;2024-10-05 20:54:38;NULL
+355;;ISTITUTO COMPRENSIVO;“T. PATINI”;NULL;NULL;NULL;Aquila;NULL;NULL;NULL;aqic85000b@istruzione.it;862317753;2024-08-23 10:23:09;2024-08-23 10:23:09;NULL
+356;;GIULIA;MASSARENTI;Milano Fashion Institute;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-08-27 14:16:17;2024-08-27 14:16:17;NULL
+357;;Benedetta;Brivio-Istituto Comprensivo Villasanta;NULL;NULL;NULL;NULL;NULL;NULL;NULL;bribenni@hotmail.com;NULL;2024-09-01 10:41:38;2024-09-01 10:42:44;NULL
+358;;Raffaella;Lauria;Istituto pluricomprensivo in lingua italiana Vipiteno - Alta Val d'Isarco;90023340210;Piazza Alexander Langer 2;Vipiteno;39049;BZ;Italia;spc.vipiteno@scuola.alto-adige.it;0472 765298;2024-09-02 08:34:34;2024-09-02 08:34:34;NULL
+359;;Paola Sara;Nicolosi;"Liceo Statale ""Megara"" - Augusta SR";81002250892;via Strazzulla 10;Augusta;96011;SR;Italia;paolasara.nicolosi@gmail.com;3490648479;2024-09-04 09:47:59;2024-09-04 09:47:59;NULL
+360;;vincenza;spatola;LICEO SCIENTIFICO PRIMO LEVI SAN DONATO;NULL;NULL;NULL;NULL;NULL;NULL;VINCENZA.SPATOLA@LEVI.EDU.IT;NULL;2024-09-05 22:36:56;2024-09-05 22:36:56;NULL
+361;;AFOL CFP;Rozzano;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-06 09:28:51;2024-09-06 09:28:51;NULL
+362;;Cecilia;Mazzucca;Educationest - The American Bilingual School;3806400366;via Sgarzeria 1;Modena;41121;MO;Italia;cecilia.mazzucca1@gmail.com;3316396833;2024-09-06 16:57:56;2024-09-06 16:57:56;NULL
+363;;PROF;GIACOMO;ISTITUTO CHAMPAGNAT;NULL;NULL;GENOVA;NULL;NULL;NULL;giacomoa@maristimediterranea.com;NULL;2024-09-07 06:33:41;2024-09-16 18:36:05;NULL
+364;;MAURIZIO;GRAZIANO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;maurizio.graziano15@gmail.com;NULL;2024-09-09 08:57:00;2024-09-09 08:57:00;NULL
+365;;Paola;Sioli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;3338555933;2024-09-09 14:45:08;2024-09-09 14:45:08;NULL
+366;;Istituto Comprensivo;Bolzano VI;NULL;NULL;Via Rovigo 50/A;Bolzano;39100;Bolzano;Italia;NULL;NULL;2024-09-09 20:19:26;2024-09-09 20:19:26;NULL
+367;;Andrea;Lombardo;NULL;NULL;Via Ugo La Malfa, 7;PADERNO DUGNANO;20037;MI;ITALIA;andrealombardo84@yahoo.com;NULL;2024-09-09 23:19:47;2024-09-09 23:19:47;NULL
+368;;Lucia;Costantini;NULL;NULL;NULL;NULL;NULL;NULL;NULL;giovannaottanta@gmail.com;NULL;2024-09-10 14:36:47;2024-09-10 14:36:47;NULL
+369;;Marta;Alessio;Liceo Linguistico Mazzarello;NULL;Via Cumiana, 2  10141 - Torino;Torino;NULL;NULL;NULL;didattica@mazzarello.it;NULL;2024-09-10 15:29:24;2024-11-04 14:36:58;NULL
+370;;Maria;Introcaso;"Istituto Comprensivo ""R.L. Montalcini";NULL;NULL;NULL;NULL;NULL;NULL;miic8e500g@istruzione.it;NULL;2024-09-12 11:00:09;2024-09-12 11:00:09;NULL
+371;;Rachele;Vincenzi;Istituti E. De Amicis  srl - Licei S. Agostino;3167390156;Via G. Matteotti 30;Gorgonzola;20064;MI;Italia;vincenzi.rachele@ideamicis.it;3472837873;2024-09-12 20:02:46;2024-10-12 17:22:06;NULL
+372;;MARIA;ROVELLA;NULL;NULL;NULL;NULL;NULL;NULL;NULL;info@iviaggidicicci.net;NULL;2024-09-12 21:44:12;2024-09-17 12:49:47;NULL
+373;;Antonella;Ricaldone;Istituto di Istruzione Superiore J.B. Beccari;80091020018;via Paganini 22;Torio;10154;TO;Italia;antonellaricaldone@gmail.com;3394129090;2024-09-13 09:08:02;2024-09-13 09:08:02;NULL
+374;;Gian Marco;D'Alessandro;"Liceo Scientifico ""L. Cocito""";NULL;NULL;Alba;NULL;NULL;NULL;gianmarco.dalessandro@liceococito.it;3477968728;2024-09-13 10:07:48;2024-09-13 10:07:48;NULL
+375;;RICCARDO;IELMINI;IC DANTE ALIGHIERI;NULL;NULL;CUVEGLIO;NULL;NULL;NULL;vaic830005@istruzione.it;NULL;2024-09-14 14:52:11;2024-09-14 17:19:21;NULL
+376;;LARA;GALLET;NULL;NULL;NULL;NULL;NULL;NULL;NULL;l.gallet@afolmb.it;NULL;2024-09-15 09:02:17;2024-09-25 14:21:46;NULL
+377;;luca;Brunetti;cliente individuale;NULL;NULL;NULL;NULL;NULL;NULL;luca.brunetti@sumitomocorp.com;348 6901550;2024-09-15 23:03:58;2024-09-15 23:10:20;NULL
+378;;ALESSANDRA;FRITTOLI;SIS ITALIA SRL;12516400962;VIA VALPARAISO 1;MILANO;20144;MI;NULL;Alessandra.Frittoli@sis-basiglio.it;NULL;2024-09-15 23:15:33;2024-09-15 23:15:33;NULL
+379;;"istituto Comprensivo ""W. A. Mozart""";ic Mozart;NULL;NULL;NULL;roma;NULL;NULL;NULL;rmic85100r@istruzione.it;650914612;2024-09-16 06:47:18;2024-09-16 06:47:18;NULL
+380;;CHIARA;ARTIOLI;IC Guidizzolo Mantova;NULL;NULL;NULL;NULL;NULL;NULL;artioli.chiara@icguidizzolomantova.edu.it;NULL;2024-09-16 06:50:15;2025-05-30 09:05:49;NULL
+381;;IC VIMERCATE;IC DON MILANI;IC Vimercate Don Milani;NULL;NULL;NULL;NULL;NULL;NULL;mbic8ex001@istruzione.it;NULL;2024-09-16 06:54:40;2024-09-16 06:54:40;NULL
+382;;giovanna;bibiana;NULL;NULL;NULL;NULL;NULL;NULL;NULL;giovannabibiana.orru@scuola.istruzione.it;NULL;2024-09-16 07:00:22;2024-09-16 07:00:22;NULL
+383;;Istituto comprensivo;Cardano di Gallarate;IC CARDANO DI GALLARATE;NULL;NULL;NULL;NULL;NULL;NULL;vaic87500p@istruzione.it;NULL;2024-09-16 07:06:17;2024-11-12 20:06:57;NULL
+384;;Maria Concetta;Barba;Liceo Politi Agrigento;NULL;NULL;Agrigento;NULL;NULL;NULL;mariaconcetta0469@gmail.com;3286724837;2024-09-17 09:35:22;2024-09-17 10:27:09;NULL
+385;;Matteo;Turcato;NULL;NULL;NULL;NULL;NULL;NULL;NULL;m.turcato@istitutozaccaria.it;NULL;2024-09-17 15:30:30;2024-09-17 15:30:30;NULL
+386;;Francesco;Bonavita;ISIS J.M. KEYNES;Studente;NULL;Arcisate;NULL;Varese;NULL;biosimo05.fra.epic@gmail.com;NULL;2024-09-17 15:34:08;2024-09-17 15:34:08;NULL
+387;;Giovanna Bbiana;Orrù;Istituto Comprensivo 2 Bellini;80005590957;via Bellini 2;Oristano;9170;OR;Italia;giovannabibiana.orru@scuola.istruzione.it;3460360678;2024-09-17 19:56:00;2024-09-17 19:56:00;NULL
+388;;IC Margherita Hack Assago Alessandra;Ferri;NULL;NULL;NULL;NULL;NULL;NULL;NULL;alessandra.ferri@icmargheritahackassago.edu.it;NULL;2024-09-18 10:17:50;2024-09-18 10:17:50;NULL
+389;;OmniComprensivo Castel Santangelo Caterina;Rapini;NULL;NULL;NULL;NULL;NULL;NULL;NULL;caterinarapini@omnicomprensivocsangelo.edu.it;NULL;2024-09-18 11:04:03;2024-09-18 11:04:03;NULL
+390;;Scuola Media;Boccardo;NULL;NULL;Via Aurelio Ferrando Scrivia, 24;Novi Ligure;15067;Alessandria;Italia;NULL;NULL;2024-09-18 11:44:00;2024-09-18 11:44:00;NULL
+391;;sabina;ferrara;liceo Manzoni di Milano;NULL;NULL;NULL;NULL;NULL;NULL;sabinaferrara30@gmail.com;NULL;2024-09-18 23:05:43;2024-09-18 23:05:43;NULL
+392;;FRANCESCA;PAGANI;BJMC JUNIOR COLLEGE;NULL;NULL;MONZA;NULL;NULL;NULL;NULL;NULL;2024-09-19 17:22:32;2024-12-18 14:06:06;NULL
+393;;ELISA;OLIVIERI;ISTITUTO SUPERIORE BARLETTI;NULL;Via Pastorino,12;OVADA;15076;ALESSANDRIA;ITALIA;elisa.olivieri@barlettiovada.edu.it;14386350;2024-09-19 22:25:51;2024-09-19 22:25:51;NULL
+394;;PROF;LO MELZO;CONVITTO FOSCARINI;NULL;NULL;VENEZIA;NULL;NULL;NULL;NULL;3888571650;2024-09-19 22:41:10;2024-09-19 22:41:10;NULL
+395;;FRANCESCA;CATTANEO;"SCUOLA SECONDARIA DI I°GRADO ""B.CROCE""";NULL;Via Felice Mariani,1;LISSONE;20851;MI;ITALIA;cattaneo.francesca@iclissoneprimo.edu.it;NULL;2024-09-19 22:42:20;2024-09-19 22:42:20;NULL
+396;;ANDREA;LOMBARDO;"SCUOLA MEDIA ""A.GRAMSCI""";NULL;Via U.La Malfa, 7;PADERNO DUGNANO;NULL;MI;ITALIA;andrea.lombardo@icdemarchi.edu.it;NULL;2024-09-19 22:47:22;2024-10-13 20:28:48;NULL
+397;;VERONICA;CECCARELLI;SCUOLA MEDIA COMPRENSIVO TOLFA;NULL;Via Lizzera;TOLFA;NULL;ROMA;ITALIA;ver.cec@comprensivotolfa.edu.it;3403015152;2024-09-19 22:54:34;2024-09-19 22:54:34;NULL
+398;;Istituto Comprensivo Ettore Romagnoli di Gela;Prof Silvio Fausto Cavallo;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-20 11:03:39;2024-09-20 11:03:51;NULL
+399;;Liceo Savoia;Torino;NULL;NULL;Piazza Solferino, 9;Torino;10121;Torino;Italia;NULL;NULL;2024-09-21 12:51:09;2024-09-21 13:07:12;NULL
+400;;CRISTINA;plesso Calvino - Don Milani - Ungheretti - Saltini;IC VIMERCATE;NULL;NULL;NULL;NULL;NULL;NULL;mbic8ex001@istruzione.it;NULL;2024-09-21 13:05:06;2024-09-21 13:05:06;NULL
+401;;Scuola;Cappelletti Turco;NULL;NULL;Via XXIV Maggio, 76;Colognola ai Colli;37030;Verona;Italia;NULL;NULL;2024-09-21 14:05:56;2024-09-21 14:05:56;NULL
+402;;Ferdinando;Cundari;istituto Nelson Mandela;NULL;NULL;Mogliano Veneto;NULL;NULL;NULL;tvic87800l@istruzione.it;NULL;2024-09-21 15:53:38;2024-10-28 20:56:52;NULL
+403;;Alessandro;Piras;Istituto Antonio segni di Ozieri;NULL;NULL;NULL;NULL;Sassari;NULL;alessandroaldopiras@gmail.com;3491244677;2024-09-21 22:16:28;2024-09-21 22:16:28;NULL
+404;;Liceo;Satriani;NULL;NULL;NULL;Crotone;NULL;NULL;NULL;NULL;NULL;2024-09-22 12:25:34;2024-09-22 12:25:34;NULL
+405;;FEDERICA;FALLACARA;NULL;NULL;NULL;NULL;NULL;NULL;NULL;bacco76@hotmail.com;NULL;2024-09-23 14:27:14;2024-09-23 14:27:14;NULL
+406;;Eva-Maria;Hansey;Licei Giovanni da San Giovanni;81005550512;Piazza Casprini 1;San Giovanni Valdarno;52027;AR;Italia;hansy.e@liceisgv.eu;370 31 41 972;2024-09-23 16:39:39;2024-09-23 16:39:39;NULL
+407;;FABRIZIO;BAL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;f.bal@mail.scuole.vda.it;NULL;2024-09-23 21:08:33;2024-10-01 10:05:21;NULL
+408;;Elena;Dalla Torre;Istituto Comprensivo Alta Val di Sole;92013790222;via S. Michele 11;Fucine di Ossona;38026;TN;Italia;elena.dallatorre@scuole.provincia.tn.it;0463 75 11 29;2024-09-24 10:18:37;2024-09-24 10:18:37;NULL
+409;;SILVIA;LUCCHETTA;IQBAL MASIH;NULL;NULL;MALNATE;NULL;NULL;NULL;silka78@hotmail.it;NULL;2024-09-24 13:40:21;2024-09-24 14:08:36;NULL
+410;;DEBORA;LONGONI;IC GAGGIANO;NULL;NULL;NULL;NULL;NULL;NULL;debora.longoni@comprensivogaggiano.edu.it;NULL;2024-09-24 18:00:29;2024-09-24 18:00:29;NULL
+411;;I.C. Santomasi Scacchi di Gravina in Puglia;Chiara Battista;NULL;NULL;NULL;Gravina;NULL;NULL;NULL;NULL;NULL;2024-09-25 14:32:40;2024-09-25 14:32:40;NULL
+412;;Giovanna Ofelia;Cucchiara;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-25 16:00:32;2024-09-25 16:00:32;NULL
+413;;Daniela;Zaramella;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-25 16:20:07;2024-09-25 16:20:07;NULL
+414;;IIS Via Dei Papareschi di Roma.;Giorgia Baldassarri;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-25 16:36:28;2024-09-25 16:36:28;NULL
+415;;Agenzia Viaggi;Olytravel;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-25 20:07:10;2024-09-25 20:07:10;NULL
+416;;Antonella;FIORE;ISTUTUTO COMPRENSIVO A.CARIROLI;NULL;Via Torrazza Piemonte,10;TORINO;10127;TORINO;ITALIA;anfiore@iol.it;3668189222;2024-09-25 20:38:28;2024-10-13 21:50:40;2024-10-13 21:50:40
+417;;Beyondals Travel;agenzia viaggi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-25 21:07:14;2024-09-25 21:14:12;NULL
+418;;Maria Teresa;Dessi;IIS MATTEI;NULL;NULL;San Lazzaro di Savena;NULL;Bologna;NULL;mariateresa.dessi@matteibo.istruzioneer.it;3384777846;2024-09-26 08:38:24;2024-09-26 08:38:24;NULL
+419;;serena;dardano;NULL;NULL;NULL;NULL;NULL;NULL;NULL;dardano.serena@icternodisola.edu.it;NULL;2024-09-26 10:48:24;2024-09-26 10:48:24;NULL
+420;;emanuela;giacobbe;NULL;NULL;NULL;NULL;NULL;NULL;NULL;manu.giacobbe@gmail.com;NULL;2024-09-27 05:39:46;2024-09-27 05:39:46;NULL
+421;;DORA;CAPUOZZO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;doracap@hotmail.it;NULL;2024-09-27 05:45:42;2024-09-27 05:45:42;NULL
+422;;Scuola Secondaria di Primo Grado;Gino Bartali;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-27 10:09:25;2024-09-27 10:09:25;NULL
+423;;Maria;Duran;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-27 20:16:41;2024-09-27 20:16:54;NULL
+424;;Simona;Sadocchi;"Liceo ""Vittoria Colonna""";NULL;via Porta Buia 6;NULL;52100;AR;NULL;sadocchi.simona@vittoriacolanna.edu.it;320 90 54 518;2024-09-27 20:18:43;2024-09-27 20:18:43;NULL
+425;;Elena;Corbella;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-09-27 20:19:03;2024-09-27 20:19:03;NULL
+426;;Istituto Salesiano;Pio XI;NULL;NULL;Via Umbertide 11;Roma;181;Roma;Italia;NULL;NULL;2024-09-29 13:53:00;2024-09-29 13:53:00;NULL
+427;;ELENA;BERNARDELLI;"Scuola Secondaria di I Grado Paritaria "" Cappelletti Turco""";NULL;NULL;Colognola ai Colli;NULL;NULL;NULL;NULL;NULL;2024-09-29 19:58:06;2024-09-29 19:58:06;NULL
+428;;Istituto Paritario;Numidio Quadrato;NULL;NULL;Via di Centocelle, 570;Roma;175;Roma;Italia;NULL;NULL;2024-09-30 12:36:21;2024-09-30 12:36:21;NULL
+429;;ENZO;INFURNA;SCUOLA PRIMARIA SALVO D'ACQUISTO;NULL;NULL;RHO;NULL;NULL;NULL;NULL;NULL;2024-09-30 12:58:24;2024-09-30 12:58:24;NULL
+430;;Pamela;Rusconi;"I. ""A. STOPPANI""";NULL;NULL;Lecco;NULL;NULL;NULL;pamelamaria.rusconi@stoppanicomprensivo.it;3479373511 -  0341.363137;2024-09-30 21:18:23;2024-09-30 21:18:23;NULL
+431;;Denis;D'amico;Istituto Agrario G. Penna;NULL;NULL;Asti;NULL;NULL;NULL;denis.damico@istitutopennaasti.edu.it;NULL;2024-09-30 21:47:06;2024-09-30 21:47:06;NULL
+432;;istituto comprensivo;costa Masnaga;NULL;NULL;NULL;Lecco;NULL;NULL;NULL;lcic815003@istruzione.it;NULL;2024-09-30 22:01:28;2024-09-30 22:01:28;NULL
+433;;Valeria delledonne;IC G. Parini;IC G. Parini di Lesmo;NULL;NULL;NULL;NULL;NULL;NULL;valeria.delledonne@icslesmo.edu.it;NULL;2024-09-30 22:11:37;2024-09-30 22:11:37;NULL
+434;;Allegra;Ferdini;NULL;NULL;NULL;NULL;NULL;NULL;NULL;fadiniallegra@yahoo.com;NULL;2024-09-30 22:15:26;2024-09-30 22:15:26;NULL
+435;;ANDREA;CRISANTI;ISTITUTI IPSEOA CINGOLI;NULL;NULL;NULL;NULL;NULL;NULL;viaggi@ipseoavarnelli.edu.it;NULL;2024-10-01 13:36:40;2024-10-09 11:09:27;NULL
+436;;Istituto;Sacro Cuore;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-01 18:44:11;2024-10-01 18:44:11;NULL
+437;;FABIANA;SARCUNO;IC MARGHERITA HACK;NULL;NULL;ASSAGO;NULL;NULL;NULL;fabiana.sarcuno@icmargheritahackassago.edu.it;NULL;2024-10-01 19:04:23;2024-10-01 19:30:00;NULL
+438;;Anna;Vedilei;I. DE TITTA;NULL;NULL;NULL;NULL;NULL;NULL;anna.vedilei@iisdetittafermi.it;33376147711;2024-10-02 09:14:37;2024-10-02 09:14:37;NULL
+439;;Maria Teresa Dessì;IIS MATTEI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;mariateresa.dessi@matteibo.istruzioneer.it;3384777846;2024-10-02 10:27:28;2024-10-02 10:27:28;NULL
+440;;IC Margherita Hack San Donato Milanese Alfonso;Bentivegna;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-02 16:14:51;2024-10-02 16:14:51;NULL
+441;;IC Serra Riccò e Sant'Olcese di Genova;Roberto Boca;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-02 17:54:31;2024-10-02 17:54:31;NULL
+442;;silvia;frison;Istituto Marelli Dudovich;NULL;NULL;NULL;NULL;NULL;NULL;sly.frison@gmail.com;NULL;2024-10-02 22:59:29;2024-10-02 22:59:29;NULL
+443;;Stefania;Ferrari;NOVALIS SCHOOL;NULL;NULL;NULL;NULL;NULL;NULL;s.ferrarinovalis@gmail.com;NULL;2024-10-03 08:45:17;2024-10-03 08:45:17;NULL
+444;;Natasha;Ameruso;IC. Anna Frank;NULL;NULL;NULL;NULL;NULL;NULL;ameruso.natascia@icsannafrankrho.edu.it;NULL;2024-10-03 09:48:13;2024-10-03 10:30:40;NULL
+445;;federica;marchesini;ic landriano;NULL;NULL;NULL;NULL;NULL;NULL;pvic81800a@istruzione.it;NULL;2024-10-03 10:34:05;2025-02-28 14:38:24;NULL
+446;;ROBERTO;ZOFFOLI;ISTITUTO PIO XI;NULL;NULL;ROMA;NULL;NULL;NULL;NULL;NULL;2024-10-03 20:33:25;2024-10-06 16:14:11;NULL
+447;;SALVATORE;LOMBARDO;SCUOLA BREDA;NULL;NULL;NULL;NULL;NULL;NULL;lombardo.salvatore@icbredasesto.edu.it;NULL;2024-10-04 07:26:15;2024-10-09 12:13:14;NULL
+448;;LARA;PASQUA;NULL;NULL;NULL;NULL;NULL;NULL;NULL;info@musineviaggi.com;NULL;2024-10-04 07:47:17;2024-10-04 07:47:17;NULL
+449;;Alessandra;Poserina;NULL;NULL;NULL;NULL;NULL;NULL;NULL;aleposerina@hotmail.com;3395973905;2024-10-04 08:46:39;2024-10-04 08:46:39;NULL
+450;;"Liceo ""Mangino"" Pagani Petronilla Rosolia";Petronilla Rosolia;NULL;NULL;NULL;NULL;NULL;NULL;NULL;nillarosolia@liceomangino.it;NULL;2024-10-04 10:05:56;2024-11-28 15:01:00;NULL
+451;;STEFANIA;CONDO';IC BUSSOLENO;NULL;NULL;NULL;NULL;NULL;NULL;condo.stefania@icbussoleno.it;NULL;2024-10-04 21:23:39;2024-10-04 21:23:39;NULL
+452;;I.T.T.;A. Pacinotti;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-05 21:34:49;2024-10-05 21:34:49;NULL
+453;;Flaviano;Arcuri;NULL;NULL;NULL;NULL;NULL;NULL;NULL;flaviano.arcuri@icloud.com;NULL;2024-10-06 08:26:41;2024-10-06 08:30:11;NULL
+454;;Chiara;DI FAZIO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;chiara8865@gmail.com;NULL;2024-10-06 08:29:18;2024-10-06 08:49:57;NULL
+455;;Luca;Spatrisano;NULL;NULL;NULL;NULL;10060;TORINO;Italia;l.spatrisano@kimbo.it;NULL;2024-10-06 08:33:44;2024-10-06 08:33:44;NULL
+456;;Giuseppina;Galati;NULL;NULL;NULL;NULL;NULL;NULL;NULL;giusina73@gmail.com;NULL;2024-10-06 08:38:31;2024-10-06 08:38:31;NULL
+457;;Antonella;Fiore;ISTITUTO COMPRENSIVO CAIROLI;NULL;NULL;Via Torrazza,10;10127;TORINO;NULL;anfiore@iol.it;3668189222;2024-10-06 08:47:57;2024-10-13 21:54:23;NULL
+458;;Carlo;Giacometti;NULL;NULL;NULL;NULL;NULL;NULL;NULL;carlo@giacomettiarte.it;NULL;2024-10-06 08:52:03;2024-10-06 08:52:03;NULL
+459;;Daniela;Bellini;la bussola srl;NULL;Via Altaguardia, 1;Milano;20135;MI;Italia;info@passionidavivere.it;NULL;2024-10-06 08:53:04;2024-10-29 00:19:01;NULL
+460;;ELENA;CALIA;IC CADORNA;NULL;NULL;MILANO;NULL;NULL;NULL;elena.calia19@gmail.com;NULL;2024-10-06 20:19:20;2024-10-06 20:27:26;NULL
+461;;"Liceo ""G. Da Procida"" di Salerno";Profssa LIBERO MANGIERI DIANA;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-07 10:16:58;2024-10-07 10:16:58;NULL
+462;;Scuola media De Gasperi di san Donato Milanese;Prof Maria Petrocelli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-07 10:52:01;2024-10-07 10:52:01;NULL
+463;;Istituto comprensivo Antonio Gramsci;Prof Melania Dau;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-07 11:28:59;2024-10-07 11:28:59;NULL
+464;;Professoressa Michela;Salvadori;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-07 13:34:37;2024-10-07 13:34:37;NULL
+465;;Liceo Statale;Scipione Maffei;NULL;NULL;NULL;Verona;NULL;NULL;NULL;NULL;NULL;2024-10-08 07:32:58;2024-10-08 07:32:58;NULL
+466;;LOCCHI;PIETRO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;info@paolociotti.it;NULL;2024-10-08 08:58:07;2024-10-08 08:58:07;NULL
+467;;Istituto d'Istruzione Superiore;Vendramin Corner;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-08 09:03:46;2024-10-08 09:03:46;NULL
+468;;IIS Amaldi Sraffa di Orbassano;Prof. Marica Puca;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-08 13:46:24;2024-10-08 13:46:24;NULL
+469;;Cinzia;Bassi;IC E. OLMI;NULL;Via Maffucci 60;NULL;NULL;NULL;NULL;c.bassi@icmaffucci.edu.it;3332178343;2024-10-08 14:18:53;2024-10-08 14:18:53;NULL
+470;;ISTITUTO;CORINALDESI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;anis01600v@istruzione.it;NULL;2024-10-08 17:21:48;2024-12-02 11:45:27;NULL
+471;;Istituto d'Istruzione Superiore;Carlo Rosselli;NULL;NULL;NULL;Castelfranco Veneto;NULL;NULL;NULL;NULL;NULL;2024-10-09 10:42:45;2024-10-09 10:42:45;NULL
+472;;Giada;Pellizzaro;istituto ARTUSI;NULL;NULL;VICENZA;NULL;NULL;NULL;giadapellizzaro06@gmail.com;NULL;2024-10-09 11:19:36;2024-10-09 11:19:36;NULL
+473;;UFFICIO ACQUISTI;CARLA GRASSO;Istituto Comprensivo Statale “A. Strobino”;NULL;NULL;CERRO MAGGIORE;NULL;MILANO;NULL;NULL;NULL;2024-10-09 16:26:31;2024-10-09 16:26:31;NULL
+474;;l.;salvi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;l.salvi@libero.it;NULL;2024-10-09 20:47:08;2024-10-09 20:47:08;NULL
+475;;Roberto;Garroni;Istituto Statale Virgilio;80107250153;Piazza Ascoli 2;Milano;20129;MI;Italia;mipm050003@istruzione.it;02 7382515;2024-10-10 06:41:06;2025-01-15 18:35:18;NULL
+476;;SIMONA;TRAVERSO BERNINI;LICEO SCIENTIFICO GALILEI ALESSANDRIA;NULL;NULL;NULL;NULL;NULL;NULL;simona.traversobernini@scientificogalilei.edu.it;NULL;2024-10-10 10:46:37;2024-10-10 10:46:37;NULL
+477;;ITSOS;Albe Steiner;NULL;NULL;NULL;Milano;NULL;NULL;NULL;NULL;NULL;2024-10-10 11:11:07;2024-10-10 11:11:07;NULL
+478;;Liceo Scientifico;L. Cremona;NULL;NULL;NULL;Milano;NULL;NULL;NULL;NULL;NULL;2024-10-10 11:54:56;2024-10-10 11:54:56;NULL
+479;;IIS;Ezio Vanoni;NULL;NULL;NULL;Vimercate;NULL;NULL;NULL;NULL;NULL;2024-10-10 12:39:55;2024-10-10 12:39:55;NULL
+480;;Alessandra;Franzon;Istituto Zaccaria;NULL;NULL;NULL;NULL;NULL;NULL;a.franzon@istitutozaccaria.it;NULL;2024-10-10 21:24:17;2024-10-10 21:25:28;NULL
+481;;liceo classico;liceo Classico G. Cesare;Liceo Classico G. Cesare Roma;NULL;NULL;NULL;NULL;NULL;NULL;rmpc12000c@istruzione.it;NULL;2024-10-10 21:28:24;2024-10-10 21:28:24;NULL
+482;;LORENZA;MORBIDELLI;SCUOLA PANZINI;NULL;NULL;NULL;NULL;NULL;NULL;maurizio.graziano15@gmail.com;NULL;2024-10-11 09:20:35;2024-10-15 10:12:42;NULL
+483;;MARIA LUISA;DI LORENZO;LICEO LUCERA;NULL;NULL;NULL;NULL;NULL;NULL;dl206ml@gmail.com;NULL;2024-10-11 11:01:38;2024-10-11 11:01:38;NULL
+484;;SARA;PANICHI;TERZA MEDIA PRATO;NULL;NULL;NULL;NULL;NULL;NULL;sarapanichi1981@gmail.com;NULL;2024-10-11 11:12:11;2024-10-11 11:12:11;NULL
+485;;Chiara;D'Amico;Liceo Fratelli Testa di Nicosia;NULL;NULL;NULL;NULL;NULL;NULL;chiaradamico@outlook.com;NULL;2024-10-14 07:30:12;2024-10-14 07:30:12;NULL
+486;;Scuola Secondaria;Eugenio Montale;NULL;NULL;NULL;Bollate;NULL;NULL;NULL;NULL;NULL;2024-10-14 12:09:07;2024-10-14 12:09:07;NULL
+487;;ISTITUTO;BUONARROTI FOSSOMBRONI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;maurizio.graziano15@gmail.com;NULL;2024-10-14 13:00:12;2024-10-15 11:12:02;NULL
+488;;LICEO;VACCARINI;CATANIA;NULL;NULL;NULL;NULL;NULL;NULL;ctis01700v@istruzione.it;NULL;2024-10-14 13:53:18;2024-11-30 07:42:19;NULL
+489;;istituto comprensivo;Alessandrini;ic alessandrini cesano boscone;NULL;NULL;NULL;NULL;NULL;NULL;ufficioacquisti@icsalessandrinicesanob.edu.it;NULL;2024-10-14 23:38:44;2024-10-14 23:38:44;NULL
+490;;Istituto Don Bosco;Villa Sora;NULL;NULL;NULL;Frascati;NULL;NULL;NULL;NULL;NULL;2024-10-15 07:59:10;2024-10-15 07:59:10;NULL
+491;;Istituto Costa di Cinisello Balsamo;Prof.ssa Lia Perito;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-15 08:48:27;2024-10-15 08:48:27;NULL
+492;;"Liceo ""Mangino"" Pagani";Prof Nicola Daniele Catania;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-15 10:27:53;2024-10-15 10:27:53;NULL
+493;;Michela;Bongiorni;NULL;NULL;NULL;NULL;NULL;NULL;NULL;michelabongiorni@virgilio.it;320 62 17 055;2024-10-15 20:25:33;2024-10-15 20:25:33;NULL
+494;;Piera;Vulcano;Ipsia Birago;NULL;NULL;NULL;NULL;NULL;NULL;piera.vulcano@ipsiabirago.edu.it;3355252038;2024-10-16 00:40:06;2024-10-16 00:40:06;NULL
+495;;Nicolina;Coscione;NULL;NULL;NULL;NULL;NULL;Firenze;italia;nikladia@gmail.com;3358251326;2024-10-16 00:55:01;2024-10-16 00:55:01;NULL
+496;;SAMANTHA;BONAVITA;SCUOLA FERRARI MERCURINO;NULL;NULL;NULL;NULL;NULL;NULL;samanthabonavita@istitutosuperioreferrarimercurino.edu.it;NULL;2024-10-16 05:36:14;2024-10-16 05:36:14;NULL
+497;;ISTITUTO SUPERIORE PRIMO LEVI – SAREZZO BS;Prof Simon Ngomnan;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-16 09:34:15;2024-10-16 09:34:15;NULL
+498;;Andrea;Gianviti;Scuola Prova;NULL;NULL;NULL;NULL;NULL;NULL;andrea.giaver@gmail.com;3331685064;2024-10-16 16:39:34;2024-10-16 16:39:34;NULL
+499;;Professoressa;Lombardi;Cesare Beccaria;NULL;NULL;Gessate;NULL;NULL;NULL;lombardimiriam90@gmail.com;NULL;2024-10-16 19:36:43;2024-10-16 19:36:43;NULL
+500;;ANTONELLA;SALADINO;IC CARDUCCI PLESSO G.UNGARETTI;NULL;NULL;SAN GIORGIO SU LEGNANO;NULL;NULL;NULL;MIIC845001@istruzione.it;NULL;2024-10-16 20:22:50;2024-10-16 20:22:50;NULL
+501;;Lara;Meante;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-16 21:00:47;2024-10-16 21:00:47;NULL
+502;;ANDREA;LOMBARDO;Ic Demarchi;NULL;NULL;PADERNO DUGNANO;NULL;NULL;NULL;andrea.lombardo@icdemarchi.edu.it;NULL;2024-10-16 21:13:26;2024-10-16 21:13:50;NULL
+503;;Costanza;Rollino;Scuola primaria De Amicis Sesto Fiorentino;NULL;NULL;NULL;NULL;NULL;NULL;costanza.rollino@gmail.com;331 4708467;2024-10-17 06:59:52;2024-10-17 06:59:52;NULL
+504;;Istituto Mario Pagano;Lara Battista;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-17 09:38:44;2024-10-17 09:38:44;NULL
+505;;Istituto Comprensivo;Manzoni;ISTITUTO COMPRENSIVO MANZONI;91073990151;Via Cesare Cantu', 13;Bovisio Masciago;20813;MB;ITALIA;MBIC86800E@ISTRUZIONE.IT;362594470;2024-10-17 12:07:46;2024-11-03 00:49:26;NULL
+506;;Massa Viaggi srl;Sig. Lorenzo Massa.;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-17 13:01:52;2024-10-17 13:01:52;NULL
+507;;IPS G. B. Garbin di Schio;Lisa Putin;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-17 14:01:06;2024-10-17 14:01:06;NULL
+508;;Scuola Primaria  Rodari;Insegnate Antonella Colombo;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-17 14:32:52;2024-10-17 14:32:52;NULL
+509;;Istituto statale;Superiore;IIS E. Ferrari SUSA;NULL;NULL;NULL;NULL;NULL;NULL;tois017001@istruzione.it;NULL;2024-10-17 21:33:26;2024-10-17 21:33:26;NULL
+510;;maria Grazia;Massa;Liceo Sabin;NULL;NULL;NULL;NULL;NULL;NULL;mgrazia.massa@sabin.istruzioneer.it;NULL;2024-10-17 22:47:51;2024-10-17 22:47:51;NULL
+511;;corinne;Iannella;IIS L. Linussio;NULL;NULL;Udine;NULL;NULL;NULL;corinne.iannella@linussio.it;NULL;2024-10-17 23:09:59;2024-10-17 23:09:59;NULL
+512;;ic Dante di Gallarate;ic dante di Gallarate;ic Dante di Gallarate;NULL;NULL;NULL;NULL;NULL;NULL;vaic878006@istruzione.it;NULL;2024-10-17 23:23:28;2024-10-17 23:23:28;NULL
+513;;Corinna;Baroni;Liceo artistico statale;NULL;NULL;Verona;NULL;NULL;NULL;cori.baroni@gmail.com;3925331519;2024-10-18 07:56:07;2024-10-18 07:56:07;NULL
+514;;Paolo;Da Pelo;IIS Da Vinci - Agherbino;91108120725;via Repubblica 36 H;Noci;70015;Bari;Italia;paolodapelo@gmail.com;392 50 89 437;2024-10-18 11:25:28;2024-10-18 11:25:28;NULL
+515;;Vittoria;Lacalaprice;NULL;NULL;NULL;NULL;NULL;NULL;NULL;lacalaprice.vittoria@libero.it;339 4312311;2024-10-18 12:17:54;2024-10-18 12:17:54;NULL
+516;;Luciano Dal Cero Secondaria di II Grado;Nabil moutaoukil;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-18 13:10:35;2024-10-18 13:10:35;NULL
+517;;TIZIANA;CASALE;IDENTITA' TERRA;NULL;NULL;NULL;NULL;NULL;NULL;tizianacasale.identitaterra@gmail.com;NULL;2024-10-18 13:53:19;2024-10-18 14:16:31;NULL
+518;;Nicole;Bonassise;NULL;NULL;NULL;Bologna;NULL;NULL;NULL;nicole.bonassisa@gmail.com;3495545605;2024-10-18 15:22:45;2024-10-18 15:22:45;NULL
+519;;Giovanna;Santoro;ITT A. Paciotti;90274490730;via Lago Trasimeno snc;Taranto;74100;Taranto;italia;tatf09000@istruzione.it;099 73 69 731;2024-10-18 17:17:32;2024-10-18 17:17:32;NULL
+520;;SARA;FLORIO;IC BASIGLIO;NULL;NULL;MILANO;NULL;NULL;NULL;sara.florio@icbasiglio.edu.it;NULL;2024-10-18 20:52:29;2024-10-18 20:52:29;NULL
+521;;ISTITUTO COMPRENSIVO MANZONI;MECCANOGRAFICO;la bussola srl;91073990151;Via Cesare Cantu', 13;BOVISIO MASCIAGO;20813;MB;Italia;MBIC86800E@ISTRUZIONE.IT;362594470;2024-10-18 21:37:18;2024-10-18 21:37:18;NULL
+522;;MARIA LAURA;LEO;NULL;NULL;NULL;BARI;NULL;BA;ITALIA;leo.marialaura@gmail.com;3289744255;2024-10-18 23:19:14;2024-10-18 23:19:14;NULL
+523;;Istituto d'Istruzione Superiore;Capirola;NULL;NULL;NULL;Leno;NULL;NULL;NULL;NULL;NULL;2024-10-20 12:33:14;2024-10-20 12:33:14;NULL
+524;;VIVIANA;NISCO;IC E. FRANCESCHINI;NULL;NULL;RHO;NULL;NULL;NULL;NULL;NULL;2024-10-20 15:36:41;2024-10-20 15:36:41;NULL
+525;;ilenia;Romano;ic G. Strada Sesto Fiorentino;NULL;NULL;NULL;NULL;NULL;NULL;ileniaromano1995@gmail.com;NULL;2024-10-20 16:30:24;2024-10-20 16:30:24;NULL
+526;;MARIA LUISA;BOTTANI;IC G.PASCOLI;NULL;NULL;SESTO SAN GIOVANNI;NULL;NULL;NULL;miic8a0002@istruzione.it;NULL;2024-10-20 17:47:17;2024-10-20 17:47:17;NULL
+527;;GRETA;FERRAZZI;SCUOLA PRIMARIA LEONARDO DA VINCI;NULL;NULL;GALLARATE;NULL;VA;NULL;ferrazzi.g@icdante.edu.it;NULL;2024-10-20 18:57:42;2024-10-20 18:57:42;NULL
+528;;GUGLIELMO;PIERSANTI;ICS SIMONA GIORGI;NULL;NULL;MILANO;NULL;NULL;NULL;miic81700r@istruzione.it;NULL;2024-10-20 19:26:09;2024-10-20 19:42:14;NULL
+529;;Gemma;Sanseverino;ic Traversetolo;NULL;NULL;NULL;NULL;NULL;NULL;gemma.sanseverino@ictraversetolo.edu.it;NULL;2024-10-20 19:38:44;2024-10-20 19:39:09;NULL
+530;;Chiara;Frattura;ic Zocca;NULL;NULL;NULL;NULL;NULL;NULL;chiara.frattura@ic-zocca.it;NULL;2024-10-20 20:01:18;2024-10-20 20:01:18;NULL
+531;;ISTITUTO;ISTRUZIONE SUPERIORE;SEVERI-CORRENTI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-20 21:32:59;2024-10-20 21:32:59;NULL
+532;;PASQUALINO;SAPONARA;NULL;NULL;CORSO AGNELLI;TORINO;NULL;TORINO;TO;linosaponara@gmail.com;3200274399;2024-10-20 22:39:46;2024-11-29 22:12:48;NULL
+533;;Scuola Media “Pagliaccetti” di Giulianova;Prof.ssa Giovanna Di Domenico;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-21 09:54:23;2024-10-21 09:54:23;NULL
+534;;Istituto Comprensivo di Coccaglio;plesso Don Remo Tonoli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-21 11:03:00;2024-10-21 11:03:00;NULL
+535;;Mariateresa;Vescia;NULL;NULL;NULL;NULL;NULL;NULL;NULL;mariateresa.vescia@gmail.com;346 62 33 553;2024-10-21 11:13:19;2024-10-21 11:13:19;NULL
+536;;Liceo;Vittoria Colonna;NULL;NULL;NULL;Arezzo;NULL;NULL;NULL;NULL;NULL;2024-10-21 11:58:17;2024-10-21 11:58:17;NULL
+537;;Istituto Statale Elsa Morante;Professoressa Claudia Tomasi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-21 14:31:11;2024-10-21 14:31:11;NULL
+538;;ITT Rondani di Parma;Prof Stefano Negri;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-21 16:05:37;2024-10-21 16:05:37;NULL
+539;;ROSA MARIA;MILITANO;ISTITUTO ALESSANDRINI;NULL;NULL;NULL;NULL;NULL;NULL;refviaggi.istruzione@icsalessandrinicesanob.edu.it;NULL;2024-10-21 16:25:49;2024-10-21 16:25:49;NULL
+540;;Professoressa Irma;D'Auria;NULL;NULL;NULL;NULL;NULL;NULL;NULL;irmadauria@gmail.com;NULL;2024-10-21 16:50:24;2024-10-21 16:50:24;NULL
+541;;IIS Bernalda Ferrandina;Avvocato Giuseppina Grieco;avvocato.grieco@tiscali.it;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-10-21 17:18:16;2024-10-21 17:18:16;NULL
+542;;NICOLA;FASSOLI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;fassoli.nicholas@capirola.com;NULL;2024-10-21 20:54:34;2024-10-21 20:54:34;NULL
+543;;TONINO;LIBERATI;"I.I..S.S. ""cesare battisti "" velletri";NULL;Sede di Via Parri, 14;VELLETRI;49;RM;ITALY;liberatitonino5@gmail.com;3389533323;2024-10-21 21:55:21;2024-10-25 12:34:16;NULL
+544;;Alessia;Girometta;ISTITUTO AGRARIO PIACENZA;NULL;NULL;PIACENZA;NULL;NULL;NULL;alessia.girometta@gmail.com;3386931242;2024-10-21 22:19:48;2024-10-21 22:27:19;NULL
+545;;Istituto d'Istruzione Superiore;A. Ponti;NULL;NULL;NULL;Gallarate;NULL;NULL;NULL;NULL;NULL;2024-10-22 06:44:48;2024-10-22 06:44:48;NULL
+546;;Prof.ssa Erika;Martello;NULL;NULL;NULL;NULL;NULL;NULL;NULL;prof.erika.martello@amaldisraffa.edu.it;NULL;2024-10-22 10:19:10;2024-10-22 10:19:10;NULL
+547;;IC Beinasco Gramsci;Prof.sse Emanuela Giudetti e Milena Marraffa;NULL;NULL;NULL;NULL;NULL;NULL;NULL;marraffa@beinascogramsci.edu.it;NULL;2024-10-22 14:01:34;2024-10-22 14:01:34;NULL
+548;;SEGRETERIA;DIDATTICA;IC A.MANZONI;NULL;NULL;CASTELLANZA;NULL;NULL;NULL;serenella.decristofaro@istitutocomprensivocastellanza.edu.it;NULL;2024-10-22 20:42:17;2024-11-22 15:18:58;NULL
+549;;Sara;Federighi;IC COGORNO;NULL;NULL;Genova;NULL;NULL;NULL;federighi@iccogorno.com;3496181857;2024-10-23 05:55:59;2024-10-23 05:55:59;NULL
+550;;ANNA FRANK - Pedemonte -;RATTO SIMONA;I.C.Serra Riccò sant'Olcese;NULL;NULL;PEDEMONTE;16010;GENOVA;NULL;simona.ratto@icserrariccosantolcese.edu.it;NULL;2024-10-23 10:16:49;2024-10-30 20:21:20;NULL
+551;;Barbara;Rotella;NULL;NULL;NULL;NULL;NULL;NULL;NULL;barbara.rotella13@gmail.com;NULL;2024-10-23 13:54:31;2024-10-23 13:54:31;NULL
+552;;URIEL;CALCAGNO;ISTITUTO CROCI;NULL;NULL;NULL;NULL;NULL;NULL;uriel.calcagno@icscroci.it;NULL;2024-10-23 21:21:51;2024-10-23 21:21:51;NULL
+553;;MARIAISABELLA;GRIFFO;ISTITUTO VAL DI CEMBRA TRENTINO;NULL;NULL;NULL;NULL;NULL;NULL;grisa2009@hotmail.it;NULL;2024-10-23 21:59:48;2024-10-23 21:59:48;NULL
+554;;Sara;Gurnari;NULL;NULL;NULL;NULL;NULL;NULL;NULL;sara.gurnari1@gmail.com;3400867207;2024-10-23 22:09:50;2024-10-23 22:09:50;NULL
+555;;Chiara;Marabello;NULL;NULL;NULL;Lecco;NULL;NULL;NULL;marabello.chiara@gmail.com;333 5913368;2024-10-23 23:17:16;2024-10-23 23:17:16;NULL
+556;;Claudia;Tomasi;Istituto Statale Elsa Morante Pacle di Limbiate (MB);NULL;NULL;NULL;NULL;NULL;NULL;claudia.tomasi@morante-limbiate.edu.it;NULL;2024-10-24 10:18:07;2024-10-24 10:18:07;NULL
+557;;Maria Camilla;Di Tullio;Istituto Fabio Besta Milano;NULL;Via Don Giovanni Calabria 16;Milano;20132;Milano;Italia;maria.ditullio@fbesta.edu.it;02 256 3073;2024-10-24 11:05:11;2024-10-24 11:05:11;NULL
+558;;Istituto d'Istruzione Superiore;G. Romani;NULL;NULL;NULL;Casalmaggiore;NULL;NULL;NULL;NULL;NULL;2024-10-24 11:41:48;2024-10-24 11:41:48;NULL
+559;;Istituto Comprensivo di Olgiate Olona;Prof. Francesco Cavallaro;NULL;NULL;NULL;NULL;NULL;NULL;NULL;francesco.cavallarochinesiologo@hotmail.com;NULL;2024-10-24 12:59:22;2024-10-24 12:59:22;NULL
+560;;Beatrice;Menozzi;Istituto Tecnico Statale L. Einaudi;NULL;via Prati 2;Correggio;42015;Reggio Emilia;Italia;info@einaudicorreggio.edu.it;0522 69 32 71;2024-10-24 13:30:15;2024-10-24 13:30:15;NULL
+561;;Carlo;Giummo;Juventus Club Centmcellae;NULL;NULL;CIVITAVECCHIA;NULL;ROMA;NULL;Vilmer82@hotmail.it;3394733852;2024-10-24 21:40:12;2024-11-29 22:12:13;NULL
+562;;Istituto d'Istruzione Superiore;Alcide Degasperi;NULL;NULL;NULL;Borgo Valsugana;NULL;Trento;NULL;NULL;NULL;2024-10-25 06:38:52;2024-10-25 06:38:52;NULL
+563;;Liceo Statale;Eugenio Montale;NULL;NULL;NULL;Pontedera;NULL;NULL;NULL;NULL;NULL;2024-10-25 07:45:36;2024-10-25 07:45:36;NULL
+564;;istituto comprensivo primo grado;Testoni Fioravanti;IC Testoni Fioravanti;NULL;NULL;NULL;NULL;NULL;NULL;silviamerciari@gmail.com;NULL;2024-10-25 09:03:09;2024-10-25 09:03:09;NULL
+565;;Nicola;Abalsamo;istituto tecnico E. Montale Tradate;NULL;NULL;NULL;NULL;NULL;NULL;nicola.abalsamo@isismontaletradate.com;3896775600;2024-10-25 09:46:29;2024-10-25 09:46:29;NULL
+566;;MASSIMILIANO;ZENO;NULL;NULL;NULL;CIVITAVECCHIA;53;ROMA;NULL;zenomassimiliano@gmail.com;3472945123;2024-10-25 14:26:20;2024-11-29 22:13:09;NULL
+567;;Agatina;Moschetti;ic III di Collegno Plesso Don Milani;NULL;NULL;NULL;NULL;NULL;NULL;agatinamoschetti@gmail.com;NULL;2024-10-25 22:43:14;2024-10-25 22:43:14;NULL
+568;;MARIA;SPATOLA;istituto Madonna della neve;NULL;NULL;ARDO;NULL;BS;NULL;maria.spatola@madonnadellaneve.it;NULL;2024-10-26 09:49:08;2024-10-26 09:49:08;NULL
+569;;Laura;Napolitano;IIS CURIE LEVI;NULL;NULL;Collegno;NULL;TORINO;NULL;laura.napolitano@iiscurielevi.it;3291855413;2024-10-26 15:51:22;2024-10-26 15:51:22;NULL
+570;;Istituto d'Istruzione Superiore;G. Valle;NULL;NULL;NULL;Padova;NULL;NULL;NULL;NULL;NULL;2024-10-27 14:17:57;2024-10-27 14:17:57;NULL
+571;;ERICA;ALBANO;IC E. FRANCESCHINI;NULL;NULL;RHO;NULL;NULL;NULL;NULL;NULL;2024-10-27 17:30:31;2024-10-27 17:30:31;NULL
+572;;AMBRA;MELI;Istituto comprensivo Beato Contardo Ferrini;NULL;NULL;OLGIATE OLONA;NULL;VA;NULL;ambra.meli22@gmail.com;NULL;2024-10-27 18:12:36;2024-10-27 18:12:36;NULL
+573;;IISS M.Polo di Bari;Prof. Marta Mongelli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;martamongelli@yahoo.it;NULL;2024-10-28 10:20:02;2024-10-28 10:20:02;NULL
+574;;Annarosa;Fumarola;NULL;NULL;NULL;NULL;NULL;NULL;NULL;annarosafumarola12@gmail.com;NULL;2024-10-28 10:22:26;2024-10-28 10:22:26;NULL
+575;;MAURO;DE CILLIS;Mauro de Cillis;NULL;NULL;NULL;NULL;NULL;NULL;mauro.decillis33@gmail.com;NULL;2024-10-28 11:00:25;2024-10-28 11:00:25;NULL
+576;;Selenia;Scala;"Liceo Scientifico e Linguistico £E. Vittorini""";NULL;via Pitagora 1;Gela;93012;CL;Italia;selenia.scala@gmail.com;NULL;2024-10-28 17:39:08;2024-10-28 17:39:08;NULL
+577;;Erica;Villa;Scuola Secondaria di I grado F.lli Fonda Savio Manzoni;NULL;via Giovanni Pascoli 14;Trieste;34129;Trieste;Italia;erica.villa@icmarcopolots.org;NULL;2024-10-28 21:12:05;2024-10-28 21:12:05;NULL
+578;;ELISABETTA;ANGELINI;LICEO URBINO;NULL;NULL;NULL;NULL;NULL;NULL;elisabetta_angelini@virgilio.it;NULL;2024-10-28 22:41:50;2024-10-28 22:41:50;NULL
+579;;ISTITUTO;VOGHERA;NULL;NULL;NULL;NULL;NULL;NULL;NULL;pvic827005@istruzione.it;NULL;2024-10-28 22:46:09;2024-10-28 22:46:09;NULL
+580;;Marianna;Roglia Lombino;NULL;NULL;NULL;NULL;Torino;TORINO;italia;roglialombino@libero.it;NULL;2024-10-29 00:22:23;2024-11-29 22:13:30;NULL
+581;;STEFANO;MANZATO;NULL;NULL;CORSO LODI;MILANO;NULL;NULL;ITALIA;ippodromo76@gmail.com;NULL;2024-10-29 00:28:32;2024-10-29 00:28:32;NULL
+582;;Istituto d'Istruzione Superiore;C. Colombo;NULL;NULL;NULL;Roma;NULL;NULL;NULL;NULL;NULL;2024-10-29 07:06:25;2024-10-29 07:06:25;NULL
+583;;Camilla;Zaniboni;Istituto Comprensivo di San Polo d'Enza;NULL;NULL;Reggio Emilia;NULL;NULL;NULL;zanibonicamilla@libero.it;3470181972;2024-10-29 10:10:29;2024-10-29 10:10:29;NULL
+584;;Elisa;Cominini;Istituto Comprensivo L. Einaudi;NULL;Via Mazzini 28;Sale Marasino;25057;BS;Italia;elisacominini@gmail.com;NULL;2024-10-29 13:43:09;2024-10-29 13:43:09;NULL
+585;;Istituto Superiore Gentileschi Napoli;Professoressa Maria De Simone;NULL;NULL;NULL;NULL;NULL;NULL;NULL;marina.desimone.10@gmail.com;NULL;2024-10-29 14:40:20;2024-10-29 14:40:20;NULL
+586;;MANUELA;GALBIGNANI;SCUOLA BOLZANO;NULL;NULL;NULL;NULL;NULL;NULL;manuela.galbignani@yahoo.com;NULL;2024-10-29 15:46:48;2024-10-29 15:47:08;NULL
+587;;Filippo;Mattavelli;I. De Amicis;NULL;NULL;NULL;NULL;NULL;NULL;mattavelli.filippo@ideamicis.it;NULL;2024-10-29 16:33:56;2024-10-29 16:33:56;NULL
+588;;Francesca;D'Andrea;I.C. Casalpusterlengo;NULL;NULL;NULL;NULL;NULL;NULL;francesca.d'andrea@iccasalpusterlengo.edu.it;3291268609;2024-10-29 17:48:41;2024-10-29 17:48:41;NULL
+589;;LORELLA;BAGHINO;NULL;NULL;NULL;CAGLIARI;NULL;NULL;NULL;lorella.baghino@gmail.com;NULL;2024-10-30 06:12:31;2024-10-30 17:59:25;NULL
+590;;Agenzia Viaggi;Sol y Mar;NULL;NULL;NULL;Verona;NULL;NULL;NULL;NULL;NULL;2024-10-30 07:57:43;2024-10-30 07:57:43;NULL
+591;;ISTITUTO;GINO ZAPPA;NULL;NULL;NULL;SARONNO;NULL;NULL;NULL;vatd08000g@istruzione.it;NULL;2024-10-30 12:15:46;2024-10-30 12:15:46;NULL
+592;;Valeria;Montruccio;NULL;NULL;NULL;NULL;NULL;NULL;NULL;vamontry@libero.it;NULL;2024-10-30 12:37:49;2024-10-30 12:37:49;NULL
+593;;LICEO;SEVERI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;frps010009@istruzione.it;NULL;2024-10-30 14:47:15;2024-10-30 14:47:15;NULL
+594;;Laura;Moretto;Istituto Comprensivo Santa Margherita Ligure;91028130101;Via Roccatagliata 2A;Santa Margherita Ligure;16038;GE;Italia;laura.moretto@icsantamargheritaligure.edu.it;0185 295753;2024-10-30 15:57:30;2024-10-30 15:57:30;NULL
+595;;Anna Maria;Salerno;Istituto Superiore Ettore Sanfelice;83002190201;Via Sanfelice 5;Viadana;46019;MN;Itlia;am.salerno1201@gmail.com;0375 781792;2024-10-30 16:41:42;2024-10-30 16:41:42;NULL
+596;;PAOLA;MONTESANTI;Istituto Comprensivo Virgilio;NULL;NULL;ROMA;NULL;NULL;NULL;paola.montesanti@icvirgilioroma.edu.it;NULL;2024-10-30 18:40:27;2024-11-03 00:01:00;2024-11-03 00:01:00
+597;;ELISA;MIGLIORATI;IST COMPRENSIVO AZZANO;NULL;NULL;AZZANO;NULL;NULL;NULL;elisa.migliorati@icazzanomella.edu.it;NULL;2024-10-30 20:23:46;2024-10-30 20:23:46;NULL
+598;;Leyanita;Di Blasio;Scuola Media Dante Alighieri;NULL;via Montesecco 35;Spoltore;6510;PE;Italia;lejanita@gmail.com;328 1425789;2024-10-30 21:12:33;2024-10-30 21:12:33;NULL
+599;;Samuele;Fanous;NULL;NULL;NULL;NULL;NULL;NULL;NULL;samuelefanous@gmail.com;3318161510;2024-10-31 11:25:03;2024-10-31 11:25:03;NULL
+600;;Maria Giulia;Andretta;Scuole Manzoni;NULL;via Scipione dal Ferro 10/2;Bologna;40138;BO;Italia;mariagiulia.andretta@scuolemanzoni.it;051 225805;2024-10-31 12:54:30;2024-10-31 12:54:30;NULL
+601;;PAOLA;MONTESANTI;ISTITUTO COMPRENSIVO VIRGILIO  - ROMA - SCUOLA MEDIA STATALE;NULL;VIA GIULIA, 25;ROMA;186;RM;ITALIA;paola.montesanti@icvirgilioroma.edu.it;339/1932144;2024-11-02 23:28:02;2024-11-03 00:02:46;NULL
+602;;cecilia;saponiero;ic Asola;NULL;NULL;NULL;NULL;NULL;NULL;mnic80000x@istruzione.it;NULL;2024-11-03 00:13:52;2025-01-09 22:34:28;NULL
+603;;Claudia;Tomasi;ic Morante Limbiate;NULL;NULL;NULL;NULL;NULL;NULL;claudia.tomasi@morante-limbiate.edu.it;NULL;2024-11-04 11:48:45;2024-11-04 11:48:45;NULL
+604;;valeria;di Marco;ic Alda Merini;NULL;NULL;NULL;NULL;NULL;NULL;miic8c6006@istruzione.it;NULL;2024-11-04 11:59:22;2024-11-04 11:59:22;NULL
+605;;sara;Lucarini;iis via dei Papareschi di Roma;NULL;NULL;NULL;NULL;NULL;NULL;commissioneviaggi@papareschi.net;NULL;2024-11-04 12:07:59;2024-11-04 12:07:59;NULL
+606;;Annalisa;Giostra;NULL;NULL;NULL;NULL;NULL;NULL;NULL;agiostra@pursueducation.com;NULL;2024-11-04 17:12:15;2024-11-04 17:12:15;NULL
+607;;Nabil;Moutaoukil;issis m.o. luciano dalcero;NULL;NULL;San bonifacio;NULL;VERONA;NULL;nabilmoutaoukil@outlook.com;457611398;2024-11-04 18:19:16;2024-11-04 18:19:16;NULL
+608;;Liceo Arstistico;Olivieri;NULL;NULL;NULL;Brescia;NULL;NULL;NULL;NULL;NULL;2024-11-05 12:48:01;2024-11-05 12:48:01;NULL
+609;;ROMINA;GUZZONI;ISTITUTO VIGNATE;NULL;NULL;NULL;NULL;NULL;NULL;romina.guzzoni@icsvignate.edu.it;NULL;2024-11-05 18:56:00;2024-11-05 18:56:00;NULL
+610;;GABRIELLA;MARTINELLI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;gabriella.martinelli.tc@gmail.com;3890440606;2024-11-05 20:40:44;2024-11-05 20:40:44;NULL
+611;;Giovanna;Aliberti;IIS BESTA di Milano;NULL;NULL;NULL;NULL;NULL;NULL;aligyo@libero.it;NULL;2024-11-05 22:19:04;2024-11-05 22:19:04;NULL
+612;;Chiara;Masserelli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;chiaramasserelli@gmail.com;NULL;2024-11-06 15:19:08;2024-11-06 15:19:08;NULL
+613;;Istituto Cangrande di Verona;Prof. Giovanna Zocca;NULL;NULL;NULL;NULL;NULL;NULL;NULL;giovanna.zocca@itscangrande.edu.it;NULL;2024-11-06 15:24:41;2024-11-06 15:24:41;NULL
+614;;Nadia;Tantardini;Istituto di Istruzione Superiore 'Ferrini Franzosini';NULL;via Massara 8;Verbania;28922;VB;Italia;gonzalezdiaz.vanessa@ferrinifranzosini.edu.it;0323 40 14 07;2024-11-06 16:27:46;2024-11-25 16:40:57;NULL
+615;;Istituto d'Istruzione Superiore;G. Govone;NULL;NULL;NULL;Alba;NULL;NULL;NULL;NULL;NULL;2024-11-08 08:49:31;2024-11-08 08:49:31;NULL
+616;;Istituto Comprensivo;Luca Ghini;NULL;NULL;NULL;Roma;NULL;NULL;NULL;NULL;NULL;2024-11-08 09:03:35;2024-11-08 09:03:35;NULL
+617;;Istituto Domizia Lucilla di Roma;Professoressa Ilaria Cecchi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;ilariacecchi@domizialucilla.edu.it;NULL;2024-11-08 13:35:21;2024-11-08 13:35:21;NULL
+618;;FABIO;ORTINO;IC NICHELINO;NULL;NULL;TORINO;NULL;NULL;NULL;fabio.ortino@icnichelinouno.edu.it;NULL;2024-11-08 19:03:08;2024-11-08 19:03:08;NULL
+619;;DIONEA;VIAGGI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;dioneaviaggi@gmail.com;NULL;2024-11-08 21:31:35;2024-11-08 21:31:35;NULL
+620;;M.;VENTRELLA;IC E.FERMI VILLASANTA;NULL;NULL;NULL;NULL;NULL;NULL;mari.vent@libero.it;NULL;2024-11-08 22:33:55;2024-11-08 22:33:55;NULL
+621;;ISTITUTO COMPRESIVO ALESSANDRO;MANZONI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;vaic852002@istruzione.it;NULL;2024-11-10 10:15:28;2024-11-14 12:23:11;NULL
+622;;ROSA;BONETTI;IC ILARIA ALPI;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-11-10 13:33:11;2024-12-29 13:21:56;NULL
+623;;STEFANO;TANDA;IC MANZONI;NULL;NULL;ROSATE;NULL;NULL;NULL;stefanotanda@hotmail.it;NULL;2024-11-10 14:33:44;2024-11-10 14:33:44;NULL
+624;;SARA;BALLARINI;CANDIANI;NULL;NULL;BUSTO ARSIZIO;NULL;NULL;NULL;sballarini888@gmail.com;NULL;2024-11-10 15:07:27;2024-11-10 15:07:27;NULL
+625;;MANUELA;TASSANI;IC PEPOLI;NULL;NULL;BOLOGNA;NULL;NULL;NULL;NULL;NULL;2024-11-10 21:33:41;2024-11-10 21:33:41;NULL
+626;;Angela Patrizia;Piscitelli;ic G. Rodari - Rossella Casini;NULL;NULL;Scandicci;NULL;NULL;NULL;piscitelli.angelapatrizia@icrossellacasini.com;NULL;2024-11-11 14:46:50;2024-11-11 14:46:50;NULL
+627;;Andrea;Ciccarelli;Isis giorgiovasari;NULL;NULL;Figline Val Darno;NULL;NULL;NULL;ciccarelli.andrea06@gmail.com;55952087;2024-11-11 17:22:26;2024-11-11 17:22:26;NULL
+628;;loredana;vozzi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;loredana.vozzi@gmail.com;NULL;2024-11-12 01:01:04;2024-11-12 01:01:04;NULL
+629;;Concetta;Raso;IC Bellagio;NULL;NULL;NULL;NULL;NULL;NULL;concetta.raso@icbellagio.edu.it;NULL;2024-11-12 07:33:12;2024-11-12 08:01:46;NULL
+630;;ISTITUTO COMPRENSIVO PERLASCA;Ds Maria Angela Zanca Prof.ssa Emanuela Lazzaroni;NULL;NULL;NULL;NULL;NULL;NULL;NULL;miic86700t@istruzione.it;NULL;2024-11-12 14:11:51;2024-11-12 14:17:42;NULL
+631;;Luca;Pacchini;"ISTITUTO D'ISTRUZIONE SUPERIORE ""LUCA SIGNORELLI""";92000960515;Vicolo del Teatro, 4;Cortona;52044;AR;ITALIA;aris001001@istruzione.it;0575 603626;2024-11-12 23:00:51;2024-11-12 23:00:51;NULL
+632;;Tommaso;Famà;ISTITUTO SUPERIORE DEL PRETE FALCONE;NULL;NULL;SAVA;74028;TARANTO;ITALIA;tais04100v@istruzione.it;3476266471;2024-11-12 23:28:34;2024-12-31 00:19:45;NULL
+633;;Istituto;Enzo Ferrari;NULL;NULL;NULL;Monza;NULL;NULL;NULL;NULL;NULL;2024-11-13 12:24:50;2024-11-13 12:24:50;NULL
+634;;Marilisa;Tiraboschi;ABF.eu - Azienda Formazione Bergamasca - sezione di Clusone;NULL;via Barbarigo 27;Clusone;24023;BG;Italia;marilisa.tiraboschi@abf.eu;0346 22808;2024-11-13 16:46:03;2024-11-13 16:46:03;NULL
+635;;Antonella;Tomo;Istituto Comprensivo Pablo Neruda;NULL;via Casal del Marmo 212;Roma;NULL;RM;Italia;antonella.tomo@icpabloneruda.edu.it;06 99 18 01 27;2024-11-13 18:04:24;2024-11-13 18:04:24;NULL
+636;;Liceo;Allende;NULL;NULL;NULL;Milano;NULL;NULL;NULL;NULL;NULL;2024-11-13 21:12:35;2024-11-13 21:12:35;NULL
+637;;Anna Maria;Sirolli;Istituto di Istruzione Superiore De Titta - Fermi;90036070697;viale Marconi 14;Lanciano;66034;CH;italia;chis019001@istruzione.it;0872 716381;2024-11-13 21:18:25;2024-11-13 21:18:25;NULL
+638;;Liceo Statale;G. Cotta;NULL;NULL;NULL;Legnago;NULL;NULL;NULL;NULL;NULL;2024-11-14 06:29:04;2024-11-14 06:29:04;NULL
+639;;Francesca;Vetrugno;IIS Pertini - Falcone;NULL;via Lentini 78;Roma;133;RM;Italia;rmis102001@istruzione.it;06 97 85 96 16;2024-11-14 09:13:09;2024-11-14 09:13:09;NULL
+640;;AGNESE;GAMBINI;ITSOS MARIE CURIE;NULL;NULL;NULL;NULL;NULL;NULL;agnese.gambini@itsos-mariecurie.it;NULL;2024-11-14 09:32:50;2024-11-14 09:32:50;NULL
+641;;Istituto Comprensivo;Sandro Pertini;NULL;NULL;NULL;Voghera;NULL;NULL;NULL;NULL;NULL;2024-11-14 13:10:17;2024-11-14 13:10:17;NULL
+642;;Dirigente;Scolastico;IC CENA DI TORINO;NULL;NULL;NULL;NULL;NULL;NULL;toic80500e@istruzione.it;NULL;2024-11-14 13:53:00;2025-02-13 00:46:22;NULL
+643;;Ic Rinnovata Pizzigoni;Professoressa Alssandra Adamo;NULL;NULL;NULL;NULL;NULL;NULL;NULL;alessandra.adamo1980@gmail.com;NULL;2024-11-14 15:53:18;2024-11-14 15:53:18;NULL
+644;;ALESSANDRA;OLIVERI;ISTITUTO UNGARETTI DI MELZO;NULL;NULL;NULL;NULL;NULL;NULL;oliveri.a@melzoscuole.edu.it;NULL;2024-11-14 16:27:30;2024-11-14 16:27:30;NULL
+645;;Eleonora;Bendicente;Liceo Nani Boccioni;NULL;NULL;NULL;NULL;NULL;NULL;eleonora.b3nd1cente@gmail.com;NULL;2024-11-14 16:46:00;2024-11-14 16:46:00;NULL
+646;;Simona;Scarsella;Istituto Magistrale Statale L. Pietrobono;80012730604;P.zza Santa Maria Maggiore 6;Alatri;3011;FR;Italia;frpm08000l@istruzione.it;0775 43 51 57;2024-11-14 20:32:35;2024-11-14 20:32:35;NULL
+647;;Istituto Istruzione;superiore;E. Alessandrini-Mainardi  di Vittuone;NULL;NULL;NULL;NULL;NULL;NULL;miis09200p@istruzione.it;NULL;2024-11-14 23:39:32;2024-11-14 23:39:32;NULL
+648;;Giuseppe;De Tommaso;Istituto Vincenzo Lilla di Oria;NULL;NULL;NULL;NULL;NULL;NULL;peppetioria@gmail.com;3791182416;2024-11-15 10:34:56;2024-11-15 10:34:56;NULL
+649;;ANTONIO;AMATO;ISTITUTO CINQUE GIORNATE;NULL;NULL;NULL;NULL;NULL;NULL;amato.antonio@iccinquegiornate.edu.it;NULL;2024-11-15 10:38:21;2024-11-15 10:38:21;NULL
+650;;Prof.ssa Angela;Messinetti;NULL;NULL;NULL;NULL;NULL;NULL;NULL;messinetti.angela@istitutocomprensivoborgosatollo.edu.it;NULL;2024-11-15 12:06:49;2024-11-15 12:06:49;NULL
+651;;carmelina;rescigno;ic Sergio NERI;NULL;NULL;NULL;NULL;NULL;NULL;carmelina.rescigno@icsergioneri.istruzioneer.it;NULL;2024-11-15 14:20:55;2024-11-15 14:20:55;NULL
+652;;Gaetano;Pendolino;Paraiba Travel SRL   -;1953640842;Via Esseneto, 109;Agrigento;-92100;NULL;NULL;paraibatravel@gmail.com;Tel. 0922 596500;2024-11-15 22:45:42;2024-11-15 22:59:51;NULL
+653;;Aymane;Chatibi;IIS San Micheli di Verona;NULL;NULL;Verona;NULL;NULL;NULL;achatibi.09@icloud.com;NULL;2024-11-16 12:49:32;2024-11-16 12:49:32;NULL
+654;;Istituto d'Istruzione Superiore;Antonietti;NULL;NULL;NULL;Iseo;NULL;NULL;NULL;NULL;NULL;2024-11-17 09:21:34;2024-11-17 09:21:34;NULL
+655;;LICEO ARTISTICO PORTA ROMANA E SESTO FIORENTINO;Segreteria Didattica;NULL;NULL;NULL;NULL;NULL;NULL;NULL;didattica1@artisticofirenze.edu.it;NULL;2024-11-18 14:24:01;2024-11-18 14:24:01;NULL
+656;;Elena;De Maio;NULL;NULL;NULL;NULL;NULL;NULL;NULL;elena.demaio@icalbanopavona.edu.it;NULL;2024-11-18 18:08:13;2024-11-18 18:08:13;NULL
+657;;Alice;Polastri;NULL;NULL;NULL;milano;NULL;MI;ITALIA;alice.polastri@outlook.it;3472781354;2024-11-18 22:11:40;2024-11-29 22:14:13;NULL
+658;;Elda;Frojo;Istituto Tecnico Statale L. Casale;85004780186;Via Ludovico il Moro 6/8;Vigevano;27029;PV;Italia;pvtd03000a@istruzione.it;0381 84 185;2024-11-19 21:43:58;2024-11-19 21:43:58;NULL
+659;;ORNELLA;GO TRAVEL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;direzione@go-travel.it;NULL;2024-11-20 15:16:26;2024-11-20 15:16:26;NULL
+660;;Lucia;Anzivino;Liceo di Bra;NULL;Via Fratelli Carando 43;Bra;NULL;CN;Italia;lianzi48@yahoo.it;+39 0172 44624;2024-11-20 15:52:31;2024-11-20 15:52:31;NULL
+661;;ISISS;Valle Seriana;NULL;NULL;NULL;Gazzaniga;NULL;NULL;NULL;NULL;NULL;2024-11-20 21:37:22;2024-11-20 21:37:22;NULL
+662;;Istituto Comprensivo;Binasco;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-11-21 08:53:59;2024-11-21 08:53:59;NULL
+663;;Istituto d'Istruzione Superiore;Bassano Romano;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-11-21 13:23:23;2024-11-21 13:23:23;NULL
+664;;ALESSANDRA;ROVATTI;IC BARACCA;NULL;NULL;MAGENTA;NULL;NULL;NULL;NULL;NULL;2024-11-21 19:05:12;2024-11-21 19:05:12;NULL
+665;;Liceo Scientifico Statale;"""Niccolo Copernico""";NULL;NULL;NULL;Pavia;NULL;NULL;NULL;pvps05000q@istruzione.it;NULL;2024-11-22 11:20:14;2024-11-22 11:20:14;NULL
+666;;Germana;Fiore;I.C. Bolzano V - Gries 1;80015020219;Via Duca d’Aosta, 46;Bolzano;39100;BZ;Italia;ic.bolzano5@scuola.alto-adige.it;0471-272092;2024-11-22 20:41:47;2024-11-22 20:41:47;NULL
+667;;Scuola Secondaria di Primo Grado;Giovanni Paolo II;NULL;NULL;NULL;Cerro Maggiore;NULL;NULL;NULL;NULL;NULL;2024-11-23 14:28:30;2024-11-23 14:28:30;NULL
+668;;Luca;Buhne;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-11-23 21:06:20;2024-11-23 21:06:20;NULL
+669;;ITIS;Guglielmo Marconi;NULL;NULL;NULL;Gorgonzola;NULL;NULL;NULL;NULL;NULL;2024-11-24 14:51:18;2024-11-24 14:51:18;NULL
+670;;GIAMMARIA;DI PADOVA;LICEO CAIROLI;NULL;Corso Trapani 25;TORINO;NULL;TO;Italia;dipadova.giammaria@emailliceocairoli.net;NULL;2024-11-25 15:49:58;2024-11-26 20:42:44;NULL
+671;;Maria Teresa;Lopez;Istituto Comprensivo Sandro Pertini;95032770182;via Marsala 13;Voghera;27058;PV;Italia;pvic826009@istruzione.it;0383- 41371;2024-11-25 21:03:10;2024-11-25 21:03:10;NULL
+672;;Liceo Statale;G. Agnesi;NULL;NULL;NULL;Milano;NULL;NULL;NULL;NULL;NULL;2024-11-25 21:27:26;2024-11-25 21:27:26;NULL
+673;;Cangini;Donaatella;Istituto di Istruzione Superiore Vittorio Barchelet;90000430158;via Stignani 63;Abbiategrasso;20081;MI;Italia;miis003003@istruzione.it;02 94 64 236;2024-11-26 07:50:50;2024-11-26 07:50:50;NULL
+674;;istituto comprensivo;Valtoce Vogogna;NULL;NULL;NULL;ORNAVASSO;NULL;NULL;NULL;vbic80600v@istruzione.it;NULL;2024-11-26 09:48:30;2024-11-26 09:48:30;NULL
+675;;ISTITUTO COMPRENSIVO;PORTO GARIBALDI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;feic82000p@istruzione.it;NULL;2024-11-26 12:43:14;2024-11-26 12:43:14;NULL
+676;;Istituto d'Istruzione Superiore;Argentia-Majorana;NULL;NULL;NULL;Gorgonzola;NULL;NULL;NULL;NULL;NULL;2024-11-27 06:38:06;2024-11-27 06:38:06;NULL
+677;;ALESSANDRO;MICO;Maxwell;NULL;NULL;NULL;NULL;NULL;NULL;alessandro.mico@maxwell.mi.it;NULL;2024-11-27 14:25:38;2024-11-28 13:52:36;NULL
+678;;ALESSANDRO;MICO';"I.I.S. ""J.C. Maxwell""";NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-11-27 18:50:33;2024-11-27 18:50:33;NULL
+679;;Arlene;Gallo;NULL;NULL;Via S. Andrea, 16;VINOVO;10048;TORINO;ITALIA;arlene.gallo95@gmail.com;NULL;2024-11-27 22:50:04;2024-11-29 22:17:47;NULL
+680;;Marco;Bollettino;ic Gramsci di Ivrea;NULL;NULL;NULL;NULL;NULL;NULL;preside@lsgramsci.it;NULL;2024-11-27 23:35:13;2024-11-27 23:35:13;NULL
+681;;istituto comprensivo;Rodano;ic Rodano Settala;NULL;NULL;NULL;NULL;NULL;NULL;MIIC8BN004@istruzione.it;NULL;2024-11-28 00:04:13;2024-11-28 00:04:13;NULL
+682;;Emilio;De luca;ic Pincherle RM;NULL;NULL;NULL;NULL;NULL;NULL;emilio.deluca.d@icpincherle.edu.it;NULL;2024-11-28 00:10:53;2024-11-28 00:10:53;NULL
+683;;Scuole;Manzoni;NULL;NULL;NULL;Bologna;NULL;NULL;NULL;NULL;NULL;2024-11-28 12:54:01;2024-11-28 12:54:01;NULL
+684;;Alessandro;Micò;I. Maxwell;NULL;NULL;NULL;NULL;NULL;NULL;alessandro.mico@maxwell.mi.it;NULL;2024-11-28 13:53:02;2024-11-28 13:53:02;NULL
+685;;MARTA;CAIMI;Iqbal Masih;NULL;NULL;MALNATE;NULL;NULL;NULL;NULL;NULL;2024-11-28 21:15:50;2024-11-28 21:15:50;NULL
+686;;Marzia;Ognibene;I.I.S. Via Salvo D'Acquisto 69;87004430580;Via Salvo D'Acquisto 69;Velletri;49;RM;Italia;marzia.ognibene@iisviasdacquisto69.edu.it;06 121123025;2024-11-29 09:51:49;2024-11-29 09:51:49;NULL
+687;;CRISTINA;SCANDELLA;IC STATALE GIOELE SOLARI;NULL;NULL;ALBINO;NULL;NULL;NULL;NULL;NULL;2024-11-29 21:14:17;2024-12-09 11:28:38;NULL
+688;;istituto;comprensivo;Compagni- Carducci;NULL;NULL;NULL;NULL;NULL;NULL;fiic853009@pec.istruzione.it;NULL;2024-11-30 01:36:55;2024-11-30 01:36:55;NULL
+689;;Acorn;International School;NULL;NULL;NULL;Roma;NULL;NULL;NULL;NULL;NULL;2024-11-30 13:45:59;2024-11-30 13:45:59;NULL
+690;;PAOLA;FERRARI;Centro di Formazione Alberghiero Formont;NULL;NULL;VILLADOSSOLA;NULL;NULL;NULL;paola.ferrari@formont.it;NULL;2024-11-30 18:34:11;2024-11-30 18:34:11;NULL
+691;;EMANUELE;PAPINI;Collegio Bianconi;NULL;NULL;MONZA;NULL;NULL;NULL;papini.emanuele@collegio-bianconi.it;NULL;2024-11-30 19:47:40;2024-11-30 19:47:40;NULL
+692;;CHIARA;BOLDRINI;IIS DON MILANI;NULL;NULL;ROVERETO;NULL;NULL;NULL;c.boldrini@domir.it;NULL;2024-11-30 21:00:06;2024-11-30 21:00:06;NULL
+693;;PISANA;VISCONTI;IC MOROSINI;NULL;NULL;VENEZIA;NULL;NULL;NULL;pisana.visconti@icmorosini.edu.it;NULL;2024-11-30 22:07:38;2024-11-30 22:07:38;NULL
+694;;Marco;Buccolieri;I.C. BELFANTI;NULL;NULL;NULL;NULL;NULL;NULL;marco.buccolieri@icbelfanti.edu.it;NULL;2024-12-01 18:59:29;2024-12-01 18:59:29;NULL
+695;;Mirko;Gabellone;"Liceo Artistico di Galatina ""Colonna""";NULL;NULL;NULL;NULL;NULL;NULL;studentecommosso@gmail.com;NULL;2024-12-02 09:54:36;2024-12-02 09:54:36;NULL
+696;;centro istruzione adulti;CPIA PV;CPIA PAVIA;NULL;NULL;NULL;NULL;NULL;NULL;pvmm113005@istruzione.it;NULL;2024-12-02 13:38:28;2024-12-02 13:38:28;NULL
+697;;Istituto Liceo;San Bartolomeo;NULL;NULL;NULL;Sansepolcro;NULL;NULL;NULL;NULL;NULL;2024-12-03 09:24:43;2024-12-03 09:24:43;NULL
+698;;istituto Nautico;Luigi Galvani;ISIS Tommaso di Savoia Duca di Genova;NULL;NULL;Trieste;NULL;NULL;NULL;TSIS00200T@ISTRUZIONE.IT;NULL;2024-12-03 14:05:20;2024-12-03 14:05:20;NULL
+699;;Antonella Maria;Vilella;Liceo Statale Gaetana Agnesi;NULL;NULL;Milano;20136;NULL;NULL;mipm03000t@pec.istruzione.it;02/58100671;2024-12-03 15:14:49;2024-12-03 15:14:49;NULL
+700;;Liceo Statale;Regina Margherita;NULL;NULL;NULL;Torino;NULL;NULL;NULL;topm050003@istruzione.it;NULL;2024-12-03 15:40:50;2024-12-03 15:40:50;NULL
+701;;Collegio;Bianconi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-12-04 13:19:51;2024-12-04 13:19:51;NULL
+702;;istituto comprensivo spoltore;IC spoltore;istituto comprensivo spoltore;NULL;NULL;NULL;NULL;NULL;NULL;peic806007@istruzione.it;NULL;2024-12-04 15:24:47;2024-12-04 15:24:47;NULL
+703;;commissione viaggi;istituto superiore;Marconi Galletti;NULL;NULL;NULL;NULL;NULL;NULL;commissioneviaggi@marconigalletti.it;NULL;2024-12-04 23:54:22;2024-12-04 23:54:22;NULL
+704;;ISTITUTO;GIACOMO SOLERI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;cnis021004@istruzione.it;NULL;2024-12-05 04:57:20;2024-12-05 04:57:20;NULL
+705;;Istituzione Scolastica;Luigi Einaudi;NULL;NULL;NULL;Aosta;NULL;NULL;NULL;NULL;NULL;2024-12-05 04:58:14;2024-12-05 04:58:14;NULL
+706;;Antonijetta;Strollo;Scuola Internazionale Europea Statale Altiero Spinelli;97602250017;via Figlie dei Militari 25;Torino;10131;TO;Italia;tops270001@istruzione.it;011 8399552;2024-12-05 07:46:53;2024-12-05 07:46:53;NULL
+707;;LICEO STATALE;“GAETANA AGNESI”;NULL;NULL;NULL;MILANO;NULL;NULL;NULL;mipm03000t@istruzione.it;NULL;2024-12-05 09:21:05;2024-12-05 14:25:55;NULL
+708;;Professoressa Daria Luisella;Rezzaghi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;daria.rezzaghi@istitutomantegna.it;NULL;2024-12-05 13:54:22;2024-12-05 13:54:22;NULL
+709;;Davide;Merolle;NULL;NULL;NULL;NULL;NULL;NULL;NULL;davide.merolle@gmail.com;NULL;2024-12-05 15:56:16;2024-12-05 15:56:16;NULL
+710;;IIS GIOVANNI GIORGI;Att. Rossella Ufficio Amministrativo;NULL;NULL;NULL;NULL;NULL;NULL;NULL;miis082004@istruzione.it;NULL;2024-12-05 16:21:48;2024-12-05 16:21:48;NULL
+711;;ALESSANDRA;CAMARDA;ISTITUTO COMPRENSIVO BRIANZA;NULL;NULL;BOLLATE;NULL;NULL;NULL;NULL;NULL;2024-12-05 19:22:57;2025-01-31 11:30:12;NULL
+712;;ISTITUTO COMPRENSIVO;GANDHI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;poic81400p@istruzione.it;NULL;2024-12-06 06:35:22;2024-12-06 06:37:00;NULL
+713;;"Istituto Formazione professionale Alberghiera ""Cipriani"" di Levico Terme";Prof. Camillo Labriola;NULL;NULL;NULL;NULL;NULL;NULL;NULL;camillo.labriola@scuole.provincia.tn.it;NULL;2024-12-06 09:57:47;2024-12-06 09:57:47;NULL
+714;;Letizia;Musso;NULL;NULL;NULL;NULL;NULL;NULL;NULL;musso.letizia@liceidibra.cloud;NULL;2024-12-06 14:04:15;2024-12-06 14:04:15;NULL
+715;;ISTITUTO ETTORE;GUATELLI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;pric82400c@istruzione.it;NULL;2024-12-06 21:57:49;2024-12-06 21:57:49;NULL
+716;;CRISTIANA;MORSELLI;"ISTITUTO COMPRENSIVO STATALE ""A. GRAMSCI""";NULL;NULL;LODI VECCHIO;NULL;NULL;NULL;NULL;NULL;2024-12-08 10:17:38;2024-12-08 10:17:38;NULL
+717;;Irene;Maggi;"Liceo Classico e Linguistico con sezione Ospedaliera ""Francesco Petrarca""";NULL;via Rossetti 74;Trieste;34139;TS;Italia;irene.maggi@liceopetrarcats.it;040 39 02 02;2024-12-09 08:13:03;2024-12-09 08:13:03;NULL
+718;;Liceo Canossiano Feltre;Professoressa Marina Meneghin;NULL;NULL;NULL;NULL;NULL;NULL;NULL;marinameneghin91@gmail.com;NULL;2024-12-09 15:08:34;2024-12-09 15:08:34;NULL
+719;;Liceo;Grigoletti;Liceo Grigoletti;NULL;NULL;Pordenone;NULL;NULL;NULL;mady.gb@libero.it;NULL;2024-12-09 17:09:13;2024-12-09 17:09:13;NULL
+720;;Cappelli;Silvia;NULL;NULL;NULL;NULL;NULL;NULL;NULL;Silvia.Cappelli@scuola.alto-adige.it;NULL;2024-12-09 17:23:10;2024-12-09 17:23:10;NULL
+721;;Antonietta;Di Lalla;"Liceo Scientifico ""Tulliano""";NULL;NULL;Arpiano;NULL;FR;Italia;NULL;NULL;2024-12-09 21:30:25;2024-12-09 21:30:25;NULL
+722;;Istituto d'Istruzione Superiore;Baldessano-Roccati;NULL;NULL;NULL;Carmagnola;NULL;NULL;NULL;NULL;NULL;2024-12-10 08:10:20;2024-12-10 08:10:20;NULL
+723;;MARCO;OTTAVIANO;IC FABRIZIO DE ANDRE';NULL;NULL;RHO;NULL;NULL;NULL;NULL;NULL;2024-12-10 13:53:16;2024-12-10 13:53:16;NULL
+724;;Angelino tours & Events;agenzia viaggi;Angelino tours & events;NULL;NULL;forio;NULL;napoli;NULL;prenotazioni@angelinotours.it;NULL;2024-12-10 13:55:31;2024-12-10 13:55:31;NULL
+725;;SEGRETERIA;DIDATTICA;IC MONTESSORI;NULL;NULL;SAN GIULIANO MILANESE;NULL;NULL;NULL;NULL;NULL;2024-12-10 22:03:43;2024-12-10 22:03:43;NULL
+726;;Spett.le;Segreteria;Istituto  Comprensivo Negri;NULL;NULL;NULL;NULL;NULL;NULL;alic824003@istruzione.it;NULL;2024-12-11 16:18:00;2025-02-04 10:21:59;NULL
+727;;Marco;Castiello;ITE Montale Tradate ( VA);NULL;NULL;Varese;NULL;NULL;NULL;marcocastiello@virgilio.it;NULL;2024-12-12 11:13:29;2024-12-12 11:13:29;NULL
+728;;ANTONELLO;VIRGONA;NULL;NULL;NULL;NULL;NULL;NULL;NULL;virgona.antonello.prof@ipscesena.it;NULL;2024-12-12 13:40:27;2024-12-12 13:40:27;NULL
+729;;ISTITUTO COMPRENSIVO;"SUPERIORE ""Andrea Gritti""";NULL;NULL;NULL;Venezia;NULL;NULL;NULL;VEIS018005@istruzione.it;NULL;2024-12-12 16:30:42;2024-12-12 16:30:42;NULL
+730;;Almudena;Villegas Gonzales;NULL;NULL;NULL;NULL;NULL;NULL;NULL;avillegasgonzalez@educa.jcyl.es;NULL;2024-12-12 16:35:19;2024-12-12 16:35:19;NULL
+731;;Paolo;Bornatici;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-12-13 11:38:34;2024-12-13 11:38:34;NULL
+732;;Sara;Floris;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;348 36 00 732;2024-12-13 12:05:09;2024-12-13 12:05:09;NULL
+733;;ISTITUTO ISTRUZIONE SUPERIORE;ROSA LUXEMBURG;IIS ROSA LUXEMBURG;91458390373;NULL;REGGIO EMILIA;NULL;NULL;NULL;BAIS033007@istruzione.it;NULL;2024-12-14 20:54:40;2024-12-14 20:54:40;NULL
+734;;Sara;sara;NULL;NULL;NULL;NULL;NULL;NULL;NULL;sbai00@outlook.it;NULL;2024-12-14 23:03:45;2024-12-14 23:03:45;NULL
+735;;julia;anosowicz;NULL;NULL;NULL;MODENA;NULL;NULL;NULL;julia.anosowicz@gmail.com;NULL;2024-12-14 23:12:56;2024-12-14 23:12:56;NULL
+736;;UFFICIO;SEGRETERIA;ISTITUTO COMPRENSIVO VAL CENO;NULL;NULL;BARDI;NULL;NULL;NULL;pric81000e@istruzione.it;NULL;2024-12-15 16:21:29;2024-12-15 19:57:33;NULL
+737;;Emanuela;Lorenzi;ITT Camillo Rondani;NULL;NULL;Parma;NULL;NULL;NULL;lorenzi.emanuela@iisrondani.edu.it;NULL;2024-12-16 09:50:54;2024-12-16 09:50:54;NULL
+738;;federica;calabrese;ic capponi;NULL;NULL;Milano;NULL;NULL;NULL;federica.calabrese@icscapponi.edu.it;NULL;2024-12-16 13:24:50;2024-12-16 13:24:50;NULL
+739;;ISTITUTO;PRIMO LEVI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;mitd330007@istruzione.it;NULL;2024-12-16 17:25:29;2024-12-16 17:25:29;NULL
+740;;FEDERICA;GARZINI;Istituto delle Suore di Maria Consolatrice;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2024-12-16 21:54:07;2024-12-16 21:54:07;NULL
+741;;istituto;dezza;Istituto Dezza;NULL;NULL;NULL;NULL;NULL;NULL;ds@istitutodezza.edu.it;NULL;2024-12-16 23:24:31;2024-12-16 23:24:31;NULL
+742;;iis Settimo torinese;IIS Settimo Torinese;IIS Settimo Torinese;NULL;NULL;NULL;NULL;NULL;NULL;stefania.taronna@istituto8marzo.edu.it;NULL;2024-12-17 00:31:29;2024-12-17 00:31:29;NULL
+743;;Elena;Piccione;Istituto superiore Piaget Diaz;NULL;NULL;Roma;NULL;NULL;NULL;elena.piccione@piagetdiaz.edu.it;NULL;2024-12-17 00:56:59;2024-12-17 00:56:59;NULL
+744;;ISTITUTO;PANZINI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;viaggi@iispanzini.com;NULL;2024-12-17 06:26:24;2024-12-17 06:26:24;NULL
+745;;Liceo Artistico Statale;Michelangelo Guggenheim;NULL;NULL;NULL;Venezia;NULL;NULL;NULL;NULL;NULL;2024-12-17 10:50:26;2024-12-17 10:50:26;NULL
+746;;Centro Studi;Milano;NULL;NULL;Via Benigno Crespi 12;Milano;20159;Milano;Italia;formazione@centrostudimilano.it;236531255;2024-12-18 13:10:42;2024-12-18 13:10:42;NULL
+747;;Francesca;Gamberini;Istituto Bartolomeo scappi;NULL;NULL;NULL;NULL;NULL;NULL;francesca18032006@gmail.com;NULL;2024-12-18 14:23:41;2024-12-18 14:23:41;NULL
+748;;LAURA;CASALI;LAURA CASALI;NULL;NULL;NULL;NULL;NULL;NULL;lauracasali@ymail.com;3480079522;2024-12-18 22:01:55;2024-12-18 22:01:55;NULL
+749;;Claudia;Volpi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-12-19 12:14:58;2024-12-19 12:14:58;NULL
+750;;Istituto Comprensivo;Coverciano;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2024-12-19 13:34:19;2024-12-19 13:34:19;NULL
+751;;LICEO ARTISTICO PORTA ROMANA;E SESTO FIORENTINO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;didattica1@artisticofirenze.edu.it;NULL;2024-12-19 16:14:18;2024-12-19 16:14:18;NULL
+752;;ISTITUTO TECN. E PROF.;DI CHIAVARI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;geis01900v@istruzione.it;NULL;2024-12-20 17:43:48;2024-12-20 17:43:48;NULL
+753;;ISTITUTO;CARLO LEVI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;miic8bp00x@istruzione.it;NULL;2024-12-21 07:14:26;2024-12-21 07:14:26;NULL
+754;;GIORGIA;GRANDE;ISTITUTO CARLO PORTA;NULL;NULL;MILANO;NULL;NULL;NULL;grande.giorgia@carloportamilano.edu.it;NULL;2024-12-29 10:49:29;2024-12-29 10:49:54;NULL
+755;;Wirtschaftsfachoberschule;F. Kafka;NULL;NULL;NULL;Merano;NULL;NULL;NULL;NULL;NULL;2025-01-03 07:53:21;2025-01-03 07:53:21;NULL
+756;;"I.T.E.S. "" EINAUDI-GRAMSCI"", PADOVA";Attenzione Sonia;NULL;NULL;NULL;NULL;NULL;NULL;NULL;pdtd20000r@istruzione.it;NULL;2025-01-03 14:46:16;2025-01-03 14:46:16;NULL
+757;;Giulia Margherita;Sparano;Scuola Media di Cabiate (CO);NULL;NULL;Como;NULL;NULL;NULL;giulia.sparano@icmarianocomense2.edu.it;NULL;2025-01-06 10:27:54;2025-01-06 10:27:54;NULL
+758;;Greta Irene;Naso Marvasi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;ginmarv06@gmail.com;NULL;2025-01-06 11:36:00;2025-01-06 11:36:00;NULL
+759;;Davide;Cammisuli;istituto comprensivo Motto Migliarina Viareggio;82011190467;NULL;NULL;NULL;NULL;NULL;davide.cammisuli@iccentromigliarinamotto.edu.it;NULL;2025-01-06 11:41:59;2025-01-29 17:34:05;NULL
+760;;Liceo Statale;Francesco Cecioni;NULL;NULL;NULL;LIVORNO;NULL;NULL;NULL;lips030007@istruzione.it;586422203;2025-01-08 09:34:08;2025-01-08 09:34:08;NULL
+761;;ITSOS Albe e;Lica Steiner;ITSOS Albe e Lica Steiner;NULL;NULL;Milano;NULL;NULL;NULL;commissione.viaggi@itsosmilano.it;NULL;2025-01-08 11:05:13;2025-01-08 11:05:13;NULL
+762;;Giovanni;Galboni;Istituto Olivelli PV;NULL;NULL;NULL;NULL;NULL;NULL;cargalboni@gmail.com;NULL;2025-01-09 16:39:25;2025-01-09 16:39:25;NULL
+763;;IISS;Paciolo d'Annunzio;NULL;NULL;NULL;Fidenza;NULL;NULL;NULL;NULL;NULL;2025-01-09 21:35:58;2025-02-16 14:15:38;NULL
+764;;Istituto Tecnico Statale “CARLO CATTANEO” Via Catena , 3 – 56028 San Miniato (PI);Via Catena , 3 – 56028 San Miniato (PI);NULL;NULL;NULL;NULL;NULL;NULL;NULL;PITD070007@istruzione.it;NULL;2025-01-10 16:18:58;2025-01-10 16:18:58;NULL
+765;;Vanna;Forza;NULL;NULL;NULL;NULL;NULL;NULL;NULL;smile_1955@libero.it;NULL;2025-01-11 18:18:42;2025-01-11 18:18:42;NULL
+766;;Istituto Comprensivo;Luciano Manara;NULL;NULL;NULL;Milano;NULL;NULL;NULL;NULL;NULL;2025-01-13 12:38:17;2025-01-13 12:38:17;NULL
+767;;Irene;Finotti;NULL;FNTRNI00S59A059V;Via Riviera Nuova, 37;Loreo;45017;Ro;Italia;irene.finotti.if@gmail.com;3495978972;2025-01-13 17:19:03;2025-01-13 17:19:03;NULL
+768;;PAOLA;MANINI;Istituto Comprensivo Bolzano 1 - Centro Storico;NULL;NULL;BOLZANO;NULL;NULL;NULL;NULL;NULL;2025-01-13 19:15:16;2025-01-13 19:15:16;NULL
+769;;Giovanni;Compagno;its Morigia - Perdisa;NULL;NULL;NULL;NULL;NULL;NULL;ratl02000l@istruzione.it;NULL;2025-01-13 23:14:08;2025-01-16 19:48:02;NULL
+770;;Idea;Viaggi srl;NULL;NULL;NULL;NULL;NULL;NULL;NULL;info@ideascuole.com;NULL;2025-01-14 10:03:28;2025-01-14 10:03:28;NULL
+771;;Professoressa Elisabetta;Saletti;NULL;NULL;NULL;NULL;NULL;NULL;NULL;saletti.e@artisticofirenze.edu.it;NULL;2025-01-14 15:41:55;2025-01-14 15:41:55;NULL
+772;;Mariacristina;Pastore;International School of Naples;NULL;NULL;Napoli;NULL;NULL;NULL;info@isnaples.it;NULL;2025-01-14 22:40:25;2025-01-14 22:40:25;NULL
+773;;Antonio;Tufarelli;ITT Marconi;NULL;NULL;Padova;NULL;NULL;NULL;tufarelliantonio@gmail.com;NULL;2025-01-14 23:37:13;2025-01-14 23:37:13;NULL
+774;;Professoressa Antonella;Penna;NULL;NULL;NULL;NULL;NULL;NULL;NULL;antonella.penna@ramati.edu.it;NULL;2025-01-15 14:06:47;2025-01-15 14:06:47;NULL
+775;;ITIS;PITENTINO;ITIS PITENTINO;NULL;NULL;MANTOVA;NULL;NULL;NULL;mntd01000x@istruzione.it;NULL;2025-01-15 22:39:44;2025-01-15 22:39:44;NULL
+776;;ISTITUTO COMPRENSIVO “ETTORE GUATELLI” COLLECCHIO;Professoressa Sonia Pambianchi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;sonia.pambianchi@iccollecchio.edu.it;NULL;2025-01-16 11:51:24;2025-01-16 11:51:24;NULL
+777;;Sara;Crnogorac;NULL;NULL;NULL;NULL;NULL;NULL;NULL;montenegrosara@gmail.com;3271955448;2025-01-16 12:10:56;2025-01-16 12:10:56;NULL
+778;;AFOL;Melegnano;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-01-16 12:49:55;2025-01-16 12:49:55;NULL
+779;;Professoressa Alessandra;Cibelli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;cibelli.ale@gmail.com;NULL;2025-01-17 09:35:19;2025-01-17 09:35:46;NULL
+780;;Maria;Di Benedetto;Istituto Comprensivo Robbio;92006300187;Piazza San Pietro 1;Robbio;27038;PV;Italia;pvic80800q@istruzione.it;0384/670472;2025-01-17 10:37:01;2025-01-17 10:37:01;NULL
+781;;ISTITUTO COMPRENSIVO;STATALE DI GREVE;NULL;NULL;NULL;NULL;NULL;NULL;NULL;fiic826001@istruzione.it;NULL;2025-01-20 09:52:58;2025-01-20 09:52:58;NULL
+782;;Francesca;Vandoni;NULL;NULL;NULL;NULL;NULL;NULL;NULL;francesca.vandoni@istitutoantonellibellinzago.com;NULL;2025-01-20 15:58:13;2025-01-20 15:58:13;NULL
+783;;Maria Rosa;Vadalà;I. De Amicis;NULL;NULL;Gallarate;NULL;Varese;NULL;vadala@icedeamicis.edu.it;NULL;2025-01-20 16:30:21;2025-01-20 16:30:21;NULL
+784;;Francesca;Ambrosino;Ist. Orsoline di Como;NULL;NULL;NULL;NULL;NULL;NULL;avv.ambrosinofrancesca@gmail.com;NULL;2025-01-20 21:58:11;2025-01-20 21:58:11;NULL
+785;;Corrado;Limongi;Istituto Superiore Leonardo da Vinci Sapri;NULL;via Kennedy;Sapri;NULL;NA;Italia;NULL;NULL;2025-01-21 07:44:31;2025-01-21 07:44:31;NULL
+786;;Pietro;Cavagna;C.P.I.A. 5 Milano;NULL;via Pontano 43;Milano;NULL;NULL;Italia;NULL;NULL;2025-01-21 09:14:33;2025-01-21 09:30:56;NULL
+787;;DSGA Daniela Zucchetti;IISS Guglielmo Oberdan;NULL;NULL;NULL;NULL;NULL;NULL;NULL;bgis03700g@istruzione.it;NULL;2025-01-21 14:01:42;2025-01-21 14:01:42;NULL
+788;;CLAUDIA;VOLPI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;volpi.claudia@omnicomprensivomagione.edu.it;NULL;2025-01-21 21:26:43;2025-01-21 21:26:43;NULL
+789;;FEDERICA;SALVATERRA;IC MARGHERITA HACK;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2025-01-22 21:15:25;2025-01-22 21:15:25;NULL
+790;;AFOL;Moda Milano;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-01-22 21:31:31;2025-01-22 21:31:31;NULL
+791;;Istituto Tecnico;Enrico Mattei;NULL;NULL;NULL;Rho;NULL;NULL;NULL;NULL;NULL;2025-01-23 12:45:19;2025-01-23 12:45:19;NULL
+792;;GABRIELE;BARTESAGHI;KELUAR;NULL;NULL;NULL;NULL;NULL;NULL;gabriele.bartesaghi@keluar.it;NULL;2025-01-23 23:01:31;2025-01-23 23:01:31;NULL
+793;;Domenica;Legname;Istituto Comprensivo Brianza;NULL;NULL;NULL;NULL;NULL;NULL;mimmalegname82@gmail.com;NULL;2025-01-24 15:08:59;2025-01-24 16:48:09;NULL
+794;;Eleonora;Ruffo;IIS SELLA AALTO LAGRANGE;NULL;NULL;TORINO;NULL;NULL;NULL;eleonora.ruffo@fadsal.org;NULL;2025-01-24 17:45:07;2025-01-24 17:45:07;NULL
+795;;VALENTINA;DAMIANO;NULL;NULL;NULL;NULL;NULL;NULL;NULL;valentina.damiano@istitutomariaimmacolata.eu;NULL;2025-01-25 15:11:33;2025-01-25 15:11:33;NULL
+796;;Istituto Comprensivo Bolzano;Europa 2;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-01-27 11:57:17;2025-01-27 11:57:17;NULL
+797;;Giuseppina;D'Alessandro;NULL;NULL;NULL;NULL;NULL;NULL;NULL;dalessandro.giuseppina@gio23edu.it;NULL;2025-01-27 14:16:49;2025-01-27 14:16:49;NULL
+798;;Sig.ra;Chiara;Istituto Comprensivo Paritario Maria Immacolata – S.Agnese;NULL;Via Frua, 4/a;Saronno;21047;Varese;NULL;scuola@istitutosantagnesesaronno.edu.it;NULL;2025-01-28 10:46:28;2025-01-28 10:46:28;NULL
+799;;TECLA;CENERI;IC VEZZANO LIGURE SANTO STEFANO MAGRA;NULL;NULL;VEZZANO LIGURE;NULL;NULL;NULL;NULL;NULL;2025-01-29 20:06:19;2025-01-29 20:06:19;NULL
+800;;FRANCESCA;FISCELLA;Canadian School of Milan;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2025-01-29 20:40:23;2025-01-29 20:40:23;NULL
+801;;ITCS;Pindemonte;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-01-29 21:01:52;2025-01-29 21:01:52;NULL
+802;;Clara;Bruno;IIS LANCIA;NULL;NULL;Borgosesia;NULL;NULL;NULL;cbruno@iis-lancia.edu.it;NULL;2025-01-29 23:59:58;2025-01-29 23:59:58;NULL
+803;;DANIELA;CALABRESE;NULL;NULL;NULL;NULL;NULL;NULL;NULL;calabrese.daniela76@gmail.com;NULL;2025-01-30 06:32:24;2025-01-30 06:32:24;NULL
+804;;LICEO STATALE;AUGUSTO MONTI;LICEO STATLE AUGUSTO MONTI;NULL;NULL;Torino;NULL;NULL;NULL;tops18000p@istruzione.it;NULL;2025-01-30 12:54:23;2025-01-30 12:54:23;NULL
+805;;Silvia;Urbinati;Liceo G. Marconi;NULL;Via Nanterre 10;Pesaro;61122;PU;Italia;urbinati.silvia@liceomarconipesaro.it;0721 453136;2025-01-31 02:02:26;2025-01-31 02:02:26;NULL
+806;;ISIS;G. Luzzatto;NULL;NULL;NULL;Portogruaro;NULL;NULL;NULL;NULL;NULL;2025-01-31 07:56:02;2025-01-31 07:56:02;NULL
+807;;Istituto Omnicomprensivo;Musicale Statale;NULL;NULL;NULL;Milano;NULL;NULL;NULL;NULL;NULL;2025-01-31 09:36:58;2025-01-31 09:36:58;NULL
+808;;ERIKA;DE MARTINO;FONDAZIONE SCHOLA;NULL;NULL;NULL;NULL;NULL;NULL;e.dimartino@liberaschola.org;NULL;2025-02-01 01:44:31;2025-02-01 01:44:31;NULL
+809;;UFFICIO;CONTABILITA';"Scuola Secondaria Statale di 1º Grado ""Via Pascoli"" - Cesena";NULL;NULL;Cesena;NULL;NULL;NULL;NULL;NULL;2025-02-01 19:49:03;2025-02-01 19:49:03;NULL
+810;;Mara;Pesce;"Liceo Statale ""Giuseppe Berto""";NULL;NULL;NULL;NULL;NULL;NULL;mara.pesce@liceoberto.it;3338890446;2025-02-03 11:13:27;2025-02-03 11:13:27;NULL
+811;;Liceo Statale;Rinaldo Corso;"Liceo Statale "" Rinaldo Corso""";NULL;NULL;Correggio;NULL;NULL;NULL;liceocorso@liceocorso.edu.it;NULL;2025-02-03 14:07:22;2025-02-03 14:07:22;NULL
+812;;Maria Antonietta;Nicolosi;Ic Piazza vittorio Veneto;NULL;NULL;Vigevano;NULL;NULL;NULL;pvic83200l@istruzione.it;NULL;2025-02-03 23:36:13;2025-04-01 12:18:15;NULL
+813;;IPSIA;A. Pacinotti;NULL;NULL;NULL;Pontedera;NULL;NULL;NULL;NULL;NULL;2025-02-04 07:14:13;2025-02-04 07:14:13;NULL
+814;;Claudia;Olivito;Istituto paritario Kennedy di Roma;NULL;NULL;Roma;NULL;NULL;NULL;claudia.olivito@libero.it;NULL;2025-02-04 11:29:52;2025-02-04 11:29:52;NULL
+815;;Agenzia Viaggi;Blu Sorrisi e Vacanze;NULL;NULL;NULL;Nocera;NULL;NULL;NULL;NULL;NULL;2025-02-04 11:56:14;2025-02-04 11:56:14;NULL
+816;;Vincenza;Spatola;Liceo Primo Levi;NULL;NULL;NULL;NULL;NULL;NULL;vincenza.spatola@levi.edu.it;NULL;2025-02-05 08:35:26;2025-02-05 08:35:26;NULL
+817;;Ufficio;Didattica;IIS BELLISARIO;NULL;NULL;Inzago;20065;MI;Italia;rossello.claudia@iisbellisario.edu.it;NULL;2025-02-05 11:00:16;2025-02-05 11:00:16;NULL
+818;;ISTITUTO TECNICO NUMIDIO QUADRATO;MORENA VISCARDI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;morena.viscardi@nquadro.net;NULL;2025-02-05 17:33:58;2025-02-05 17:33:58;NULL
+819;;Caterina;Gangi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;ing.gangi@tiscali.it;NULL;2025-02-06 14:33:26;2025-02-06 14:33:26;NULL
+820;;Niccolò;Cernuto;Istituto Comprensivo G. Cardano;NULL;NULL;NULL;NULL;NULL;NULL;info@avvocatoniccolocernuto.com;NULL;2025-02-06 23:27:02;2025-02-06 23:27:02;NULL
+821;;Valentina;di Maria;Scuola Tedesca Merano;NULL;NULL;Merano;NULL;BZ;NULL;Valentina.Di-Maria@scuola.alto-adige.it;NULL;2025-02-07 09:51:13;2025-02-07 09:51:13;NULL
+822;;ISS BENEVENUTO CELLINI;Prof. Mario Fiammelli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;mfiammelli@cellini.fi.it;NULL;2025-02-08 15:25:37;2025-02-08 15:25:37;NULL
+823;;Martina;Pistolesi;Istituto Tecnico Statale “CARLO CATTANEO”;82001200508;Via Catena , 3;San Miniato;56028;Pisa;NULL;pitd070007@istruzione.it;0571/418385;2025-02-08 17:49:16;2025-05-13 08:26:22;NULL
+824;;Dott.ssa Laura;Domiano;"ITT “CAMILLO RONDANI""";NULL;NULL;NULL;NULL;NULL;NULL;prtl020001@istruzione.it;521287068;2025-02-09 15:35:45;2025-02-09 15:37:18;NULL
+825;;JUNIOR;COLLEGE;NULL;NULL;NULL;NULL;NULL;NULL;NULL;info@juniorcollege.it;NULL;2025-02-10 05:26:10;2025-02-10 05:26:10;NULL
+826;;Valentina Lombardo;LICEO G. ULIVI;NULL;NULL;NULL;PARMA;NULL;NULL;NULL;ufficio.ragioneria@liceoulivi.it;0521-235518;2025-02-10 16:16:10;2025-02-10 16:16:10;NULL
+827;;Caterina;Gangi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;ing.gangi@tiscali.it;NULL;2025-02-11 11:47:30;2025-02-11 11:47:30;NULL
+828;;ROBERTO;TOMASELLI;Istituto San Giuseppe;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2025-02-12 21:34:19;2025-02-12 21:34:19;NULL
+829;;Dirigente;Scolastico;istituto comprensivo Curzio Malaparte di Prato;NULL;NULL;NULL;NULL;NULL;NULL;poic804004@istruzione.it;NULL;2025-02-12 23:15:00;2025-02-12 23:15:00;NULL
+830;;ISTITUTO OMNICOMPRENSIVO;VALLESCRIVIA;NULL;NULL;NULL;NULL;NULL;NULL;NULL;elena.besagno@iovallescrivia.edu.it;NULL;2025-02-13 20:13:35;2025-02-13 20:13:35;NULL
+831;;Liceo Scientifico Statale;A. Einstein;NULL;NULL;NULL;Rimini;NULL;NULL;NULL;NULL;NULL;2025-02-14 08:59:08;2025-02-14 08:59:08;NULL
+832;;Claudia;Olivito;Istituto paritario Kennedy;NULL;NULL;Roma;NULL;NULL;NULL;claudia.olivito@libero.it;NULL;2025-02-14 14:31:06;2025-02-14 14:31:06;NULL
+833;;Liceo;Enriques;NULL;NULL;NULL;Lissone;NULL;NULL;NULL;NULL;NULL;2025-02-14 17:14:24;2025-02-14 17:14:24;NULL
+834;;Liceo;Nolfi-Apolloni;NULL;NULL;NULL;Fano;NULL;NULL;NULL;NULL;NULL;2025-02-14 21:51:48;2025-02-14 21:51:48;NULL
+835;;CRISTINA;RENNA;"Colegiul National ""Roman-Vodă""";NULL;Str. Mihai Eminescu Nr. 4, Loc. Roman, jud.Neamt,;NULL;NULL;NULL;NULL;NULL;NULL;2025-02-16 15:08:25;2025-02-16 15:08:25;NULL
+836;;CRISTINA;RENNA;IST DE NICOLA;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2025-02-16 15:09:23;2025-02-16 15:09:23;NULL
+837;;UFFICIO;ACQUISTI;IPSEOA CARLO PORTA;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2025-02-16 16:46:23;2025-02-16 16:46:23;NULL
+838;;Daniela;Biccari;Liceo Niccolò Copernico;NULL;NULL;Bologna;NULL;NULL;NULL;bops030004@istruzione.it;NULL;2025-02-18 08:23:56;2025-02-18 08:23:56;NULL
+839;;Beatrice;Gatti;Scuola Secondaria di 1° grado A. Manzoni;NULL;Via Patellani, 43;Bresso;20091;MI;NULL;bibbifello9@gmail.com;02 6145 5290;2025-02-19 15:21:47;2025-02-19 15:24:57;NULL
+840;;ALESSANDRA;FRITTOLI;SIS ITALIA SRL;NULL;NULL;BASIGLIO;NULL;NULL;NULL;Alessandra.Frittoli@sis-basiglio.it;NULL;2025-02-19 16:10:37;2025-02-19 16:11:01;NULL
+841;;Marcello;Bertolani;NULL;NULL;NULL;NULL;NULL;NULL;NULL;marcello.bertolani@iccodigoro.istruzioneer.it;NULL;2025-02-19 17:05:26;2025-02-19 17:05:26;NULL
+842;;Liceo Statale;“ANTONIO PIGAFETTA”;LICEO STATALE “ANTONIO PIGAFETTA”;NULL;NULL;Vicenza;NULL;NULL;NULL;viaggi@liceopigafetta.edu.it;NULL;2025-02-19 17:45:42;2025-02-19 17:45:42;NULL
+843;;Paola;Cesca;Liceo Primo levi;NULL;NULL;NULL;NULL;NULL;NULL;mips11000c@istruzione.it;NULL;2025-02-19 23:28:01;2025-03-12 11:12:08;NULL
+844;;Carmine;Calabrese;Istituto Zaccaria;NULL;NULL;NULL;NULL;NULL;NULL;c.calabrese@istitutozaccaria.it;NULL;2025-02-20 16:08:49;2025-02-20 16:08:49;NULL
+845;;Ist. Comprensivo Tiziana Weiss, TRIESTE;prof.ssa Rita Tripodi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;t.rita76@gmail.com;NULL;2025-02-21 14:00:53;2025-02-21 14:00:53;NULL
+846;;Istituto San Benedetto;Professoressa Sandra Raimondo;NULL;NULL;NULL;NULL;NULL;NULL;NULL;sandraraimondo@gmail.com;NULL;2025-02-24 13:48:33;2025-02-24 13:48:33;NULL
+847;;IFPA;LEVICO TERME;NULL;NULL;NULL;NULL;NULL;NULL;NULL;segreteria@alberghierotrentino.it;NULL;2025-02-24 15:23:42;2025-02-24 15:23:42;NULL
+848;;Francesco;De Salvo;Istituto Comprensivo Brianza;NULL;NULL;NULL;NULL;NULL;NULL;francesco.desalvo@icbrianza.edu.it;NULL;2025-02-25 08:55:40;2025-02-25 08:55:40;NULL
+849;;Professoressa Serena;Santilli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;serena.santilli@piagetdiaz.edu.it;NULL;2025-02-25 11:01:25;2025-02-25 11:01:25;NULL
+850;;Prof.ssa Clara;Lisanti;NULL;NULL;NULL;NULL;NULL;NULL;NULL;lisanti.clara@icducadaosta.it;NULL;2025-02-26 11:27:12;2025-02-26 11:27:12;NULL
+851;;ICC MORNANGO;Professoressa Neve Servi;NULL;NULL;NULL;NULL;NULL;NULL;NULL;neve.servi@iccmornago.edu.it;NULL;2025-02-26 14:32:25;2025-02-26 14:32:25;NULL
+852;;Elisabetta Fiore;Istituto Comprensivo Arbe Zara;NULL;NULL;Viale Zara 96;Milano;20125;NULL;NULL;miic8dg00l@istruzione.it;NULL;2025-02-26 16:21:28;2025-02-26 16:21:28;NULL
+853;;Andrea;Croci;Istituto Comprensivo Frascati 1;NULL;Via Risorgimento, 3 - 00044 Frascati;Frascati;44;Roma;Italia;andrea.croci@icfrascati1.edu.it;06 9419678;2025-02-26 23:20:55;2025-02-26 23:20:55;NULL
+854;;Istituto Comprensivo;Kennedy;NULL;NULL;NULL;Reggio Emilia;NULL;NULL;NULL;NULL;NULL;2025-02-28 17:39:46;2025-02-28 17:39:46;NULL
+855;;Gabriele;De Sandre;Rudolf Steiner di Oriago;NULL;NULL;NULL;NULL;NULL;NULL;gabridesandre@gmail.com;NULL;2025-03-02 14:46:02;2025-03-02 14:46:02;NULL
+856;;DANIELA;FERRO;Scuola Svizzera Milano;NULL;NULL;MILANO;NULL;NULL;NULL;daniela.ferro@scuolasvizzera.it;NULL;2025-03-03 17:34:00;2025-03-03 17:34:00;NULL
+857;;Enrico Degiuli;Liceo Montanari;NULL;NULL;NULL;Verona;NULL;NULL;NULL;enrico.degiuli@liceomontanari.edu.it;NULL;2025-03-03 18:15:01;2025-03-03 18:16:10;NULL
+858;;Consuelo;Alampi;Istituto F. Cavallotti;NULL;NULL;Cassano Magnago;NULL;Varese;NULL;consueloalampi@cavallotti.it;347 053 33 90;2025-03-04 15:28:13;2025-03-04 15:28:13;NULL
+859;;Professoressa Brunella;Basso;NULL;NULL;NULL;NULL;NULL;NULL;NULL;brunella.basso@liceolabriolanapoli.edu.it;NULL;2025-03-07 18:32:31;2025-03-07 18:32:31;NULL
+860;;MARIA;LAURI;Istituto Comprensivo Via Bologna Bresso;NULL;NULL;BRESSO;NULL;MI;NULL;NULL;NULL;2025-03-10 12:30:17;2025-03-10 12:30:17;NULL
+861;;Gaya;Castagneto;NULL;NULL;NULL;NULL;NULL;NULL;NULL;gayacasta07@gmail.com;NULL;2025-03-10 13:07:02;2025-04-02 16:18:35;NULL
+862;;Fiorenza Sarzi Amadè;Istituto Kennedy;NULL;NULL;NULL;Reggio Emilia;NULL;NULL;NULL;fiorenzasarziamade@kennedyre.istruzioneer.it;NULL;2025-03-11 10:10:23;2025-03-11 10:10:23;NULL
+863;;Maria Rosaria;Roberti;IIS Olivetti;84003890013;viale Liberazione 25;Ivrea;10015;TO;Italia;tois01200t@istruzione.it;0125 230013;2025-03-11 20:27:34;2025-03-12 10:37:38;NULL
+864;;ISTITUTO COMPRENSIVO di OSIO SOTTO;Marastella Zafarana;NULL;NULL;Via Libertà, 17;Osio Sotto;24046;BG;NULL;bgic861008@istruzione.it;NULL;2025-03-12 16:03:52;2025-03-12 16:03:52;NULL
+865;;Sara;Fortezza;Itituto Marangoni - Miami USA;NULL;NULL;NULL;NULL;NULL;Stati Uniti;s.fortezza@immiami.com;NULL;2025-03-13 10:37:53;2025-03-13 10:37:53;NULL
+866;;Poliestetico;di Milano;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-03-13 13:33:27;2025-03-13 13:33:27;NULL
+867;;Francesco Salvador;IMC Scuola di Cepino Opera Sant'Alessandro;NULL;NULL;NULL;NULL;NULL;NULL;NULL;francescosalvador@operasantalessandro.it;NULL;2025-03-13 17:16:16;2025-03-13 17:16:16;NULL
+868;;SEGRETERIA;DIDATTICA;IC MARGHERITA HACK;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-03-14 22:04:15;2025-03-14 22:04:15;NULL
+869;;"Istituto Comprensivo Paritario ""Maria Montessori""";Castellanza;NULL;NULL;NULL;NULL;NULL;NULL;NULL;giovanna.durante@acof.it;NULL;2025-03-17 11:26:15;2025-03-17 11:26:15;NULL
+870;;Elisabetta;Vigani;Centro Studi Leonardo Da Vinci;NULL;NULL;NULL;NULL;NULL;NULL;elisabetta.vigani@leomail.it;NULL;2025-03-18 09:57:21;2025-03-18 09:57:21;NULL
+871;;IC Barlassina;AA Delizia Mendola;NULL;NULL;NULL;NULL;NULL;NULL;NULL;mbic850009@istruzione.it;NULL;2025-03-18 15:50:48;2025-03-18 15:50:48;NULL
+872;;Antonella;Boccacci;NULL;NULL;NULL;San Ferdinando di Puglia;NULL;NULL;NULL;aboccacci89@gmail.com;3470962137;2025-03-18 17:54:40;2025-03-18 17:54:40;NULL
+873;;Istituto Comprensivo;Sanremo Centro Levante;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-03-19 05:56:19;2025-03-19 05:56:19;NULL
+874;;Filomena;Ieva;Istituto Comprensivo Statale De Amicis - Giovanni XXIII San Ferdinando di Puglia;90126890723;Via Ofanto, 29;San Ferdinando di Puglia;76017;BT;Italia;btic8aj00v@istruzione.it;NULL;2025-03-20 09:53:42;2025-03-20 09:53:42;NULL
+875;;Istituto Comprensivo;Sorelle Agazzi;NULL;NULL;Via Gabbro, 6/A;Milano;20161;NULL;NULL;miic8cr006@istruzione.it;NULL;2025-03-21 09:47:03;2025-03-21 09:47:03;NULL
+876;;Fabiana;Carraro;Ist. comprensivo Franca Ongaro;94071390275;Via Sandro Gallo n.34;Venezia;30126;VE;Italia;veic840006@istruzione.it;041 5260994;2025-03-26 11:10:30;2025-03-26 11:10:30;NULL
+877;;"Liceo Ginnasio di Stato ""Francesco Scaduto""";di Bagheria;NULL;NULL;NULL;NULL;NULL;NULL;NULL;papc01000v@istruzione.it;NULL;2025-03-26 16:22:53;2025-03-26 16:22:53;NULL
+878;;Liceo Respighi di Piacenza;Professoressa Paola Cervato;NULL;NULL;NULL;NULL;NULL;NULL;NULL;paola.cervato@liceorespighi.it;NULL;2025-03-27 16:13:03;2025-04-02 13:46:26;NULL
+879;;Liceo Statale “Ettore MAJORANA”;Dott.ssa Elisa Iacazio;NULL;NULL;NULL;NULL;NULL;NULL;NULL;mips120003@istruzione.it;NULL;2025-03-27 16:30:11;2025-03-27 16:30:11;NULL
+880;;DANIELA;MODENA;NULL;NULL;NULL;NULL;NULL;NULL;NULL;wsportacademy@gmail.com;NULL;2025-03-29 22:12:58;2025-03-29 22:12:58;NULL
+881;;Cosimo;Amato;Istituto Statale Marco Belli;83003390271;Piazza Marconi, 10;Portogruaro;30026;VE;Italia;VEPM030006@istruzione.it;0421 73102;2025-03-31 10:03:03;2025-03-31 10:03:03;NULL
+882;;mips120003@istruzione.it;Francesca Pau;NULL;NULL;NULL;NULL;NULL;NULL;NULL;mips120003@istruzione.it;NULL;2025-03-31 14:04:21;2025-03-31 14:04:21;NULL
+883;;Istituto Statale d'Istruzione Superiore;Mariagrazia Mamoli;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-03-31 19:31:02;2025-03-31 19:31:02;NULL
+884;;Lisa;Monaco;NULL;NULL;NULL;NULL;NULL;NULL;NULL;lizamonaco@yahoo.it;NULL;2025-04-03 08:38:02;2025-04-03 08:38:02;NULL
+885;;ISTITUTO COMPRENSIVO STATALE di via VALLETTA FOGLIANO;dott. Massimo Camola;NULL;NULL;NULL;NULL;NULL;NULL;NULL;pvic830001@istruzione.it;NULL;2025-04-03 16:30:13;2025-04-03 16:30:13;NULL
+886;;ISISS Magarotto.;Professoressa Giulia Ditaranto;NULL;NULL;NULL;NULL;NULL;NULL;NULL;giuliaditaranto1997@gmail.com;NULL;2025-04-04 09:43:12;2025-07-02 10:46:10;NULL
+887;;Marco;Fontana;Istituto di Istruzione Secondaria di II Grado Cesare Battisti;80003380211;Via Luigi Cadorna, 16;Bolzano;39100;BZ;Italia;itc.bolzano@scuola.alto-adige.it;+39 0471 283406;2025-04-06 20:30:28;2025-04-06 20:30:28;NULL
+888;;Anna;Vicidomini;Istituto Comprensivo Statale Vicovaro;94032470588;via Mazzini 1;Vicovaro;29;RM;Italia;RMIC8AL00A@istruzione.it;0774 /498010;2025-04-08 09:59:23;2025-04-08 09:59:23;NULL
+889;;Laila;Rosselli;NULL;NULL;NULL;Milano;NULL;NULL;NULL;lailaros@libero.it;3490996772;2025-04-09 09:53:37;2025-04-09 09:53:37;NULL
+890;;Sara;Olivari;Liceo Statale Clemente Rebora;93503850153;Via Piero della Francesca;20017;Rho;MI;Italia;mipc13000e@istruzione.it;02 93162461;2025-04-11 13:48:30;2025-04-11 13:48:30;NULL
+891;;Segreteria;didattica;Istituto Superiore “Lorenzo LOTTO”;95021050166;Via dell’Albarotto, 23;Trescore Balneario;24069;BG;Italia;bgis01400v@istruzione.it;035 944782;2025-04-14 14:13:08;2025-04-14 14:13:08;NULL
+892;;Simona;De Bellonia;IIS Luca Paciolo;NULL;NULL;NULL;NULL;NULL;NULL;simonadebellonia@icloud.com;NULL;2025-04-14 14:58:59;2025-04-14 14:58:59;NULL
+893;;Liceo;Cavalieri;LICEO CLASSICO, SCIENTIFICO E DELLE SCIENZE UMANE “BONAVENTURA CAVALIERI”;NULL;Via Madonna di Campagna 18;Verbania;28922;VB;NULL;vbps02000p@istruzione.it;323558802;2025-04-16 09:38:26;2025-04-16 09:38:26;NULL
+894;;irene;Cabras;NULL;NULL;NULL;NULL;NULL;NULL;NULL;irene.cabras01@gmail.com;NULL;2025-04-19 15:00:07;2025-05-02 14:35:22;2025-05-02 14:35:22
+895;;Clodino;- Segreteria Didattica;IS Lorenzo lotto;95021050166;Via dell’Albarotto, 23;Trescore Balneario;24069;BG;Italia;bgis01400v@istruzione.it;35944680;2025-04-22 10:45:13;2025-04-22 10:45:13;NULL
+896;;elisabetta;fini;NULL;NULL;NULL;NULL;NULL;NULL;NULL;elisabettafini63@gmail.com;NULL;2025-04-22 15:02:24;2025-04-22 15:02:24;NULL
+897;;Erica;Franchini;Liceo Novalis;NULL;NULL;NULL;NULL;NULL;NULL;liceonovalis@gmail.com;NULL;2025-04-22 15:21:23;2025-04-22 15:21:23;NULL
+898;;LAURA;TETTAMANTI;IC TAVERNERIO;NULL;NULL;MILANO;NULL;NULL;NULL;tettamanti.laura@ictavernerio.edu.it;NULL;2025-04-27 17:35:01;2025-07-16 22:00:40;NULL
+899;;Agata;dalla porta;NULL;NULL;NULL;NULL;NULL;NULL;NULL;udic835003@istruzione.it;NULL;2025-04-29 14:02:51;2025-04-29 14:05:42;NULL
+900;;Professor Dino;Lo Tito;NULL;NULL;NULL;NULL;NULL;NULL;NULL;lotitodino@yahoo.it;NULL;2025-04-29 18:45:41;2025-04-29 18:45:41;NULL
+901;;Salvatore;Bianco;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-05-02 09:43:54;2025-05-02 09:43:54;NULL
+902;;Rosa;Caruso;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-05-02 09:44:20;2025-05-02 14:34:39;2025-05-02 14:34:39
+903;;Antonio;Bianco;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-05-02 09:44:47;2025-05-02 14:34:39;2025-05-02 14:34:39
+904;;Irene;Cabras;NULL;NULL;NULL;NULL;NULL;NULL;NULL;Irene.cabras01@gmail.com;3484806281;2025-05-02 14:35:01;2025-05-02 14:35:01;NULL
+905;;ANDREA;LOTTI;NULL;NULL;NULL;NULL;NULL;NULL;NULL;andrea.lotti@iispadovano.it;NULL;2025-05-07 08:48:45;2025-05-07 08:48:45;NULL
+906;;Riccardo;De Santis;Istituto Zaccaria;NULL;NULL;NULL;NULL;NULL;NULL;r.desantis@istitutozaccaria.it;NULL;2025-05-10 23:25:41;2025-05-10 23:25:41;NULL
+907;;Liceo Statale;Giustina Renier;NULL;NULL;NULL;Belluno;NULL;NULL;NULL;NULL;NULL;2025-05-15 11:55:31;2025-05-15 11:55:40;NULL
+908;;Spett Liceo Leonardo Brescia;Isabella Spadavecchia;NULL;NULL;NULL;NULL;NULL;NULL;NULL;bsps11000a@istruzione.it;NULL;2025-05-15 12:41:54;2025-05-15 12:41:54;NULL
+909;;Ester;De Polignol;NULL;NULL;NULL;NULL;NULL;NULL;NULL;ester.depolignol@scuolacesate.edu.it;NULL;2025-05-19 07:51:48;2025-05-19 07:51:48;NULL
+910;;silvano;mocellin;NULL;NULL;NULL;NULL;NULL;NULL;NULL;silvan.moce@gmail.com;NULL;2025-05-19 22:53:36;2025-05-19 22:53:36;NULL
+911;;Liceo Classico;E.Repetti;NULL;NULL;NULL;Carrara;NULL;NULL;NULL;NULL;NULL;2025-05-22 05:05:23;2025-05-22 05:05:23;NULL
+912;;RITA;CASTELNUOVO;ISTITUTO  SANTA GIOVANNA ANTIDA;NULL;NULL;MANDELLO;NULL;NULL;NULL;NULL;NULL;2025-05-23 12:28:00;2025-05-23 12:28:00;NULL
+913;;CRISTINA;PRANDINI;Segreteria didattica;NULL;NULL;BOLZANO;NULL;NULL;NULL;NULL;NULL;2025-05-25 16:05:11;2025-05-25 16:05:11;NULL
+914;;Mario;Rubeca;NULL;NULL;NULL;NULL;NULL;NULL;Italia;mario.rubeca@virgilio.it;3396532033;2025-05-26 08:07:58;2025-05-26 08:07:58;NULL
+915;;GIUSEPPINA;DELLA NOCE;ISTITUTO COMPRENSIVO MONTEVERDI;NULL;NULL;NULL;NULL;NULL;NULL;giuseppina.dellanoce@icsumbertoeco.edu.it;NULL;2025-06-04 08:32:46;2025-06-04 08:32:46;NULL
+916;;Alessandra;Policastro;Istituto d'Istruzione Superiore Medardo Rosso;92072640136;via Calatafimi 5;Lecco;23900;LC;Italia;lcis01300g@istruzione.it;0341 369278;2025-06-04 10:12:58;2025-06-04 10:12:58;NULL
+917;;cristina;bincoletto;NULL;NULL;NULL;NULL;NULL;NULL;NULL;cristinabincoletto11@gmail.com;NULL;2025-06-04 10:54:25;2025-06-04 10:54:25;NULL
+918;;Federica;Vianello;NULL;NULL;NULL;NULL;NULL;NULL;NULL;chiccavia@gmail.com;NULL;2025-06-05 14:57:56;2025-06-10 07:22:48;NULL
+919;;Francesca;Monni;NULL;NULL;NULL;NULL;NULL;NULL;NULL;franci.andre@libero.it;3517636343;2025-06-11 14:31:48;2025-06-11 14:31:48;NULL
+920;;Gaetano Giarratana;Istituto Ciro Pollini;NULL;NULL;Via Ospedale, 4;Mortara;27036;PV;NULL;gaetano.giarratana@ciropollini.eu;NULL;2025-06-13 14:48:00;2025-06-13 14:48:00;NULL
+921;;GIOVANNI;BOSCO;IC MONTEGROTTO;NULL;NULL;PADOVA;NULL;NULL;NULL;NULL;NULL;2025-06-14 18:10:24;2025-06-14 18:10:24;NULL
+922;;Segreteria dell';Istituto Comprensivo Statale Stefano D'Arrigo;NULL;NULL;Via M. T.Federico;Alì Terme;98021;ME;Italia;meic83700p@istruzione.it;0942 573219;2025-06-16 09:11:20;2025-06-16 09:11:20;NULL
+923;;Liceo Scientifico Statale;Marie Curie;NULL;NULL;NULL;Pinerolo;NULL;NULL;NULL;NULL;NULL;2025-06-17 05:42:59;2025-06-17 05:42:59;NULL
+924;;Dirigente;Scolastico;Istituto Istruzione Superiore Liceo Bocchi-Galilei;90016140296;Via Dante, 4;Adria;45011;Rovigo;Italia;rois00100e@istruzione.it;0426 21107;2025-06-20 09:12:22;2025-06-20 09:13:16;NULL
+925;;Giovanna;Federico;IIS LAZZARO SPALLANZANI;NULL;NULL;Castelfranco Emilia;NULL;Modena;NULL;g.federico@istas.mo.it;NULL;2025-06-26 16:08:57;2025-06-26 16:09:16;NULL
+926;;Segreteria;Didattica;IC CAMPO DEI FIORI DI COMERIO;NULL;NULL;LUVINATE;NULL;NULL;NULL;vaic83200r@istruzione.it;NULL;2025-06-29 09:21:05;2025-07-16 15:09:44;NULL
+927;;Cinzia;Bavuso;Scuola G del Curto;NULL;NULL;Mariano Comense;22066;Como;Italia;Cinzia.bavuso@icmarianocomense2.edu.it;3403021023;2025-07-01 13:13:15;2025-07-01 13:13:45;NULL
+928;;Liceo Cavour Roma. Docente Margherita;Marchetti;NULL;NULL;NULL;NULL;NULL;NULL;NULL;margherita.marchetti@liceocavour.edu.it;NULL;2025-07-02 11:08:30;2025-07-02 11:08:30;NULL
+929;;FRANCESCA;MIRABELLA;ISS MATTEI MAGLIE;NULL;NULL;LECCE;NULL;NULL;NULL;NULL;NULL;2025-07-02 12:44:36;2025-07-02 12:44:36;NULL
+930;;laura;Barreca;ic buttigliera alta rosta;NULL;NULL;NULL;NULL;NULL;NULL;laura.barreca@icbuttiglieraaltarosta.it;NULL;2025-07-02 13:43:34;2025-07-02 13:43:34;NULL
+931;;Pier Paolo;Eramo;Liceo Classico e Linguistico Gian Domenico Romagnosi;80012460343;v.le Maria Luigia, 1;Parma;43125;PR;Italia;prpc010001@istruzione.it;0521.282115;2025-07-02 19:27:37;2025-07-02 19:27:37;NULL
+932;;Scuola Paritaria;Nova Terra;NULL;NULL;NULL;Buccinasco;NULL;Milano;NULL;NULL;NULL;2025-07-04 07:19:03;2025-07-04 07:19:03;NULL
+933;;Emanuela;Costa;NULL;NULL;NULL;NULL;NULL;NULL;NULL;ecosta@hotmail.it;334 810 4222;2025-07-04 11:11:31;2025-07-04 11:11:31;NULL
+934;;Elena;Donquerque;Istituto d'Istruzione Secondaria di Secondo Grado Claudia de' Medici;80005800216;via S. Quirino 37;Bolzano;39100;BZ;Italia;iiss.demedici@scuola.alto-adige.it;0471 288085;2025-07-09 20:57:13;2025-07-09 20:57:13;NULL
+935;;Chiara;Brusciani;SANTA CATERINA DA SIENA;NULL;NULL;Sesto San Giovanni;NULL;Milano;NULL;scuola@santacaterinasesto.it;226265282;2025-07-11 13:56:35;2025-07-11 13:56:35;NULL
+936;;RICCARDO;GARBAGNATI;Bilingual European School;NULL;NULL;MILANO;NULL;NULL;NULL;NULL;NULL;2025-07-12 06:54:39;2025-07-12 06:54:39;NULL
+937;;Istituto Comprensivo Statale;Monte Grappa;NULL;NULL;NULL;Bussero;NULL;NULL;NULL;NULL;NULL;2025-07-18 08:16:38;2025-07-18 08:16:38;NULL
+938;;Katia;Marchesini;"Istituto Comprensivo ""Caio Giulio Cesare""";NULL;NULL;Osimo;NULL;Ancona;NULL;anic842007@istruzione.it;717231305;2025-07-18 10:59:35;2025-07-18 10:59:35;NULL
+939;;AFP IFPA;Cipriani;NULL;NULL;NULL;Trento;NULL;NULL;NULL;NULL;NULL;2025-07-24 10:39:03;2025-07-24 10:39:03;NULL
+940;;SEGRETERIA;DIDATTICA;Scuola Secondaria di Primo Grado di Mignanego;NULL;NULL;MIGNANEGO;NULL;NULL;NULL;monica.basso@icbusalla.edu.it;NULL;2025-07-25 13:49:01;2025-07-25 13:49:01;NULL
+941;;SEGRETERIA;DIDATTICA;I.C. Enzo Bontempi;NULL;NULL;AGRATE;NULL;NULL;NULL;maria.corsentino@icsavio.edu.it;NULL;2025-07-25 14:22:39;2025-07-25 14:22:39;NULL
+942;;SEGRETERIA;DIDATTICA;IC REGGIO EMILIA;NULL;NULL;NULL;NULL;NULL;NULL;irene.baisi@gmail.com;NULL;2025-07-25 14:36:46;2025-07-26 15:54:40;NULL
+943;;Erminia;Uliano;NULL;NULL;NULL;Pavullo Nel Frignano;NULL;Modena;NULL;erminia.uliano@gmail.com;3291631706;2025-07-29 15:21:12;2025-07-29 15:21:12;NULL
+944;;Giusy;Mingarelli;NULL;NULL;NULL;Roma;NULL;NULL;NULL;jusming@yahoo.it;3311468386;2025-07-30 17:21:33;2025-07-30 17:21:45;NULL
+945;;ISTITUTO COMPRENSIVO di Scuola primaria e;Scuola secondaria di primo grado in lingua italiana BOLZANO VI;ISTITUTO COMPRENSIVO di Scuola primaria e Scuola secondaria di primo grado in lingua italiana BOLZANO VI;NULL;Via Rovigo 50/A;Bolzano;39100;NULL;NULL;ic.bolzano6@scuola.alto-adige.it;NULL;2025-08-04 08:43:59;2025-08-04 08:43:59;NULL
+946;;istituto comprensivo;Dante Voghera;IC Dante di Voghera;NULL;NULL;NULL;NULL;NULL;NULL;pvic827005@pec.istruzione.it;NULL;2025-08-05 08:59:52;2025-08-05 08:59:52;NULL
+947;;Sarah;Prina;I.C. GOUTHIER;NULL;NULL;Perosa Argentina;NULL;Torino;NULL;sarettola87@gmail.com;3336857084;2025-08-07 08:01:53;2025-08-07 08:01:53;NULL
+948;;I.I.S. “GIUSEPPE E QUINTINO SELLA”;CLASSICO-LINGUISTICO-ARTISTICO;NULL;NULL;NULL;Biella;13900;NULL;NULL;biis00100d@istruzione.it;158409141;2025-08-27 10:08:57;2025-08-27 10:08:57;NULL
+949;;GIULIA;HANSSTEIN;IC ANTONIO PARMA;NULL;NULL;SARONNO;NULL;NULL;NULL;NULL;NULL;2025-08-31 06:35:20;2025-09-04 13:15:03;NULL
+950;;Il Postiglione;Viaggi;NULL;NULL;NULL;Spoleto;NULL;NULL;NULL;NULL;NULL;2025-09-01 11:22:06;2025-09-01 11:22:06;NULL
+951;;Christian;Fiorentino;Ic Castano;NULL;NULL;NULL;NULL;NULL;NULL;christian.fiorentino@icscastano.edu.it;3929762338;2025-09-01 12:53:25;2025-09-01 12:53:25;NULL
+952;;federico;lancia;ic di Roma;NULL;NULL;NULL;NULL;NULL;NULL;federicolancia@yahoo.it;3357835923;2025-09-01 13:40:26;2025-09-01 13:40:50;NULL
+953;;Zora;Khattabi;Lycée Chateaubriand Rome;NULL;Via di Villa Patrizi 9;Roma;161;RM;Italia;zora.khattabi@lycee-chateaubriand.eu;06 441 6041;2025-09-03 19:19:41;2025-09-03 19:19:41;NULL
+954;;Emanuele;Colombo;Istituto Zaccaria;NULL;NULL;NULL;NULL;NULL;NULL;segreteria@istitutozaccaria.it;NULL;2025-09-05 13:33:55;2025-09-05 13:33:55;NULL
+955;;Liceo;Paolina Secco Suardo;NULL;NULL;NULL;Bergamo;NULL;NULL;NULL;NULL;NULL;2025-09-06 15:21:45;2025-09-06 15:21:45;NULL
+956;;Cristian;Coviello;Istituto Comprensivo Confalonieri;80126910159;Via Jacopo Dal Verme 10;Milano;20159;MI;Italia;MIIC8CH00T@istruzione.it;288447124;2025-09-06 20:10:49;2025-09-06 20:10:49;NULL
+957;;GRAZIA;FREGNANI;ICS ALLENDE;NULL;NULL;PADRERNO DUGNANO;NULL;MI;NULL;fregnani@icsallendepaderno.it;NULL;2025-09-07 09:25:27;2025-09-07 09:25:27;NULL
+958;;Istituto Comprensivo;San Zenone degli Ezzelini;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;2025-09-09 05:29:43;2025-09-09 05:29:43;NULL
+959;;Prof.ssa Concetta Verlezza;IC Aristide Leonor;NULL;NULL;NULL;NULL;NULL;NULL;NULL;VERLEZZA.CONCETTA@istitutoleonori.edu.it;NULL;2025-09-09 15:20:06;2025-09-09 15:20:06;NULL
+960;;Daniele;DI Francesco;NULL;NULL;NULL;NULL;NULL;NULL;NULL;d.difrancesco@istitutozaccaria.it;NULL;2025-09-09 22:10:43;2025-09-09 22:10:43;NULL
+961;;Chiara Conalbi;IC Margherita Hack di Assago;NULL;NULL;NULL;NULL;NULL;NULL;NULL;chiara.conalbi@icmargheritahackassago.edu.it;NULL;2025-09-10 10:55:23;2025-09-10 10:55:23;NULL
+962;;LAURA;POLIZZI;Scuola Secondaria di Primo Grado Rancilio;NULL;NULL;PARABIAGO;NULL;NULL;NULL;NULL;NULL;2025-09-10 13:53:12;2025-09-10 13:53:12;NULL
+963;;Istituto;Casa degli Angeli;NULL;NULL;NULL;Lecco;NULL;NULL;NULL;NULL;NULL;2025-09-13 07:42:54;2025-09-13 07:42:54;NULL
+964;;Scuola Media;Maffucci;NULL;NULL;NULL;Milano;NULL;NULL;NULL;NULL;NULL;2025-09-14 13:45:21;2025-09-14 13:45:21;NULL
+965;;Sabrina;GILARDI;IC MANZONI;NULL;NULL;SAMARATE;NULL;NULL;NULL;gilardisabrina.visco@iccmanzonisamarate.edu.it;NULL;2025-09-14 19:31:08;2025-09-14 19:31:08;NULL

@@ -1,0 +1,251 @@
+1;NULL;Ristorante
+2;NULL;Pranzo al sacco
+3;NULL;Guida turistica
+4;NULL;Ingresso museo
+5;NULL;Polizza UnipolSai
+6;NULL;Guida naturalistica
+7;1;Guida turistica colosseo
+8;NULL;Tassa di soggiorno
+9;NULL;assicurazione facoltativa annullamento
+10;22;prenotazione treno
+11;NULL;Auricolari per visite
+12;NULL;Giro in battello
+13;NULL;Trasferimento
+14;NULL;Bus per itinerario
+15;NULL;Agriturismo
+16;15;serata discoteca
+17;NULL;Entrata parco divertimenti
+18;28;penale annullamento
+19;NULL;Miniera del sale
+20;NULL;Transfer
+21;NULL;Polizza Globy School Friend Card (Allianz)
+22;NULL;SKIPASS
+23;NULL;Welcome Card Berlino
+24;NULL;Paris Visite
+25;NULL;Biglietto ACTV Venezia
+26;NULL;gestione pratica
+27;NULL;riduzione 3 e 4 letto
+28;NULL;Escursione
+29;NULL;Parco Giardino Sigurtà
+30;NULL;INGRESSO DYNAMO CAMP
+31;NULL;BOSCO PARK
+32;NULL;Andes Navigazione
+33;NULL;PIZZERIA SANTA FELICITA
+34;NULL;Castello Haut-Koenigsbourg
+35;NULL;Linea Maginot di Fort Schoenenbourg
+36;NULL;MUSEO NAZIONALE DEL CINEMA
+37;NULL;PIZZERIA MAMELI
+38;NULL;pacchetto lezioni di lingua
+39;NULL;CHILDREN'S MUSEUM
+40;NULL;MC DONALD'S
+41;NULL;CASTELLO BRESCIA
+42;NULL;INGRESSI
+43;NULL;Valencia Tourist Card
+44;NULL;Treno Lisbona-Porto
+45;NULL;Musei reali e Palazzo Ducale Torino
+46;NULL;the globe Shekespears theatre
+47;NULL;WORNER BROS STUDIOS
+48;NULL;city card London
+49;NULL;Radio guide noleggio
+50;NULL;ZTL
+51;NULL;navigazione delta del Po
+52;NULL;catacombe san Callisto
+53;NULL;Mini stay - Malta
+54;NULL;Visita di Ravenna - Tour classico
+55;NULL;Packed lunch
+56;NULL;workshop the globe theater
+57;NULL;Mozia
+58;NULL;supplemento volo
+59;NULL;English lessons
+60;NULL;Placement test
+61;NULL;Certificato di frequenza
+62;NULL;Attività organizzate
+63;NULL;Lezioni di lingua spagnola
+64;NULL;Materiale didattico
+65;NULL;Accommodation
+66;NULL;Carnet di viaggi
+67;NULL;Assistenza AIP
+68;NULL;Escursione di mezza giornata
+69;NULL;Escursione di intera giornata
+70;NULL;Lezioni per insegnate
+71;39;NOBIS COMPAGNIA ASSICURAZIONI
+72;NULL;attività pomeridiane
+73;2;bagaglio 15 kg
+74;NULL;trasporti ACTV Venezia mezzi pubblici
+75;NULL;ticket 5 terre express
+76;NULL;Basilica di San Pietro
+77;NULL;Musei Vaticani e Grotte Vaticane
+78;NULL;UnipolSai (NO COVID)
+79;NULL;crociera sui canali amsterdam
+80;NULL;bagaglio a mano 10 kg Ryanair no da stiva
+81;NULL;school trip  soggiorni studio
+82;NULL;ticket ingresso VAN GOGH MUSEUM
+83;NULL;trip student
+84;NULL;parco Montesole
+85;NULL;Leader pocket money
+86;NULL;Polizza multirischio viaggi (NOBIS Assicurazioni)
+87;NULL;Travelcard
+88;NULL;Trenino panoramico Cannes
+89;NULL;ALUNNO DVA
+90;NULL;Polizza UnipolSai Student Trip
+91;NULL;museo egizio
+92;NULL;navigazione sul Brenta
+93;NULL;PIZZERIA
+94;NULL;ANIMATORE
+95;NULL;Pista del Mare Cecina
+96;NULL;"Parco Avventura ""Il Giardino Sospeso"""
+97;NULL;ORIENTEERING
+98;NULL;ristorante Gallo Bargiglio Rosso
+99;NULL;castello di Grinzane Cavour
+100;NULL;villa Rotonda Vicenza
+101;NULL;reggia di Versailles
+102;NULL;tour eiffel
+103;NULL;bateaux mouches
+104;NULL;parco avventura Fontainemore
+105;NULL;Navigazione
+106;NULL;PIZZERIA
+107;NULL;FABBRICA CIOCCOLATO
+108;NULL;LABORATORIO
+109;NULL;PRANZI
+110;NULL;ASSICURAZIONE VIAGGIO ALLIANZ
+111;NULL;TOUR ORGANIZZATO ANDALUCIA
+112;NULL;PCTO
+113;NULL;deposito bagaglio stazione Ferroviaria
+114;NULL;Assicurazione Optima Tailor Made Italia Europa
+115;39;ASSICURAZIONE NOBIS SOLO VOLO
+116;NULL;scuola sci
+117;NULL;POLIZZA ALL INCLUSIVE
+118;NULL;Assicurazione Optimas Gruppi
+119;NULL;PALAZZO DUCALE CON CAMERA DEGLI SPOSI
+120;NULL;REGGIA DI VENARIA
+121;NULL;Lezioni di lingua inglese
+122;NULL;BERLIN WELCOM CARD
+123;NULL;bus HOP ON HOP OFF
+124;NULL;Welcome pack
+125;NULL;SIM card
+126;NULL;SCUOLA SCI  5 GIORNI
+127;NULL;SCUOLA SCI
+128;NULL;Rafting Vigevano
+129;NULL;tassa di servizio
+130;NULL;pacchetto bevande analcolico
+131;NULL;tasse portuali
+132;NULL;bus 54 posti
+133;NULL;museo interattivo SHAKESPEARES
+134;NULL;workshop di scrittura Shakesperiana
+135;NULL;Lezioni di lingua tedesca
+136;NULL;Parc Guell
+137;NULL;AFFITO SALA PER ANIMAZIONE
+138;NULL;Skipass
+139;NULL;Traghetto
+140;NULL;serata karaoke
+141;NULL;Assistenza aeroportuale
+142;NULL;SCUOLA SCI Pinzolo
+143;NULL;Attività extra pomeridiane
+144;NULL;INGRESSO GROTTE DI TOIRANO
+145;NULL;OPZIONE Weekend
+146;NULL;GIRO IN BARCA AL LAGO DI VIVERONE
+147;NULL;INGRESSO CASTELLO DI MASINO
+148;NULL;BIGLIETTO MATCH
+149;NULL;GROTTE FRASASSI
+150;NULL;INGRESSO PARC ANIMALIER D'INTROD
+151;NULL;INGRESSO FORTE DI BARD
+152;NULL;INGRESSO AL RICETTO DI CANDELO
+153;NULL;INGRESSO CASTELLO DI MIRAMARE
+154;NULL;INGRESSO ALLA GROTTA GIGANTE
+155;NULL;VISITA ALL'IMMAGINARIO SCIENTIFICO
+156;NULL;Corso Vela
+157;NULL;Assicurazione School Travel Assistance con Annullamento
+158;NULL;Museo della Carta Fabriano
+159;NULL;ingresso Dachau
+160;NULL;Torino + Piemonte Card Junior (3 giorni)
+161;NULL;MUSEO DELLA SCIENZA E DELLA TECNICA
+162;NULL;VISITA CON GUIDA
+163;NULL;radio guide
+164;NULL;Planetario e Osservatorio Astronomico
+165;NULL;INGRESSO TEATRO
+166;NULL;biglietto circumvesuviana
+167;NULL;Supplemento diete speciali
+168;NULL;Bagaglio
+169;NULL;NOTA BENE
+170;NULL;scuola sci Spiazzi di Gromo
+171;NULL;skipass
+172;NULL;FUNICOLARE BERGAMO ALTA
+173;NULL;MERENDA REALE
+174;NULL;Adige Rafting
+175;NULL;DEPOSITO BAGAGLI
+176;NULL;PARCO GESSI
+177;NULL;CHOCO STORY
+178;NULL;SPAZIO COPERTO PER PRANZO A SACCO
+179;NULL;Leader accompagnatore
+180;NULL;cascate delle marmore
+181;NULL;NOLEGGIO ATTREZZATURA SCI
+182;NULL;ciaspolata
+183;NULL;noleggio pattini su ghiaccio
+184;NULL;Cena in ristorante
+185;NULL;ACQUARIO DI GENOVA
+186;NULL;Caccia al tesoro - scopri la città
+187;NULL;Pranzo in pizzeria
+188;NULL;Laboratorio di apprendimento
+189;NULL;Cauzione
+190;NULL;Vittoriale Gardone Riviera (BS)
+191;NULL;Grotte di Catullo Sirmione (BS)
+192;NULL;JUVENTUS STADIUM
+193;NULL;Pranzo in ristorante
+194;NULL;Pranzo in ristorante
+195;NULL;Pranzo in ristorante
+196;NULL;Funicolare Castel San Pietro
+197;NULL;"LABORATORIO OSSERVATORIO ""ROSETTA A CACCIA DI UNA COMETA"""
+198;NULL;PRANZO IN RISTORANTE K2
+199;NULL;MUSEO DEL GIOIELLO VICENZA LABORATORIO
+200;NULL;PIZZERIA RISTORANTE X GIUGNO A VICENZA
+201;NULL;PASSEGGIATA SULLA BIODIVERSITA' E LABORATORI CON LE ERBE E BURRIFICAZIONE
+202;NULL;PASSEGGIATA NATURALISTICA SUL CARSISMO E LE GEOLOGIA DEL TERRITORIO
+203;NULL;Noleggio audioguide
+204;NULL;Ingresso Spanische Hofreitschule
+205;NULL;Movieland
+206;NULL;Belvedere Palazzo Lombardia
+207;NULL;Zipline - Arcansel
+208;NULL;Escursione con ciaspole
+209;NULL;Motoslitta
+210;NULL;Escursione fluviale
+211;NULL;MUSEO AUTO TORINO
+212;NULL;Esperienza realtà virtuale
+213;NULL;Educatore notturno
+214;NULL;Trasporto pubblico
+215;NULL;Leader supplementare
+216;NULL;Disco Tropics
+217;NULL;St. Trop'
+218;NULL;Sassy Social Club
+219;NULL;Pachá Barcelona
+220;NULL;Escursione a Barcellona in giornata
+221;NULL;Deposito bagagli - Stow your bags
+222;NULL;Deposito bagagli - Kipoint
+223;NULL;Ingresso Biennale di Venezia
+224;NULL;Ingresso Teatro La Fenice
+225;NULL;Lunch box
+226;NULL;Escursione in gommone isola Tavolara e isole minori
+227;NULL;Escursione in Kayak Golfo Aranci
+228;NULL;Escursione combinata Vesuvio-Pompei
+229;NULL;Visita Guidata Reggia di Caserta
+230;NULL;Palazzo Reale Napoli
+231;NULL;Supplemento check-in
+232;NULL;tassa di soggiorno
+233;NULL;Escape City Box
+234;NULL;Bus 55 posti
+235;NULL;Pernottamento
+236;NULL;Colazione
+237;NULL;Cena
+238;NULL;Acqua
+239;NULL;Pasti
+240;NULL;Bevande
+241;NULL;Extra
+242;NULL;Assicurazione Unipol All Inclusive
+243;NULL;Visita al Parlamento Europeo
+244;NULL;Crociera fluviale
+245;NULL;Tour panoramico nel Delta del Po
+246;NULL;PICCOLI ARTISTI DEL MOSAICO
+247;NULL;Pranzo nel Delta del Po
+248;NULL;Ingresso monumenti Ravenna
+249;NULL;Giotto Pass Firenze
+250;NULL;museo interattivo Leonardo Da Vinci
+251;NULL;VISITA ALLE SALINE DI CERVIA
